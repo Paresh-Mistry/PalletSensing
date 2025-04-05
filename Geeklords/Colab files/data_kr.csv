@@ -1,0 +1,3542 @@
+Route_ID,timestamp,latitude,longitude
+0_Austin_Los Angeles,00:00,30.267115,-97.743072
+0_Austin_Los Angeles,00:00,30.274387,-97.761541
+0_Austin_Los Angeles,00:00,30.264452,-97.786738
+0_Austin_Los Angeles,00:00,30.236759,-97.840425
+0_Austin_Los Angeles,00:00,30.232651,-97.876297
+0_Austin_Los Angeles,00:00,30.232133,-97.925248
+0_Austin_Los Angeles,00:00,30.210645,-97.969424
+0_Austin_Los Angeles,00:00,30.19631,-98.006981
+0_Austin_Los Angeles,00:00,30.195217,-98.058647
+0_Austin_Los Angeles,00:00,30.192909,-98.099022
+0_Austin_Los Angeles,00:00,30.205646,-98.133184
+0_Austin_Los Angeles,00:00,30.197786,-98.177872
+0_Austin_Los Angeles,00:00,30.194614,-98.241727
+0_Austin_Los Angeles,00:00,30.197652,-98.326223
+0_Austin_Los Angeles,00:00,30.214121,-98.37914
+0_Austin_Los Angeles,00:00,30.270616,-98.399347
+0_Austin_Los Angeles,00:00,30.271244,-98.437587
+0_Austin_Los Angeles,00:00,30.252047,-98.52958
+0_Austin_Los Angeles,00:00,30.23463,-98.613384
+0_Austin_Los Angeles,00:00,30.220722,-98.709393
+0_Austin_Los Angeles,00:00,30.227764,-98.820686
+0_Austin_Los Angeles,00:00,30.264329,-98.85727
+0_Austin_Los Angeles,00:00,30.285496,-98.887276
+0_Austin_Los Angeles,00:00,30.29912,-98.999757
+0_Austin_Los Angeles,00:00,30.300418,-99.1736
+0_Austin_Los Angeles,00:00,30.294274,-99.500319
+0_Austin_Los Angeles,00:00,30.404046,-99.652425
+0_Austin_Los Angeles,00:00,30.488866,-99.742218
+0_Austin_Los Angeles,00:00,30.500988,-99.927762
+0_Austin_Los Angeles,00:00,30.488862,-100.033471
+0_Austin_Los Angeles,00:00,30.443826,-100.202029
+0_Austin_Los Angeles,00:00,30.560403,-100.512729
+0_Austin_Los Angeles,00:00,30.615195,-100.743645
+0_Austin_Los Angeles,00:00,30.702953,-101.125311
+0_Austin_Los Angeles,00:00,30.67786,-101.331673
+0_Austin_Los Angeles,00:00,30.713584,-101.524511
+0_Austin_Los Angeles,00:00,30.747569,-101.695486
+0_Austin_Los Angeles,00:00,30.716664,-101.805267
+0_Austin_Los Angeles,00:00,30.859814,-102.077587
+0_Austin_Los Angeles,00:00,30.893734,-102.381636
+0_Austin_Los Angeles,00:00,30.881884,-102.679849
+0_Austin_Los Angeles,00:00,30.894347,-102.925004
+0_Austin_Los Angeles,00:00,30.939256,-103.31519
+0_Austin_Los Angeles,00:00,31.002947,-103.710921
+0_Austin_Los Angeles,00:00,31.052555,-103.977818
+0_Austin_Los Angeles,00:00,31.083262,-104.073182
+0_Austin_Los Angeles,00:00,31.062044,-104.152762
+0_Austin_Los Angeles,00:00,31.067458,-104.223035
+0_Austin_Los Angeles,00:00,31.072942,-104.403029
+0_Austin_Los Angeles,00:00,31.043047,-104.750505
+0_Austin_Los Angeles,00:00,31.037212,-104.868708
+0_Austin_Los Angeles,00:00,31.054699,-104.953282
+0_Austin_Los Angeles,00:00,31.072256,-105.007687
+0_Austin_Los Angeles,00:00,31.17383,-105.360124
+0_Austin_Los Angeles,00:00,31.217056,-105.488592
+0_Austin_Los Angeles,00:00,31.183545,-105.619945
+0_Austin_Los Angeles,00:00,31.235415,-105.7851
+0_Austin_Los Angeles,00:00,31.337262,-105.886111
+0_Austin_Los Angeles,00:00,31.470985,-106.058918
+0_Austin_Los Angeles,00:00,31.543271,-106.149454
+0_Austin_Los Angeles,00:00,31.643011,-106.226751
+0_Austin_Los Angeles,00:00,31.748504,-106.33855
+0_Austin_Los Angeles,00:00,31.777512,-106.425747
+0_Austin_Los Angeles,00:00,31.759026,-106.498245
+0_Austin_Los Angeles,00:00,31.800323,-106.519953
+0_Austin_Los Angeles,00:00,31.84076,-106.570713
+0_Austin_Los Angeles,00:00,32.052052,-106.600413
+0_Austin_Los Angeles,00:00,32.264965,-106.737341
+0_Austin_Los Angeles,00:00,32.286851,-106.841461
+0_Austin_Los Angeles,00:00,32.26535,-106.981946
+0_Austin_Los Angeles,00:00,32.242035,-107.251072
+0_Austin_Los Angeles,00:00,32.236337,-107.389305
+0_Austin_Los Angeles,00:00,32.277607,-107.706936
+0_Austin_Los Angeles,00:00,32.243346,-107.980864
+0_Austin_Los Angeles,00:00,32.179893,-108.385132
+0_Austin_Los Angeles,00:00,32.327441,-108.63261
+0_Austin_Los Angeles,00:00,32.354739,-108.749532
+0_Austin_Los Angeles,00:00,32.237887,-108.95397
+0_Austin_Los Angeles,00:00,32.241004,-109.106719
+0_Austin_Los Angeles,00:00,32.275514,-109.258269
+0_Austin_Los Angeles,00:00,32.305164,-109.387714
+0_Austin_Los Angeles,00:00,32.330045,-109.513703
+0_Austin_Los Angeles,00:00,32.348826,-109.742093
+0_Austin_Los Angeles,00:00,32.227999,-109.873966
+0_Austin_Los Angeles,00:00,32.086679,-110.04321
+0_Austin_Los Angeles,00:00,31.968354,-110.245213
+0_Austin_Los Angeles,00:00,31.970779,-110.328975
+0_Austin_Los Angeles,00:00,31.965654,-110.460674
+0_Austin_Los Angeles,00:00,31.985766,-110.565191
+0_Austin_Los Angeles,00:00,31.997492,-110.65918
+0_Austin_Los Angeles,00:00,32.044778,-110.744838
+0_Austin_Los Angeles,00:00,32.132489,-110.885894
+0_Austin_Los Angeles,00:00,32.174189,-110.93869
+0_Austin_Los Angeles,00:00,32.198035,-110.978641
+0_Austin_Los Angeles,00:00,32.258584,-110.999965
+0_Austin_Los Angeles,00:00,32.331759,-111.05952
+0_Austin_Los Angeles,00:00,32.445063,-111.192163
+0_Austin_Los Angeles,00:00,32.647692,-111.393046
+0_Austin_Los Angeles,00:00,32.735042,-111.549868
+0_Austin_Los Angeles,00:00,32.858569,-111.687016
+0_Austin_Los Angeles,00:00,33.028523,-111.773004
+0_Austin_Los Angeles,00:00,33.277826,-111.965276
+0_Austin_Los Angeles,00:00,33.333708,-111.972064
+0_Austin_Los Angeles,00:00,33.405098,-111.968456
+0_Austin_Los Angeles,00:00,33.427244,-112.034001
+0_Austin_Los Angeles,00:00,33.462156,-112.054102
+0_Austin_Los Angeles,00:00,33.462893,-112.165938
+0_Austin_Los Angeles,00:00,33.458151,-112.314102
+0_Austin_Los Angeles,00:00,33.462283,-112.418947
+0_Austin_Los Angeles,00:00,33.44354,-112.560512
+0_Austin_Los Angeles,00:00,33.443304,-112.694801
+0_Austin_Los Angeles,00:00,33.521545,-113.073465
+0_Austin_Los Angeles,00:00,33.563987,-113.318092
+0_Austin_Los Angeles,00:00,33.615135,-113.658903
+0_Austin_Los Angeles,00:00,33.647225,-113.888154
+0_Austin_Los Angeles,00:00,33.66891,-114.04099
+0_Austin_Los Angeles,00:00,33.66719,-114.186619
+0_Austin_Los Angeles,00:00,33.639154,-114.387462
+0_Austin_Los Angeles,00:00,33.606468,-114.537267
+0_Austin_Los Angeles,00:00,33.6079,-114.905897
+0_Austin_Los Angeles,00:00,33.710571,-115.411752
+0_Austin_Los Angeles,00:00,33.666369,-115.892872
+0_Austin_Los Angeles,00:00,33.699635,-116.065662
+0_Austin_Los Angeles,00:00,33.71521,-116.176698
+0_Austin_Los Angeles,00:00,33.75427,-116.283393
+0_Austin_Los Angeles,00:00,33.82531,-116.41745
+0_Austin_Los Angeles,00:00,33.911419,-116.588969
+0_Austin_Los Angeles,00:00,33.92125,-116.712888
+0_Austin_Los Angeles,00:00,33.927995,-116.846286
+0_Austin_Los Angeles,00:00,33.931462,-116.986167
+0_Austin_Los Angeles,00:00,33.980253,-117.05068
+0_Austin_Los Angeles,00:00,34.036409,-117.148617
+0_Austin_Los Angeles,00:00,34.066713,-117.2147
+0_Austin_Los Angeles,00:00,34.065004,-117.313623
+0_Austin_Los Angeles,00:00,34.066952,-117.454945
+0_Austin_Los Angeles,00:00,34.068159,-117.600902
+0_Austin_Los Angeles,00:00,34.078487,-117.741233
+0_Austin_Los Angeles,00:00,34.068497,-117.850446
+0_Austin_Los Angeles,00:00,34.065532,-117.99719
+0_Austin_Los Angeles,00:00,34.072719,-118.055515
+0_Austin_Los Angeles,00:00,34.063516,-118.16118
+0_Austin_Los Angeles,00:00,34.054926,-118.2207
+1_Austin_Los Angeles,00:00,30.267115,-97.743072
+1_Austin_Los Angeles,00:00,30.307975,-97.711203
+1_Austin_Los Angeles,00:00,30.370428,-97.720457
+1_Austin_Los Angeles,00:00,30.437193,-97.775203
+1_Austin_Los Angeles,00:00,30.52328,-97.81569
+1_Austin_Los Angeles,00:00,30.608244,-97.860438
+1_Austin_Los Angeles,00:00,30.676959,-97.879177
+1_Austin_Los Angeles,00:00,30.778857,-97.878366
+1_Austin_Los Angeles,00:00,30.88745,-97.927691
+1_Austin_Los Angeles,00:00,30.928287,-98.001557
+1_Austin_Los Angeles,00:00,30.992525,-98.103392
+1_Austin_Los Angeles,00:00,31.050611,-98.175017
+1_Austin_Los Angeles,00:00,31.091827,-98.20165
+1_Austin_Los Angeles,00:00,31.194024,-98.381023
+1_Austin_Los Angeles,00:00,31.312669,-98.483224
+1_Austin_Los Angeles,00:00,31.451483,-98.569664
+1_Austin_Los Angeles,00:00,31.554832,-98.656357
+1_Austin_Los Angeles,00:00,31.70115,-98.843493
+1_Austin_Los Angeles,00:00,31.728882,-98.978342
+1_Austin_Los Angeles,00:00,31.718861,-99.110277
+1_Austin_Los Angeles,00:00,31.743989,-99.336018
+1_Austin_Los Angeles,00:00,31.827232,-99.434033
+1_Austin_Los Angeles,00:00,31.863452,-99.61445
+1_Austin_Los Angeles,00:00,31.93262,-99.775373
+1_Austin_Los Angeles,00:00,31.949887,-99.960631
+1_Austin_Los Angeles,00:00,32.048765,-100.113276
+1_Austin_Los Angeles,00:00,32.205739,-100.241556
+1_Austin_Los Angeles,00:00,32.365078,-100.358974
+1_Austin_Los Angeles,00:00,32.44915,-100.433131
+1_Austin_Los Angeles,00:00,32.453539,-100.550349
+1_Austin_Los Angeles,00:00,32.571883,-100.717063
+1_Austin_Los Angeles,00:00,32.68929,-100.856409
+1_Austin_Los Angeles,00:00,32.755719,-100.928352
+1_Austin_Los Angeles,00:00,32.86178,-101.026013
+1_Austin_Los Angeles,00:00,32.940875,-101.076501
+1_Austin_Los Angeles,00:00,33.01138,-101.172786
+1_Austin_Los Angeles,00:00,33.110402,-101.270018
+1_Austin_Los Angeles,00:00,33.183656,-101.372433
+1_Austin_Los Angeles,00:00,33.220757,-101.437346
+1_Austin_Los Angeles,00:00,33.411738,-101.628949
+1_Austin_Los Angeles,00:00,33.47503,-101.696821
+1_Austin_Los Angeles,00:00,33.527327,-101.809167
+1_Austin_Los Angeles,00:00,33.550626,-101.855385
+1_Austin_Los Angeles,00:00,33.581471,-101.855156
+1_Austin_Los Angeles,00:00,33.622017,-101.901278
+1_Austin_Los Angeles,00:00,33.675404,-101.982007
+1_Austin_Los Angeles,00:00,33.708577,-102.020471
+1_Austin_Los Angeles,00:00,33.81704,-102.179438
+1_Austin_Los Angeles,00:00,33.904884,-102.335517
+1_Austin_Los Angeles,00:00,33.995463,-102.420867
+1_Austin_Los Angeles,00:00,34.197944,-102.682368
+1_Austin_Los Angeles,00:00,34.297959,-102.842296
+1_Austin_Los Angeles,00:00,34.378026,-103.001181
+1_Austin_Los Angeles,00:00,34.389433,-103.068988
+1_Austin_Los Angeles,00:00,34.395897,-103.17246
+1_Austin_Los Angeles,00:00,34.400781,-103.220489
+1_Austin_Los Angeles,00:00,34.405206,-103.2998
+1_Austin_Los Angeles,00:00,34.410605,-103.397375
+1_Austin_Los Angeles,00:00,34.424553,-103.632645
+1_Austin_Los Angeles,00:00,34.449739,-103.912479
+1_Austin_Los Angeles,00:00,34.443907,-104.122047
+1_Austin_Los Angeles,00:00,34.487112,-104.245621
+1_Austin_Los Angeles,00:00,34.65805,-104.32845
+1_Austin_Los Angeles,00:00,34.880724,-104.588029
+1_Austin_Los Angeles,00:00,34.951429,-104.717655
+1_Austin_Los Angeles,00:00,34.995392,-105.372421
+1_Austin_Los Angeles,00:00,35.005394,-105.845696
+1_Austin_Los Angeles,00:00,35.085119,-106.24596
+1_Austin_Los Angeles,00:00,35.110422,-106.308678
+1_Austin_Los Angeles,00:00,35.099283,-106.366501
+1_Austin_Los Angeles,00:00,35.080318,-106.406914
+1_Austin_Los Angeles,00:00,35.061424,-106.462683
+1_Austin_Los Angeles,00:00,35.103959,-106.586938
+1_Austin_Los Angeles,00:00,35.105,-106.673649
+1_Austin_Los Angeles,00:00,35.058747,-106.813369
+1_Austin_Los Angeles,00:00,35.004653,-107.047431
+1_Austin_Los Angeles,00:00,35.009288,-107.318592
+1_Austin_Los Angeles,00:00,35.04652,-107.505432
+1_Austin_Los Angeles,00:00,35.070634,-107.676238
+1_Austin_Los Angeles,00:00,35.14745,-107.860278
+1_Austin_Los Angeles,00:00,35.296108,-107.988499
+1_Austin_Los Angeles,00:00,35.393917,-108.211176
+1_Austin_Los Angeles,00:00,35.472872,-108.41816
+1_Austin_Los Angeles,00:00,35.532338,-108.645708
+1_Austin_Los Angeles,00:00,35.528821,-108.750644
+1_Austin_Los Angeles,00:00,35.493447,-108.874935
+1_Austin_Los Angeles,00:00,35.370617,-109.0417
+1_Austin_Los Angeles,00:00,35.282423,-109.203302
+1_Austin_Los Angeles,00:00,35.192302,-109.427982
+1_Austin_Los Angeles,00:00,35.104824,-109.610151
+1_Austin_Los Angeles,00:00,35.022835,-109.847138
+1_Austin_Los Angeles,00:00,34.944288,-110.124869
+1_Austin_Los Angeles,00:00,34.925416,-110.263924
+1_Austin_Los Angeles,00:00,34.969448,-110.43392
+1_Austin_Los Angeles,00:00,35.017623,-110.673166
+1_Austin_Los Angeles,00:00,35.044323,-110.755936
+1_Austin_Los Angeles,00:00,35.10317,-110.993061
+1_Austin_Los Angeles,00:00,35.159652,-111.266659
+1_Austin_Los Angeles,00:00,35.202373,-111.470008
+1_Austin_Los Angeles,00:00,35.192259,-111.621515
+1_Austin_Los Angeles,00:00,35.176855,-111.673291
+1_Austin_Los Angeles,00:00,35.249188,-111.855774
+1_Austin_Los Angeles,00:00,35.25994,-112.028955
+1_Austin_Los Angeles,00:00,35.261567,-112.188268
+1_Austin_Los Angeles,00:00,35.219661,-112.280628
+1_Austin_Los Angeles,00:00,35.216819,-112.396486
+1_Austin_Los Angeles,00:00,35.220571,-112.497805
+1_Austin_Los Angeles,00:00,35.287042,-112.807626
+1_Austin_Los Angeles,00:00,35.293832,-113.031186
+1_Austin_Los Angeles,00:00,35.20893,-113.273719
+1_Austin_Los Angeles,00:00,35.189655,-113.443089
+1_Austin_Los Angeles,00:00,35.162027,-113.537342
+1_Austin_Los Angeles,00:00,35.160072,-113.702393
+1_Austin_Los Angeles,00:00,35.217434,-114.03518
+1_Austin_Los Angeles,00:00,35.132185,-114.105304
+1_Austin_Los Angeles,00:00,34.911722,-114.153245
+1_Austin_Los Angeles,00:00,34.754437,-114.217742
+1_Austin_Los Angeles,00:00,34.724861,-114.413348
+1_Austin_Los Angeles,00:00,34.726069,-114.543003
+1_Austin_Los Angeles,00:00,34.845823,-114.61422
+1_Austin_Los Angeles,00:00,34.881782,-114.791128
+1_Austin_Los Angeles,00:00,34.845486,-114.969895
+1_Austin_Los Angeles,00:00,34.806492,-115.256695
+1_Austin_Los Angeles,00:00,34.7288,-115.602238
+1_Austin_Los Angeles,00:00,34.733798,-115.866061
+1_Austin_Los Angeles,00:00,34.718286,-116.029461
+1_Austin_Los Angeles,00:00,34.739191,-116.31212
+1_Austin_Los Angeles,00:00,34.829564,-116.687868
+1_Austin_Los Angeles,00:00,34.88622,-117.012032
+1_Austin_Los Angeles,00:00,34.68105,-117.212935
+1_Austin_Los Angeles,00:00,34.395169,-117.405225
+1_Austin_Los Angeles,00:00,34.345098,-117.48003
+1_Austin_Los Angeles,00:00,34.245958,-117.436745
+1_Austin_Los Angeles,00:00,34.13585,-117.496766
+1_Austin_Los Angeles,00:00,34.080859,-117.628655
+1_Austin_Los Angeles,00:00,34.072415,-117.790524
+1_Austin_Los Angeles,00:00,34.072421,-117.926865
+1_Austin_Los Angeles,00:00,34.06855,-118.039609
+1_Austin_Los Angeles,00:00,34.064859,-118.158236
+1_Austin_Los Angeles,00:00,34.053624,-118.222554
+0_Austin_Houston,00:00,30.267115,-97.743072
+0_Austin_Houston,00:00,30.260409,-97.710596
+0_Austin_Houston,00:00,30.223247,-97.680407
+0_Austin_Houston,00:00,30.189064,-97.58281
+0_Austin_Houston,00:00,30.126148,-97.439784
+0_Austin_Houston,00:00,30.100287,-97.277574
+0_Austin_Houston,00:00,30.031884,-97.161914
+0_Austin_Houston,00:00,29.941757,-97.015616
+0_Austin_Houston,00:00,29.92339,-96.875712
+0_Austin_Houston,00:00,29.860734,-96.737161
+0_Austin_Houston,00:00,29.725557,-96.580586
+0_Austin_Houston,00:00,29.748918,-96.293324
+0_Austin_Houston,00:00,29.779596,-95.976507
+0_Austin_Houston,00:00,29.785067,-95.755762
+0_Austin_Houston,00:00,29.784274,-95.505061
+0_Austin_Houston,00:00,29.777331,-95.371396
+1_Austin_Houston,00:00,30.267115,-97.743072
+1_Austin_Houston,00:00,30.321278,-97.695876
+1_Austin_Houston,00:00,30.349309,-97.529934
+1_Austin_Houston,00:00,30.347466,-97.383176
+1_Austin_Houston,00:00,30.279175,-97.242448
+1_Austin_Houston,00:00,30.184396,-97.040853
+1_Austin_Houston,00:00,30.181673,-96.930636
+1_Austin_Houston,00:00,30.15069,-96.790883
+1_Austin_Houston,00:00,30.162507,-96.616448
+1_Austin_Houston,00:00,30.18498,-96.491124
+1_Austin_Houston,00:00,30.142654,-96.362416
+1_Austin_Houston,00:00,30.130788,-96.22549
+1_Austin_Houston,00:00,30.090526,-96.028283
+1_Austin_Houston,00:00,29.985545,-95.734031
+1_Austin_Houston,00:00,29.889806,-95.583786
+1_Austin_Houston,00:00,29.813857,-95.391284
+1_Austin_Houston,00:00,29.76013,-95.370182
+0_Austin_Philadelphia,00:00,30.267115,-97.743072
+0_Austin_Philadelphia,00:00,30.321726,-97.706722
+0_Austin_Philadelphia,00:00,30.45144,-97.666302
+0_Austin_Philadelphia,00:00,30.60732,-97.686264
+0_Austin_Philadelphia,00:00,30.76854,-97.628236
+0_Austin_Philadelphia,00:00,30.958161,-97.533627
+0_Austin_Philadelphia,00:00,31.0774,-97.415688
+0_Austin_Philadelphia,00:00,31.146517,-97.326876
+0_Austin_Philadelphia,00:00,31.2836,-97.257346
+0_Austin_Philadelphia,00:00,31.403365,-97.204825
+0_Austin_Philadelphia,00:00,31.544346,-97.126492
+0_Austin_Philadelphia,00:00,31.610475,-97.103381
+0_Austin_Philadelphia,00:00,31.752004,-97.104015
+0_Austin_Philadelphia,00:00,31.869287,-97.08216
+0_Austin_Philadelphia,00:00,31.990943,-97.104148
+0_Austin_Philadelphia,00:00,32.105117,-97.008654
+0_Austin_Philadelphia,00:00,32.195623,-96.899416
+0_Austin_Philadelphia,00:00,32.32385,-96.859692
+0_Austin_Philadelphia,00:00,32.427489,-96.861787
+0_Austin_Philadelphia,00:00,32.555198,-96.822343
+0_Austin_Philadelphia,00:00,32.690295,-96.822982
+0_Austin_Philadelphia,00:00,32.756154,-96.809493
+0_Austin_Philadelphia,00:00,32.785675,-96.767579
+0_Austin_Philadelphia,00:00,32.79979,-96.676274
+0_Austin_Philadelphia,00:00,32.878158,-96.514414
+0_Austin_Philadelphia,00:00,32.928317,-96.389435
+0_Austin_Philadelphia,00:00,32.994795,-96.246847
+0_Austin_Philadelphia,00:00,33.097929,-96.10649
+0_Austin_Philadelphia,00:00,33.133409,-96.046404
+0_Austin_Philadelphia,00:00,33.131372,-95.804748
+0_Austin_Philadelphia,00:00,33.116282,-95.605967
+0_Austin_Philadelphia,00:00,33.149189,-95.444436
+0_Austin_Philadelphia,00:00,33.159357,-95.18833
+0_Austin_Philadelphia,00:00,33.230455,-94.883432
+0_Austin_Philadelphia,00:00,33.392277,-94.588734
+0_Austin_Philadelphia,00:00,33.46849,-94.33211
+0_Austin_Philadelphia,00:00,33.451875,-94.101052
+0_Austin_Philadelphia,00:00,33.575265,-93.84645
+0_Austin_Philadelphia,00:00,33.658375,-93.648778
+0_Austin_Philadelphia,00:00,33.755894,-93.49768
+0_Austin_Philadelphia,00:00,33.942999,-93.242421
+0_Austin_Philadelphia,00:00,34.21369,-93.030601
+0_Austin_Philadelphia,00:00,34.372682,-92.857815
+0_Austin_Philadelphia,00:00,34.537132,-92.674104
+0_Austin_Philadelphia,00:00,34.641203,-92.443069
+0_Austin_Philadelphia,00:00,34.678735,-92.332417
+0_Austin_Philadelphia,00:00,34.71022,-92.271687
+0_Austin_Philadelphia,00:00,34.774217,-92.2609
+0_Austin_Philadelphia,00:00,34.790291,-92.077369
+0_Austin_Philadelphia,00:00,34.816575,-91.660355
+0_Austin_Philadelphia,00:00,34.845657,-91.386926
+0_Austin_Philadelphia,00:00,34.972969,-90.953735
+0_Austin_Philadelphia,00:00,35.098609,-90.60708
+0_Austin_Philadelphia,00:00,35.168247,-90.199425
+0_Austin_Philadelphia,00:00,35.152309,-90.045811
+0_Austin_Philadelphia,00:00,35.190928,-90.011716
+0_Austin_Philadelphia,00:00,35.155545,-89.880261
+0_Austin_Philadelphia,00:00,35.371424,-89.469243
+0_Austin_Philadelphia,00:00,35.650528,-88.890262
+0_Austin_Philadelphia,00:00,35.804265,-88.320773
+0_Austin_Philadelphia,00:00,35.868265,-87.879008
+0_Austin_Philadelphia,00:00,35.93808,-87.570947
+0_Austin_Philadelphia,00:00,36.023619,-87.289516
+0_Austin_Philadelphia,00:00,36.027005,-87.199146
+0_Austin_Philadelphia,00:00,36.08344,-87.098137
+0_Austin_Philadelphia,00:00,36.149336,-86.873226
+0_Austin_Philadelphia,00:00,36.155922,-86.789447
+0_Austin_Philadelphia,00:00,36.142023,-86.652231
+0_Austin_Philadelphia,00:00,36.191099,-86.180908
+0_Austin_Philadelphia,00:00,36.146131,-85.853024
+0_Austin_Philadelphia,00:00,36.090092,-85.722366
+0_Austin_Philadelphia,00:00,36.136121,-85.460668
+0_Austin_Philadelphia,00:00,36.135355,-85.335709
+0_Austin_Philadelphia,00:00,36.080322,-85.211352
+0_Austin_Philadelphia,00:00,35.929426,-84.919016
+0_Austin_Philadelphia,00:00,35.898802,-84.795232
+0_Austin_Philadelphia,00:00,35.897924,-84.651636
+0_Austin_Philadelphia,00:00,35.876852,-84.501793
+0_Austin_Philadelphia,00:00,35.871363,-84.268608
+0_Austin_Philadelphia,00:00,35.937854,-84.00955
+0_Austin_Philadelphia,00:00,35.976589,-83.918064
+0_Austin_Philadelphia,00:00,36.002915,-83.773942
+0_Austin_Philadelphia,00:00,36.024265,-83.470529
+0_Austin_Philadelphia,00:00,36.130491,-83.307095
+0_Austin_Philadelphia,00:00,36.205819,-83.091555
+0_Austin_Philadelphia,00:00,36.352085,-82.760001
+0_Austin_Philadelphia,00:00,36.402001,-82.614722
+0_Austin_Philadelphia,00:00,36.489621,-82.468028
+0_Austin_Philadelphia,00:00,36.53831,-82.352827
+0_Austin_Philadelphia,00:00,36.601221,-82.230871
+0_Austin_Philadelphia,00:00,36.626174,-82.131449
+0_Austin_Philadelphia,00:00,36.690195,-82.020101
+0_Austin_Philadelphia,00:00,36.711894,-81.938549
+0_Austin_Philadelphia,00:00,36.750026,-81.879987
+0_Austin_Philadelphia,00:00,36.782771,-81.735306
+0_Austin_Philadelphia,00:00,36.807306,-81.663253
+0_Austin_Philadelphia,00:00,36.811208,-81.572145
+0_Austin_Philadelphia,00:00,36.831458,-81.501528
+0_Austin_Philadelphia,00:00,36.864056,-81.425463
+0_Austin_Philadelphia,00:00,36.904321,-81.313081
+0_Austin_Philadelphia,00:00,36.944746,-81.147288
+0_Austin_Philadelphia,00:00,36.954888,-81.055649
+0_Austin_Philadelphia,00:00,36.937984,-80.99992
+0_Austin_Philadelphia,00:00,36.947365,-80.896203
+0_Austin_Philadelphia,00:00,37.002969,-80.761128
+0_Austin_Philadelphia,00:00,37.070772,-80.704697
+0_Austin_Philadelphia,00:00,37.086011,-80.590034
+0_Austin_Philadelphia,00:00,37.114916,-80.434417
+0_Austin_Philadelphia,00:00,37.153089,-80.326981
+0_Austin_Philadelphia,00:00,37.204019,-80.26604
+0_Austin_Philadelphia,00:00,37.237821,-80.232071
+0_Austin_Philadelphia,00:00,37.26835,-80.1471
+0_Austin_Philadelphia,00:00,37.309288,-80.065328
+0_Austin_Philadelphia,00:00,37.341272,-79.996468
+0_Austin_Philadelphia,00:00,37.366753,-79.923896
+0_Austin_Philadelphia,00:00,37.446733,-79.859004
+0_Austin_Philadelphia,00:00,37.498521,-79.75015
+0_Austin_Philadelphia,00:00,37.546194,-79.667284
+0_Austin_Philadelphia,00:00,37.60927,-79.614058
+0_Austin_Philadelphia,00:00,37.655356,-79.54104
+0_Austin_Philadelphia,00:00,37.726599,-79.43332
+0_Austin_Philadelphia,00:00,37.839504,-79.367355
+0_Austin_Philadelphia,00:00,37.890536,-79.277371
+0_Austin_Philadelphia,00:00,37.976777,-79.186171
+0_Austin_Philadelphia,00:00,38.06059,-79.110798
+0_Austin_Philadelphia,00:00,38.127007,-79.038923
+0_Austin_Philadelphia,00:00,38.190419,-78.996975
+0_Austin_Philadelphia,00:00,38.270776,-78.937388
+0_Austin_Philadelphia,00:00,38.369409,-78.919957
+0_Austin_Philadelphia,00:00,38.417409,-78.884635
+0_Austin_Philadelphia,00:00,38.444551,-78.842997
+0_Austin_Philadelphia,00:00,38.516355,-78.779091
+0_Austin_Philadelphia,00:00,38.623215,-78.700882
+0_Austin_Philadelphia,00:00,38.732525,-78.65134
+0_Austin_Philadelphia,00:00,38.840971,-78.559569
+0_Austin_Philadelphia,00:00,38.965379,-78.436239
+0_Austin_Philadelphia,00:00,39.007978,-78.301016
+0_Austin_Philadelphia,00:00,38.953909,-78.182567
+0_Austin_Philadelphia,00:00,38.91452,-78.094083
+0_Austin_Philadelphia,00:00,38.907785,-77.986932
+0_Austin_Philadelphia,00:00,38.889106,-77.907907
+0_Austin_Philadelphia,00:00,38.854633,-77.80025
+0_Austin_Philadelphia,00:00,38.824116,-77.704771
+0_Austin_Philadelphia,00:00,38.797786,-77.585908
+0_Austin_Philadelphia,00:00,38.841308,-77.443023
+0_Austin_Philadelphia,00:00,38.879207,-77.25214
+0_Austin_Philadelphia,00:00,38.926726,-77.213195
+0_Austin_Philadelphia,00:00,38.965569,-77.180548
+0_Austin_Philadelphia,00:00,39.012999,-77.13393
+0_Austin_Philadelphia,00:00,39.005829,-77.074179
+0_Austin_Philadelphia,00:00,39.015867,-77.000264
+0_Austin_Philadelphia,00:00,39.036953,-76.938656
+0_Austin_Philadelphia,00:00,39.127464,-76.863633
+0_Austin_Philadelphia,00:00,39.216524,-76.729176
+0_Austin_Philadelphia,00:00,39.229013,-76.624973
+0_Austin_Philadelphia,00:00,39.276398,-76.553169
+0_Austin_Philadelphia,00:00,39.321253,-76.531277
+0_Austin_Philadelphia,00:00,39.344244,-76.510554
+0_Austin_Philadelphia,00:00,39.398298,-76.429683
+0_Austin_Philadelphia,00:00,39.461256,-76.299541
+0_Austin_Philadelphia,00:00,39.533195,-76.17742
+0_Austin_Philadelphia,00:00,39.592418,-76.067279
+0_Austin_Philadelphia,00:00,39.645393,-75.925025
+0_Austin_Philadelphia,00:00,39.642256,-75.813006
+0_Austin_Philadelphia,00:00,39.662561,-75.689046
+0_Austin_Philadelphia,00:00,39.701861,-75.592327
+0_Austin_Philadelphia,00:00,39.716877,-75.563862
+0_Austin_Philadelphia,00:00,39.782101,-75.47407
+0_Austin_Philadelphia,00:00,39.835502,-75.420149
+0_Austin_Philadelphia,00:00,39.870359,-75.325104
+0_Austin_Philadelphia,00:00,39.876178,-75.267255
+0_Austin_Philadelphia,00:00,39.89209,-75.235194
+0_Austin_Philadelphia,00:00,39.929754,-75.197766
+0_Austin_Philadelphia,00:00,39.959494,-75.180634
+1_Austin_Philadelphia,00:00,30.267115,-97.743072
+1_Austin_Philadelphia,00:00,30.34698,-97.694998
+1_Austin_Philadelphia,00:00,30.515824,-97.68762
+1_Austin_Philadelphia,00:00,30.718414,-97.645874
+1_Austin_Philadelphia,00:00,30.958161,-97.533627
+1_Austin_Philadelphia,00:00,31.095816,-97.369242
+1_Austin_Philadelphia,00:00,31.223768,-97.293733
+1_Austin_Philadelphia,00:00,31.364493,-97.216827
+1_Austin_Philadelphia,00:00,31.544346,-97.126492
+1_Austin_Philadelphia,00:00,31.641104,-97.096292
+1_Austin_Philadelphia,00:00,31.821745,-97.097201
+1_Austin_Philadelphia,00:00,31.964515,-97.118499
+1_Austin_Philadelphia,00:00,32.105117,-97.008654
+1_Austin_Philadelphia,00:00,32.22006,-96.887872
+1_Austin_Philadelphia,00:00,32.377101,-96.864704
+1_Austin_Philadelphia,00:00,32.520563,-96.822042
+1_Austin_Philadelphia,00:00,32.690295,-96.822982
+1_Austin_Philadelphia,00:00,32.765505,-96.804251
+1_Austin_Philadelphia,00:00,32.815851,-96.789205
+1_Austin_Philadelphia,00:00,32.923758,-96.76397
+1_Austin_Philadelphia,00:00,33.029656,-96.708503
+1_Austin_Philadelphia,00:00,33.217417,-96.635971
+1_Austin_Philadelphia,00:00,33.326177,-96.589902
+1_Austin_Philadelphia,00:00,33.562679,-96.603933
+1_Austin_Philadelphia,00:00,33.724967,-96.585255
+1_Austin_Philadelphia,00:00,33.845794,-96.512906
+1_Austin_Philadelphia,00:00,33.945328,-96.417295
+1_Austin_Philadelphia,00:00,34.098009,-96.315666
+1_Austin_Philadelphia,00:00,34.29425,-96.192277
+1_Austin_Philadelphia,00:00,34.391181,-96.126142
+1_Austin_Philadelphia,00:00,34.562298,-96.015968
+1_Austin_Philadelphia,00:00,34.732864,-95.899447
+1_Austin_Philadelphia,00:00,34.890957,-95.780736
+1_Austin_Philadelphia,00:00,35.057754,-95.706713
+1_Austin_Philadelphia,00:00,35.306349,-95.591929
+1_Austin_Philadelphia,00:00,35.451328,-95.547214
+1_Austin_Philadelphia,00:00,35.612651,-95.47177
+1_Austin_Philadelphia,00:00,35.746766,-95.402443
+1_Austin_Philadelphia,00:00,35.852609,-95.402599
+1_Austin_Philadelphia,00:00,36.014147,-95.368597
+1_Austin_Philadelphia,00:00,36.20161,-95.340758
+1_Austin_Philadelphia,00:00,36.343125,-95.305358
+1_Austin_Philadelphia,00:00,36.421905,-95.277069
+1_Austin_Philadelphia,00:00,36.536926,-95.225436
+1_Austin_Philadelphia,00:00,36.618257,-95.161081
+1_Austin_Philadelphia,00:00,36.848692,-94.857484
+1_Austin_Philadelphia,00:00,37.004066,-94.579757
+1_Austin_Philadelphia,00:00,37.081721,-94.312126
+1_Austin_Philadelphia,00:00,37.105044,-93.781052
+1_Austin_Philadelphia,00:00,37.206864,-93.393312
+1_Austin_Philadelphia,00:00,37.271023,-93.103278
+1_Austin_Philadelphia,00:00,37.340369,-92.933177
+1_Austin_Philadelphia,00:00,37.552325,-92.801272
+1_Austin_Philadelphia,00:00,37.742201,-92.588594
+1_Austin_Philadelphia,00:00,37.774355,-92.354996
+1_Austin_Philadelphia,00:00,37.817406,-92.187721
+1_Austin_Philadelphia,00:00,37.836328,-92.096997
+1_Austin_Philadelphia,00:00,37.875796,-92.016133
+1_Austin_Philadelphia,00:00,37.943958,-91.85013
+1_Austin_Philadelphia,00:00,37.967431,-91.759865
+1_Austin_Philadelphia,00:00,38.013087,-91.59249
+1_Austin_Philadelphia,00:00,38.140573,-91.272389
+1_Austin_Philadelphia,00:00,38.311972,-91.057996
+1_Austin_Philadelphia,00:00,38.384842,-90.955685
+1_Austin_Philadelphia,00:00,38.435255,-90.913645
+1_Austin_Philadelphia,00:00,38.48286,-90.840234
+1_Austin_Philadelphia,00:00,38.489225,-90.745369
+1_Austin_Philadelphia,00:00,38.506407,-90.624455
+1_Austin_Philadelphia,00:00,38.527539,-90.539648
+1_Austin_Philadelphia,00:00,38.544318,-90.431895
+1_Austin_Philadelphia,00:00,38.580462,-90.358903
+1_Austin_Philadelphia,00:00,38.6112,-90.302921
+1_Austin_Philadelphia,00:00,38.614665,-90.231329
+1_Austin_Philadelphia,00:00,38.622608,-90.165048
+1_Austin_Philadelphia,00:00,38.678318,-90.014448
+1_Austin_Philadelphia,00:00,38.758199,-89.839641
+1_Austin_Philadelphia,00:00,38.787355,-89.687637
+1_Austin_Philadelphia,00:00,38.826621,-89.552761
+1_Austin_Philadelphia,00:00,38.853567,-89.446029
+1_Austin_Philadelphia,00:00,38.892275,-89.318547
+1_Austin_Philadelphia,00:00,38.943747,-89.206153
+1_Austin_Philadelphia,00:00,38.974268,-89.00641
+1_Austin_Philadelphia,00:00,39.056741,-88.701119
+1_Austin_Philadelphia,00:00,39.168429,-88.382931
+1_Austin_Philadelphia,00:00,39.275153,-88.089903
+1_Austin_Philadelphia,00:00,39.402104,-87.759926
+1_Austin_Philadelphia,00:00,39.427396,-87.576306
+1_Austin_Philadelphia,00:00,39.440963,-87.436035
+1_Austin_Philadelphia,00:00,39.446596,-87.205451
+1_Austin_Philadelphia,00:00,39.522655,-86.886769
+1_Austin_Philadelphia,00:00,39.615673,-86.472577
+1_Austin_Philadelphia,00:00,39.701928,-86.291545
+1_Austin_Philadelphia,00:00,39.734611,-86.239133
+1_Austin_Philadelphia,00:00,39.756072,-86.192352
+1_Austin_Philadelphia,00:00,39.777468,-86.141441
+1_Austin_Philadelphia,00:00,39.801754,-86.090347
+1_Austin_Philadelphia,00:00,39.801812,-85.990726
+1_Austin_Philadelphia,00:00,39.832217,-85.57626
+1_Austin_Philadelphia,00:00,39.852839,-85.386279
+1_Austin_Philadelphia,00:00,39.859657,-84.978686
+1_Austin_Philadelphia,00:00,39.837774,-84.482019
+1_Austin_Philadelphia,00:00,39.864399,-84.217225
+1_Austin_Philadelphia,00:00,39.893459,-83.913572
+1_Austin_Philadelphia,00:00,39.918679,-83.692994
+1_Austin_Philadelphia,00:00,39.962999,-83.310096
+1_Austin_Philadelphia,00:00,39.947723,-83.031928
+1_Austin_Philadelphia,00:00,39.931536,-82.909276
+1_Austin_Philadelphia,00:00,39.948016,-82.753481
+1_Austin_Philadelphia,00:00,39.945473,-82.61435
+1_Austin_Philadelphia,00:00,39.945545,-82.435259
+1_Austin_Philadelphia,00:00,39.948448,-82.020923
+1_Austin_Philadelphia,00:00,39.974068,-81.834641
+1_Austin_Philadelphia,00:00,40.001711,-81.548422
+1_Austin_Philadelphia,00:00,40.055149,-81.229404
+1_Austin_Philadelphia,00:00,40.059266,-81.126102
+1_Austin_Philadelphia,00:00,40.063513,-81.00525
+1_Austin_Philadelphia,00:00,40.072525,-80.868609
+1_Austin_Philadelphia,00:00,40.045519,-80.762254
+1_Austin_Philadelphia,00:00,40.042326,-80.61101
+1_Austin_Philadelphia,00:00,40.117293,-80.470303
+1_Austin_Philadelphia,00:00,40.124077,-80.369352
+1_Austin_Philadelphia,00:00,40.163599,-80.277096
+1_Austin_Philadelphia,00:00,40.169257,-80.20505
+1_Austin_Philadelphia,00:00,40.167739,-80.105959
+1_Austin_Philadelphia,00:00,40.131231,-79.968065
+1_Austin_Philadelphia,00:00,40.129761,-79.874999
+1_Austin_Philadelphia,00:00,40.166453,-79.738868
+1_Austin_Philadelphia,00:00,40.208078,-79.677458
+1_Austin_Philadelphia,00:00,40.224181,-79.606079
+1_Austin_Philadelphia,00:00,40.153983,-79.46955
+1_Austin_Philadelphia,00:00,40.127646,-79.295928
+1_Austin_Philadelphia,00:00,40.043784,-79.119713
+1_Austin_Philadelphia,00:00,39.969136,-78.875464
+1_Austin_Philadelphia,00:00,39.974191,-78.80177
+1_Austin_Philadelphia,00:00,40.004623,-78.688247
+1_Austin_Philadelphia,00:00,40.009069,-78.606815
+1_Austin_Philadelphia,00:00,40.044136,-78.506064
+1_Austin_Philadelphia,00:00,40.003564,-78.420234
+1_Austin_Philadelphia,00:00,39.999129,-78.339718
+1_Austin_Philadelphia,00:00,39.985792,-78.245585
+1_Austin_Philadelphia,00:00,40.032826,-78.136351
+1_Austin_Philadelphia,00:00,40.043773,-78.050217
+1_Austin_Philadelphia,00:00,40.068309,-77.928757
+1_Austin_Philadelphia,00:00,40.087785,-77.827744
+1_Austin_Philadelphia,00:00,40.164236,-77.602506
+1_Austin_Philadelphia,00:00,40.193586,-77.428311
+1_Austin_Philadelphia,00:00,40.208524,-77.237557
+1_Austin_Philadelphia,00:00,40.210464,-77.066364
+1_Austin_Philadelphia,00:00,40.195625,-76.929917
+1_Austin_Philadelphia,00:00,40.210758,-76.754568
+1_Austin_Philadelphia,00:00,40.227614,-76.495751
+1_Austin_Philadelphia,00:00,40.231023,-76.342217
+1_Austin_Philadelphia,00:00,40.242001,-76.146376
+1_Austin_Philadelphia,00:00,40.207456,-76.021287
+1_Austin_Philadelphia,00:00,40.168825,-75.908808
+1_Austin_Philadelphia,00:00,40.075993,-75.69836
+1_Austin_Philadelphia,00:00,40.07542,-75.533072
+1_Austin_Philadelphia,00:00,40.068938,-75.342315
+1_Austin_Philadelphia,00:00,40.035395,-75.243307
+1_Austin_Philadelphia,00:00,39.989331,-75.206397
+1_Austin_Philadelphia,00:00,39.95815,-75.166025
+0_Austin_San Diego,00:00,30.267115,-97.743072
+0_Austin_San Diego,00:00,30.274387,-97.761541
+0_Austin_San Diego,00:00,30.264452,-97.786738
+0_Austin_San Diego,00:00,30.236759,-97.840425
+0_Austin_San Diego,00:00,30.232651,-97.876297
+0_Austin_San Diego,00:00,30.232133,-97.925248
+0_Austin_San Diego,00:00,30.210645,-97.969424
+0_Austin_San Diego,00:00,30.19631,-98.006981
+0_Austin_San Diego,00:00,30.195217,-98.058647
+0_Austin_San Diego,00:00,30.192909,-98.099022
+0_Austin_San Diego,00:00,30.205646,-98.133184
+0_Austin_San Diego,00:00,30.197786,-98.177872
+0_Austin_San Diego,00:00,30.194614,-98.241727
+0_Austin_San Diego,00:00,30.197652,-98.326223
+0_Austin_San Diego,00:00,30.214121,-98.37914
+0_Austin_San Diego,00:00,30.270616,-98.399347
+0_Austin_San Diego,00:00,30.271244,-98.437587
+0_Austin_San Diego,00:00,30.252047,-98.52958
+0_Austin_San Diego,00:00,30.23463,-98.613384
+0_Austin_San Diego,00:00,30.220722,-98.709393
+0_Austin_San Diego,00:00,30.227764,-98.820686
+0_Austin_San Diego,00:00,30.264329,-98.85727
+0_Austin_San Diego,00:00,30.285496,-98.887276
+0_Austin_San Diego,00:00,30.29912,-98.999757
+0_Austin_San Diego,00:00,30.300418,-99.1736
+0_Austin_San Diego,00:00,30.294274,-99.500319
+0_Austin_San Diego,00:00,30.404046,-99.652425
+0_Austin_San Diego,00:00,30.488866,-99.742218
+0_Austin_San Diego,00:00,30.500988,-99.927762
+0_Austin_San Diego,00:00,30.488862,-100.033471
+0_Austin_San Diego,00:00,30.443826,-100.202029
+0_Austin_San Diego,00:00,30.560403,-100.512729
+0_Austin_San Diego,00:00,30.615195,-100.743645
+0_Austin_San Diego,00:00,30.702953,-101.125311
+0_Austin_San Diego,00:00,30.67786,-101.331673
+0_Austin_San Diego,00:00,30.713584,-101.524511
+0_Austin_San Diego,00:00,30.747569,-101.695486
+0_Austin_San Diego,00:00,30.716664,-101.805267
+0_Austin_San Diego,00:00,30.859814,-102.077587
+0_Austin_San Diego,00:00,30.893734,-102.381636
+0_Austin_San Diego,00:00,30.881884,-102.679849
+0_Austin_San Diego,00:00,30.894347,-102.925004
+0_Austin_San Diego,00:00,30.939256,-103.31519
+0_Austin_San Diego,00:00,31.002947,-103.710921
+0_Austin_San Diego,00:00,31.052555,-103.977818
+0_Austin_San Diego,00:00,31.083262,-104.073182
+0_Austin_San Diego,00:00,31.062044,-104.152762
+0_Austin_San Diego,00:00,31.067458,-104.223035
+0_Austin_San Diego,00:00,31.072942,-104.403029
+0_Austin_San Diego,00:00,31.043047,-104.750505
+0_Austin_San Diego,00:00,31.037212,-104.868708
+0_Austin_San Diego,00:00,31.054699,-104.953282
+0_Austin_San Diego,00:00,31.072256,-105.007687
+0_Austin_San Diego,00:00,31.17383,-105.360124
+0_Austin_San Diego,00:00,31.217056,-105.488592
+0_Austin_San Diego,00:00,31.183545,-105.619945
+0_Austin_San Diego,00:00,31.235415,-105.7851
+0_Austin_San Diego,00:00,31.337262,-105.886111
+0_Austin_San Diego,00:00,31.470985,-106.058918
+0_Austin_San Diego,00:00,31.543271,-106.149454
+0_Austin_San Diego,00:00,31.643011,-106.226751
+0_Austin_San Diego,00:00,31.748504,-106.33855
+0_Austin_San Diego,00:00,31.777512,-106.425747
+0_Austin_San Diego,00:00,31.759026,-106.498245
+0_Austin_San Diego,00:00,31.800323,-106.519953
+0_Austin_San Diego,00:00,31.84076,-106.570713
+0_Austin_San Diego,00:00,32.052052,-106.600413
+0_Austin_San Diego,00:00,32.264965,-106.737341
+0_Austin_San Diego,00:00,32.286851,-106.841461
+0_Austin_San Diego,00:00,32.26535,-106.981946
+0_Austin_San Diego,00:00,32.242035,-107.251072
+0_Austin_San Diego,00:00,32.236337,-107.389305
+0_Austin_San Diego,00:00,32.277607,-107.706936
+0_Austin_San Diego,00:00,32.243346,-107.980864
+0_Austin_San Diego,00:00,32.179893,-108.385132
+0_Austin_San Diego,00:00,32.327441,-108.63261
+0_Austin_San Diego,00:00,32.354739,-108.749532
+0_Austin_San Diego,00:00,32.237887,-108.95397
+0_Austin_San Diego,00:00,32.241004,-109.106719
+0_Austin_San Diego,00:00,32.275514,-109.258269
+0_Austin_San Diego,00:00,32.305164,-109.387714
+0_Austin_San Diego,00:00,32.330045,-109.513703
+0_Austin_San Diego,00:00,32.348826,-109.742093
+0_Austin_San Diego,00:00,32.227999,-109.873966
+0_Austin_San Diego,00:00,32.086679,-110.04321
+0_Austin_San Diego,00:00,31.968354,-110.245213
+0_Austin_San Diego,00:00,31.970779,-110.328975
+0_Austin_San Diego,00:00,31.965654,-110.460674
+0_Austin_San Diego,00:00,31.985766,-110.565191
+0_Austin_San Diego,00:00,31.997492,-110.65918
+0_Austin_San Diego,00:00,32.044778,-110.744838
+0_Austin_San Diego,00:00,32.132489,-110.885894
+0_Austin_San Diego,00:00,32.174189,-110.93869
+0_Austin_San Diego,00:00,32.198035,-110.978641
+0_Austin_San Diego,00:00,32.258584,-110.999965
+0_Austin_San Diego,00:00,32.331759,-111.05952
+0_Austin_San Diego,00:00,32.445063,-111.192163
+0_Austin_San Diego,00:00,32.647692,-111.393046
+0_Austin_San Diego,00:00,32.735042,-111.549868
+0_Austin_San Diego,00:00,32.821793,-111.691098
+0_Austin_San Diego,00:00,32.828273,-111.904053
+0_Austin_San Diego,00:00,32.851459,-112.359398
+0_Austin_San Diego,00:00,32.908802,-112.595395
+0_Austin_San Diego,00:00,32.934272,-112.788285
+0_Austin_San Diego,00:00,32.897119,-113.024335
+0_Austin_San Diego,00:00,32.84242,-113.306088
+0_Austin_San Diego,00:00,32.725955,-113.747383
+0_Austin_San Diego,00:00,32.676943,-114.045644
+0_Austin_San Diego,00:00,32.670232,-114.313886
+0_Austin_San Diego,00:00,32.670707,-114.415188
+0_Austin_San Diego,00:00,32.714463,-114.611599
+0_Austin_San Diego,00:00,32.745622,-114.692787
+0_Austin_San Diego,00:00,32.760759,-114.838557
+0_Austin_San Diego,00:00,32.759944,-115.24645
+0_Austin_San Diego,00:00,32.774068,-115.742582
+0_Austin_San Diego,00:00,32.727241,-116.050765
+0_Austin_San Diego,00:00,32.686833,-116.091951
+0_Austin_San Diego,00:00,32.657784,-116.098294
+0_Austin_San Diego,00:00,32.642843,-116.176272
+0_Austin_San Diego,00:00,32.705367,-116.359643
+0_Austin_San Diego,00:00,32.724667,-116.476879
+0_Austin_San Diego,00:00,32.810358,-116.508822
+0_Austin_San Diego,00:00,32.820637,-116.587034
+0_Austin_San Diego,00:00,32.837952,-116.674553
+0_Austin_San Diego,00:00,32.839527,-116.785361
+0_Austin_San Diego,00:00,32.852292,-116.868169
+0_Austin_San Diego,00:00,32.803568,-116.925354
+0_Austin_San Diego,00:00,32.779885,-116.983534
+0_Austin_San Diego,00:00,32.753206,-117.011886
+0_Austin_San Diego,00:00,32.718917,-117.08287
+0_Austin_San Diego,00:00,32.713677,-117.149178
+1_Austin_San Diego,00:00,30.267115,-97.743072
+1_Austin_San Diego,00:00,30.275737,-97.764233
+1_Austin_San Diego,00:00,30.247717,-97.806712
+1_Austin_San Diego,00:00,30.233886,-97.865185
+1_Austin_San Diego,00:00,30.234429,-97.9089
+1_Austin_San Diego,00:00,30.211428,-97.968366
+1_Austin_San Diego,00:00,30.196388,-98.008723
+1_Austin_San Diego,00:00,30.19259,-98.065521
+1_Austin_San Diego,00:00,30.200785,-98.109982
+1_Austin_San Diego,00:00,30.201274,-98.154869
+1_Austin_San Diego,00:00,30.192977,-98.216836
+1_Austin_San Diego,00:00,30.198464,-98.323615
+1_Austin_San Diego,00:00,30.224169,-98.38042
+1_Austin_San Diego,00:00,30.276761,-98.409153
+1_Austin_San Diego,00:00,30.255881,-98.490774
+1_Austin_San Diego,00:00,30.243254,-98.566748
+1_Austin_San Diego,00:00,30.222819,-98.690393
+1_Austin_San Diego,00:00,30.227764,-98.820686
+1_Austin_San Diego,00:00,30.268702,-98.863264
+1_Austin_San Diego,00:00,30.279716,-98.913325
+1_Austin_San Diego,00:00,30.302688,-99.057321
+1_Austin_San Diego,00:00,30.298924,-99.340169
+1_Austin_San Diego,00:00,30.397494,-99.62461
+1_Austin_San Diego,00:00,30.492262,-99.748367
+1_Austin_San Diego,00:00,30.501573,-99.944246
+1_Austin_San Diego,00:00,30.481662,-100.075305
+1_Austin_San Diego,00:00,30.501727,-100.375365
+1_Austin_San Diego,00:00,30.590282,-100.684418
+1_Austin_San Diego,00:00,30.696477,-101.097959
+1_Austin_San Diego,00:00,30.687231,-101.375524
+1_Austin_San Diego,00:00,30.726469,-101.538915
+1_Austin_San Diego,00:00,30.733541,-101.731697
+1_Austin_San Diego,00:00,30.798513,-101.970051
+1_Austin_San Diego,00:00,30.885194,-102.308789
+1_Austin_San Diego,00:00,30.881884,-102.679849
+1_Austin_San Diego,00:00,30.89667,-102.977972
+1_Austin_San Diego,00:00,30.956618,-103.455536
+1_Austin_San Diego,00:00,31.029092,-103.899703
+1_Austin_San Diego,00:00,31.090283,-104.056452
+1_Austin_San Diego,00:00,31.068455,-104.139288
+1_Austin_San Diego,00:00,31.067289,-104.225663
+1_Austin_San Diego,00:00,31.063058,-104.497885
+1_Austin_San Diego,00:00,31.040496,-104.815979
+1_Austin_San Diego,00:00,31.047396,-104.923939
+1_Austin_San Diego,00:00,31.061555,-104.978134
+1_Austin_San Diego,00:00,31.173337,-105.357238
+1_Austin_San Diego,00:00,31.197614,-105.522463
+1_Austin_San Diego,00:00,31.171408,-105.660913
+1_Austin_San Diego,00:00,31.271372,-105.795022
+1_Austin_San Diego,00:00,31.436491,-106.021647
+1_Austin_San Diego,00:00,31.522723,-106.133542
+1_Austin_San Diego,00:00,31.643011,-106.226751
+1_Austin_San Diego,00:00,31.764614,-106.364539
+1_Austin_San Diego,00:00,31.778265,-106.460434
+1_Austin_San Diego,00:00,31.772225,-106.512219
+1_Austin_San Diego,00:00,31.813633,-106.547897
+1_Austin_San Diego,00:00,32.012433,-106.583204
+1_Austin_San Diego,00:00,32.26549,-106.738365
+1_Austin_San Diego,00:00,32.283186,-106.869372
+1_Austin_San Diego,00:00,32.257828,-107.051758
+1_Austin_San Diego,00:00,32.243306,-107.370027
+1_Austin_San Diego,00:00,32.282542,-107.681807
+1_Austin_San Diego,00:00,32.249328,-107.933116
+1_Austin_San Diego,00:00,32.199081,-108.417569
+1_Austin_San Diego,00:00,32.339897,-108.681026
+1_Austin_San Diego,00:00,32.30943,-108.82984
+1_Austin_San Diego,00:00,32.227519,-109.048391
+1_Austin_San Diego,00:00,32.272069,-109.249778
+1_Austin_San Diego,00:00,32.305164,-109.387714
+1_Austin_San Diego,00:00,32.335618,-109.535543
+1_Austin_San Diego,00:00,32.290492,-109.818279
+1_Austin_San Diego,00:00,32.182228,-109.940052
+1_Austin_San Diego,00:00,31.99376,-110.173524
+1_Austin_San Diego,00:00,31.976074,-110.317225
+1_Austin_San Diego,00:00,31.969893,-110.473518
+1_Austin_San Diego,00:00,31.98919,-110.592454
+1_Austin_San Diego,00:00,32.003027,-110.683312
+1_Austin_San Diego,00:00,32.113989,-110.856866
+1_Austin_San Diego,00:00,32.152859,-110.900782
+1_Austin_San Diego,00:00,32.196116,-110.977941
+1_Austin_San Diego,00:00,32.261016,-111.003636
+1_Austin_San Diego,00:00,32.368556,-111.099662
+1_Austin_San Diego,00:00,32.498841,-111.264929
+1_Austin_San Diego,00:00,32.725966,-111.517774
+1_Austin_San Diego,00:00,32.828523,-111.685269
+1_Austin_San Diego,00:00,33.028523,-111.773004
+1_Austin_San Diego,00:00,33.286828,-111.970449
+1_Austin_San Diego,00:00,33.355218,-111.97067
+1_Austin_San Diego,00:00,33.411079,-111.990863
+1_Austin_San Diego,00:00,33.459296,-112.037067
+1_Austin_San Diego,00:00,33.461959,-112.146293
+1_Austin_San Diego,00:00,33.457955,-112.315708
+1_Austin_San Diego,00:00,33.461691,-112.435716
+1_Austin_San Diego,00:00,33.427524,-112.612634
+1_Austin_San Diego,00:00,33.500873,-112.952155
+1_Austin_San Diego,00:00,33.549669,-113.223969
+1_Austin_San Diego,00:00,33.61305,-113.644805
+1_Austin_San Diego,00:00,33.652788,-113.934052
+1_Austin_San Diego,00:00,33.678291,-114.065111
+1_Austin_San Diego,00:00,33.647222,-114.329544
+1_Austin_San Diego,00:00,33.602552,-114.513558
+1_Austin_San Diego,00:00,33.61019,-114.790125
+1_Austin_San Diego,00:00,33.710571,-115.411752
+1_Austin_San Diego,00:00,33.674761,-115.941647
+1_Austin_San Diego,00:00,33.700214,-116.08743
+1_Austin_San Diego,00:00,33.738859,-116.22381
+1_Austin_San Diego,00:00,33.80802,-116.391543
+1_Austin_San Diego,00:00,33.905008,-116.552534
+1_Austin_San Diego,00:00,33.922924,-116.723438
+1_Austin_San Diego,00:00,33.924351,-116.882108
+1_Austin_San Diego,00:00,33.893866,-116.987731
+1_Austin_San Diego,00:00,33.845922,-117.00423
+1_Austin_San Diego,00:00,33.736229,-117.006734
+1_Austin_San Diego,00:00,33.698724,-117.044436
+1_Austin_San Diego,00:00,33.633956,-117.087791
+1_Austin_San Diego,00:00,33.560793,-117.138741
+1_Austin_San Diego,00:00,33.526961,-117.157298
+1_Austin_San Diego,00:00,33.466321,-117.136498
+1_Austin_San Diego,00:00,33.369797,-117.16518
+1_Austin_San Diego,00:00,33.258972,-117.158383
+1_Austin_San Diego,00:00,33.122029,-117.103016
+1_Austin_San Diego,00:00,33.045331,-117.073222
+1_Austin_San Diego,00:00,32.941747,-117.11004
+1_Austin_San Diego,00:00,32.85142,-117.124442
+1_Austin_San Diego,00:00,32.754579,-117.158674
+1_Austin_San Diego,00:00,32.719896,-117.156672
+0_Austin_San Jose,00:00,30.267115,-97.743072
+0_Austin_San Jose,00:00,30.274387,-97.761541
+0_Austin_San Jose,00:00,30.264452,-97.786738
+0_Austin_San Jose,00:00,30.236759,-97.840425
+0_Austin_San Jose,00:00,30.232651,-97.876297
+0_Austin_San Jose,00:00,30.232133,-97.925248
+0_Austin_San Jose,00:00,30.210645,-97.969424
+0_Austin_San Jose,00:00,30.19631,-98.006981
+0_Austin_San Jose,00:00,30.195217,-98.058647
+0_Austin_San Jose,00:00,30.192909,-98.099022
+0_Austin_San Jose,00:00,30.205646,-98.133184
+0_Austin_San Jose,00:00,30.197786,-98.177872
+0_Austin_San Jose,00:00,30.194614,-98.241727
+0_Austin_San Jose,00:00,30.197652,-98.326223
+0_Austin_San Jose,00:00,30.214121,-98.37914
+0_Austin_San Jose,00:00,30.270616,-98.399347
+0_Austin_San Jose,00:00,30.271244,-98.437587
+0_Austin_San Jose,00:00,30.252047,-98.52958
+0_Austin_San Jose,00:00,30.23463,-98.613384
+0_Austin_San Jose,00:00,30.220722,-98.709393
+0_Austin_San Jose,00:00,30.227764,-98.820686
+0_Austin_San Jose,00:00,30.264329,-98.85727
+0_Austin_San Jose,00:00,30.285496,-98.887276
+0_Austin_San Jose,00:00,30.29912,-98.999757
+0_Austin_San Jose,00:00,30.300418,-99.1736
+0_Austin_San Jose,00:00,30.294274,-99.500319
+0_Austin_San Jose,00:00,30.404046,-99.652425
+0_Austin_San Jose,00:00,30.488866,-99.742218
+0_Austin_San Jose,00:00,30.500988,-99.927762
+0_Austin_San Jose,00:00,30.488862,-100.033471
+0_Austin_San Jose,00:00,30.443826,-100.202029
+0_Austin_San Jose,00:00,30.560403,-100.512729
+0_Austin_San Jose,00:00,30.615195,-100.743645
+0_Austin_San Jose,00:00,30.702953,-101.125311
+0_Austin_San Jose,00:00,30.67786,-101.331673
+0_Austin_San Jose,00:00,30.713584,-101.524511
+0_Austin_San Jose,00:00,30.747569,-101.695486
+0_Austin_San Jose,00:00,30.716664,-101.805267
+0_Austin_San Jose,00:00,30.859814,-102.077587
+0_Austin_San Jose,00:00,30.893734,-102.381636
+0_Austin_San Jose,00:00,30.881884,-102.679849
+0_Austin_San Jose,00:00,30.894347,-102.925004
+0_Austin_San Jose,00:00,30.939256,-103.31519
+0_Austin_San Jose,00:00,31.002947,-103.710921
+0_Austin_San Jose,00:00,31.052555,-103.977818
+0_Austin_San Jose,00:00,31.083262,-104.073182
+0_Austin_San Jose,00:00,31.062044,-104.152762
+0_Austin_San Jose,00:00,31.067458,-104.223035
+0_Austin_San Jose,00:00,31.072942,-104.403029
+0_Austin_San Jose,00:00,31.043047,-104.750505
+0_Austin_San Jose,00:00,31.037212,-104.868708
+0_Austin_San Jose,00:00,31.054699,-104.953282
+0_Austin_San Jose,00:00,31.072256,-105.007687
+0_Austin_San Jose,00:00,31.17383,-105.360124
+0_Austin_San Jose,00:00,31.217056,-105.488592
+0_Austin_San Jose,00:00,31.183545,-105.619945
+0_Austin_San Jose,00:00,31.235415,-105.7851
+0_Austin_San Jose,00:00,31.337262,-105.886111
+0_Austin_San Jose,00:00,31.470985,-106.058918
+0_Austin_San Jose,00:00,31.543271,-106.149454
+0_Austin_San Jose,00:00,31.643011,-106.226751
+0_Austin_San Jose,00:00,31.748504,-106.33855
+0_Austin_San Jose,00:00,31.777512,-106.425747
+0_Austin_San Jose,00:00,31.759026,-106.498245
+0_Austin_San Jose,00:00,31.800323,-106.519953
+0_Austin_San Jose,00:00,31.84076,-106.570713
+0_Austin_San Jose,00:00,32.052052,-106.600413
+0_Austin_San Jose,00:00,32.264965,-106.737341
+0_Austin_San Jose,00:00,32.286851,-106.841461
+0_Austin_San Jose,00:00,32.26535,-106.981946
+0_Austin_San Jose,00:00,32.242035,-107.251072
+0_Austin_San Jose,00:00,32.236337,-107.389305
+0_Austin_San Jose,00:00,32.277607,-107.706936
+0_Austin_San Jose,00:00,32.243346,-107.980864
+0_Austin_San Jose,00:00,32.179893,-108.385132
+0_Austin_San Jose,00:00,32.327441,-108.63261
+0_Austin_San Jose,00:00,32.354739,-108.749532
+0_Austin_San Jose,00:00,32.237887,-108.95397
+0_Austin_San Jose,00:00,32.241004,-109.106719
+0_Austin_San Jose,00:00,32.275514,-109.258269
+0_Austin_San Jose,00:00,32.305164,-109.387714
+0_Austin_San Jose,00:00,32.330045,-109.513703
+0_Austin_San Jose,00:00,32.348826,-109.742093
+0_Austin_San Jose,00:00,32.227999,-109.873966
+0_Austin_San Jose,00:00,32.086679,-110.04321
+0_Austin_San Jose,00:00,31.968354,-110.245213
+0_Austin_San Jose,00:00,31.970779,-110.328975
+0_Austin_San Jose,00:00,31.965654,-110.460674
+0_Austin_San Jose,00:00,31.985766,-110.565191
+0_Austin_San Jose,00:00,31.997492,-110.65918
+0_Austin_San Jose,00:00,32.044778,-110.744838
+0_Austin_San Jose,00:00,32.132489,-110.885894
+0_Austin_San Jose,00:00,32.174189,-110.93869
+0_Austin_San Jose,00:00,32.198035,-110.978641
+0_Austin_San Jose,00:00,32.258584,-110.999965
+0_Austin_San Jose,00:00,32.331759,-111.05952
+0_Austin_San Jose,00:00,32.445063,-111.192163
+0_Austin_San Jose,00:00,32.647692,-111.393046
+0_Austin_San Jose,00:00,32.735042,-111.549868
+0_Austin_San Jose,00:00,32.858569,-111.687016
+0_Austin_San Jose,00:00,33.028523,-111.773004
+0_Austin_San Jose,00:00,33.277826,-111.965276
+0_Austin_San Jose,00:00,33.333708,-111.972064
+0_Austin_San Jose,00:00,33.405098,-111.968456
+0_Austin_San Jose,00:00,33.427244,-112.034001
+0_Austin_San Jose,00:00,33.462156,-112.054102
+0_Austin_San Jose,00:00,33.462893,-112.165938
+0_Austin_San Jose,00:00,33.458151,-112.314102
+0_Austin_San Jose,00:00,33.462283,-112.418947
+0_Austin_San Jose,00:00,33.44354,-112.560512
+0_Austin_San Jose,00:00,33.443304,-112.694801
+0_Austin_San Jose,00:00,33.521545,-113.073465
+0_Austin_San Jose,00:00,33.563987,-113.318092
+0_Austin_San Jose,00:00,33.615135,-113.658903
+0_Austin_San Jose,00:00,33.647225,-113.888154
+0_Austin_San Jose,00:00,33.66891,-114.04099
+0_Austin_San Jose,00:00,33.66719,-114.186619
+0_Austin_San Jose,00:00,33.639154,-114.387462
+0_Austin_San Jose,00:00,33.606468,-114.537267
+0_Austin_San Jose,00:00,33.6079,-114.905897
+0_Austin_San Jose,00:00,33.710571,-115.411752
+0_Austin_San Jose,00:00,33.666369,-115.892872
+0_Austin_San Jose,00:00,33.699635,-116.065662
+0_Austin_San Jose,00:00,33.71521,-116.176698
+0_Austin_San Jose,00:00,33.75427,-116.283393
+0_Austin_San Jose,00:00,33.82531,-116.41745
+0_Austin_San Jose,00:00,33.911419,-116.588969
+0_Austin_San Jose,00:00,33.92125,-116.712888
+0_Austin_San Jose,00:00,33.927995,-116.846286
+0_Austin_San Jose,00:00,33.931462,-116.986167
+0_Austin_San Jose,00:00,33.980253,-117.05068
+0_Austin_San Jose,00:00,34.036409,-117.148617
+0_Austin_San Jose,00:00,34.070442,-117.200444
+0_Austin_San Jose,00:00,34.132532,-117.227159
+0_Austin_San Jose,00:00,34.134902,-117.333359
+0_Austin_San Jose,00:00,34.136655,-117.537291
+0_Austin_San Jose,00:00,34.120649,-117.739046
+0_Austin_San Jose,00:00,34.120572,-117.836468
+0_Austin_San Jose,00:00,34.126946,-117.916614
+0_Austin_San Jose,00:00,34.137502,-118.012823
+0_Austin_San Jose,00:00,34.152754,-118.095181
+0_Austin_San Jose,00:00,34.178071,-118.164446
+0_Austin_San Jose,00:00,34.213669,-118.231348
+0_Austin_San Jose,00:00,34.234776,-118.297266
+0_Austin_San Jose,00:00,34.254114,-118.324325
+0_Austin_San Jose,00:00,34.277241,-118.389214
+0_Austin_San Jose,00:00,34.322756,-118.480441
+0_Austin_San Jose,00:00,34.340877,-118.52087
+0_Austin_San Jose,00:00,34.42683,-118.585083
+0_Austin_San Jose,00:00,34.479425,-118.614303
+0_Austin_San Jose,00:00,34.5449,-118.663034
+0_Austin_San Jose,00:00,34.588901,-118.711499
+0_Austin_San Jose,00:00,34.651292,-118.753973
+0_Austin_San Jose,00:00,34.706155,-118.795169
+0_Austin_San Jose,00:00,34.793455,-118.838773
+0_Austin_San Jose,00:00,34.86443,-118.881534
+0_Austin_San Jose,00:00,34.927599,-118.922308
+0_Austin_San Jose,00:00,35.112257,-119.055967
+0_Austin_San Jose,00:00,35.49629,-119.530561
+0_Austin_San Jose,00:00,35.933793,-119.911005
+0_Austin_San Jose,00:00,36.111435,-120.134574
+0_Austin_San Jose,00:00,36.51781,-120.471396
+0_Austin_San Jose,00:00,36.902576,-120.812252
+0_Austin_San Jose,00:00,37.023833,-120.937725
+0_Austin_San Jose,00:00,37.061509,-121.058306
+0_Austin_San Jose,00:00,37.101857,-121.123388
+0_Austin_San Jose,00:00,37.08564,-121.179537
+0_Austin_San Jose,00:00,37.065516,-121.223556
+0_Austin_San Jose,00:00,37.036382,-121.311114
+0_Austin_San Jose,00:00,36.98585,-121.384696
+0_Austin_San Jose,00:00,36.969338,-121.414609
+0_Austin_San Jose,00:00,36.988306,-121.448
+0_Austin_San Jose,00:00,36.993913,-121.498437
+0_Austin_San Jose,00:00,37.003364,-121.542008
+0_Austin_San Jose,00:00,37.097658,-121.604081
+0_Austin_San Jose,00:00,37.171213,-121.670989
+0_Austin_San Jose,00:00,37.233373,-121.753718
+0_Austin_San Jose,00:00,37.304526,-121.81789
+0_Austin_San Jose,00:00,37.34592,-121.870055
+0_Austin_San Jose,00:00,37.338328,-121.886044
+1_Austin_San Jose,00:00,30.267115,-97.743072
+1_Austin_San Jose,00:00,30.307975,-97.711203
+1_Austin_San Jose,00:00,30.370428,-97.720457
+1_Austin_San Jose,00:00,30.437193,-97.775203
+1_Austin_San Jose,00:00,30.52328,-97.81569
+1_Austin_San Jose,00:00,30.608244,-97.860438
+1_Austin_San Jose,00:00,30.676959,-97.879177
+1_Austin_San Jose,00:00,30.778857,-97.878366
+1_Austin_San Jose,00:00,30.88745,-97.927691
+1_Austin_San Jose,00:00,30.928287,-98.001557
+1_Austin_San Jose,00:00,30.992525,-98.103392
+1_Austin_San Jose,00:00,31.050611,-98.175017
+1_Austin_San Jose,00:00,31.091827,-98.20165
+1_Austin_San Jose,00:00,31.194024,-98.381023
+1_Austin_San Jose,00:00,31.312669,-98.483224
+1_Austin_San Jose,00:00,31.451483,-98.569664
+1_Austin_San Jose,00:00,31.554832,-98.656357
+1_Austin_San Jose,00:00,31.70115,-98.843493
+1_Austin_San Jose,00:00,31.728882,-98.978342
+1_Austin_San Jose,00:00,31.718861,-99.110277
+1_Austin_San Jose,00:00,31.743989,-99.336018
+1_Austin_San Jose,00:00,31.827232,-99.434033
+1_Austin_San Jose,00:00,31.863452,-99.61445
+1_Austin_San Jose,00:00,31.93262,-99.775373
+1_Austin_San Jose,00:00,31.949887,-99.960631
+1_Austin_San Jose,00:00,32.048765,-100.113276
+1_Austin_San Jose,00:00,32.205739,-100.241556
+1_Austin_San Jose,00:00,32.365078,-100.358974
+1_Austin_San Jose,00:00,32.44915,-100.433131
+1_Austin_San Jose,00:00,32.453539,-100.550349
+1_Austin_San Jose,00:00,32.571883,-100.717063
+1_Austin_San Jose,00:00,32.68929,-100.856409
+1_Austin_San Jose,00:00,32.755719,-100.928352
+1_Austin_San Jose,00:00,32.86178,-101.026013
+1_Austin_San Jose,00:00,32.940875,-101.076501
+1_Austin_San Jose,00:00,33.01138,-101.172786
+1_Austin_San Jose,00:00,33.110402,-101.270018
+1_Austin_San Jose,00:00,33.183656,-101.372433
+1_Austin_San Jose,00:00,33.220757,-101.437346
+1_Austin_San Jose,00:00,33.411738,-101.628949
+1_Austin_San Jose,00:00,33.47503,-101.696821
+1_Austin_San Jose,00:00,33.527327,-101.809167
+1_Austin_San Jose,00:00,33.550626,-101.855385
+1_Austin_San Jose,00:00,33.581471,-101.855156
+1_Austin_San Jose,00:00,33.622017,-101.901278
+1_Austin_San Jose,00:00,33.675404,-101.982007
+1_Austin_San Jose,00:00,33.708577,-102.020471
+1_Austin_San Jose,00:00,33.81704,-102.179438
+1_Austin_San Jose,00:00,33.904884,-102.335517
+1_Austin_San Jose,00:00,33.995463,-102.420867
+1_Austin_San Jose,00:00,34.197944,-102.682368
+1_Austin_San Jose,00:00,34.297959,-102.842296
+1_Austin_San Jose,00:00,34.378026,-103.001181
+1_Austin_San Jose,00:00,34.389433,-103.068988
+1_Austin_San Jose,00:00,34.395897,-103.17246
+1_Austin_San Jose,00:00,34.400781,-103.220489
+1_Austin_San Jose,00:00,34.405206,-103.2998
+1_Austin_San Jose,00:00,34.410605,-103.397375
+1_Austin_San Jose,00:00,34.424553,-103.632645
+1_Austin_San Jose,00:00,34.449739,-103.912479
+1_Austin_San Jose,00:00,34.443907,-104.122047
+1_Austin_San Jose,00:00,34.487112,-104.245621
+1_Austin_San Jose,00:00,34.65805,-104.32845
+1_Austin_San Jose,00:00,34.880724,-104.588029
+1_Austin_San Jose,00:00,34.951429,-104.717655
+1_Austin_San Jose,00:00,34.995392,-105.372421
+1_Austin_San Jose,00:00,35.005394,-105.845696
+1_Austin_San Jose,00:00,35.085119,-106.24596
+1_Austin_San Jose,00:00,35.110422,-106.308678
+1_Austin_San Jose,00:00,35.099283,-106.366501
+1_Austin_San Jose,00:00,35.080318,-106.406914
+1_Austin_San Jose,00:00,35.061424,-106.462683
+1_Austin_San Jose,00:00,35.103959,-106.586938
+1_Austin_San Jose,00:00,35.105,-106.673649
+1_Austin_San Jose,00:00,35.058747,-106.813369
+1_Austin_San Jose,00:00,35.004653,-107.047431
+1_Austin_San Jose,00:00,35.009288,-107.318592
+1_Austin_San Jose,00:00,35.04652,-107.505432
+1_Austin_San Jose,00:00,35.070634,-107.676238
+1_Austin_San Jose,00:00,35.14745,-107.860278
+1_Austin_San Jose,00:00,35.296108,-107.988499
+1_Austin_San Jose,00:00,35.393917,-108.211176
+1_Austin_San Jose,00:00,35.472872,-108.41816
+1_Austin_San Jose,00:00,35.532338,-108.645708
+1_Austin_San Jose,00:00,35.528821,-108.750644
+1_Austin_San Jose,00:00,35.493447,-108.874935
+1_Austin_San Jose,00:00,35.370617,-109.0417
+1_Austin_San Jose,00:00,35.282423,-109.203302
+1_Austin_San Jose,00:00,35.192302,-109.427982
+1_Austin_San Jose,00:00,35.104824,-109.610151
+1_Austin_San Jose,00:00,35.022835,-109.847138
+1_Austin_San Jose,00:00,34.944288,-110.124869
+1_Austin_San Jose,00:00,34.925416,-110.263924
+1_Austin_San Jose,00:00,34.969448,-110.43392
+1_Austin_San Jose,00:00,35.017623,-110.673166
+1_Austin_San Jose,00:00,35.044323,-110.755936
+1_Austin_San Jose,00:00,35.10317,-110.993061
+1_Austin_San Jose,00:00,35.159652,-111.266659
+1_Austin_San Jose,00:00,35.202373,-111.470008
+1_Austin_San Jose,00:00,35.192259,-111.621515
+1_Austin_San Jose,00:00,35.176855,-111.673291
+1_Austin_San Jose,00:00,35.249188,-111.855774
+1_Austin_San Jose,00:00,35.25994,-112.028955
+1_Austin_San Jose,00:00,35.261567,-112.188268
+1_Austin_San Jose,00:00,35.219661,-112.280628
+1_Austin_San Jose,00:00,35.216819,-112.396486
+1_Austin_San Jose,00:00,35.220571,-112.497805
+1_Austin_San Jose,00:00,35.287042,-112.807626
+1_Austin_San Jose,00:00,35.293832,-113.031186
+1_Austin_San Jose,00:00,35.20893,-113.273719
+1_Austin_San Jose,00:00,35.189655,-113.443089
+1_Austin_San Jose,00:00,35.162027,-113.537342
+1_Austin_San Jose,00:00,35.160072,-113.702393
+1_Austin_San Jose,00:00,35.217434,-114.03518
+1_Austin_San Jose,00:00,35.132185,-114.105304
+1_Austin_San Jose,00:00,34.911722,-114.153245
+1_Austin_San Jose,00:00,34.754437,-114.217742
+1_Austin_San Jose,00:00,34.724861,-114.413348
+1_Austin_San Jose,00:00,34.726069,-114.543003
+1_Austin_San Jose,00:00,34.845823,-114.61422
+1_Austin_San Jose,00:00,34.881782,-114.791128
+1_Austin_San Jose,00:00,34.845486,-114.969895
+1_Austin_San Jose,00:00,34.806492,-115.256695
+1_Austin_San Jose,00:00,34.7288,-115.602238
+1_Austin_San Jose,00:00,34.733798,-115.866061
+1_Austin_San Jose,00:00,34.718286,-116.029461
+1_Austin_San Jose,00:00,34.739191,-116.31212
+1_Austin_San Jose,00:00,34.829564,-116.687868
+1_Austin_San Jose,00:00,34.88622,-117.012032
+1_Austin_San Jose,00:00,34.914903,-117.110524
+1_Austin_San Jose,00:00,34.922532,-117.26793
+1_Austin_San Jose,00:00,34.994452,-117.509988
+1_Austin_San Jose,00:00,35.010044,-117.654896
+1_Austin_San Jose,00:00,35.009933,-117.881466
+1_Austin_San Jose,00:00,35.028278,-118.078393
+1_Austin_San Jose,00:00,35.115928,-118.19011
+1_Austin_San Jose,00:00,35.098224,-118.306727
+1_Austin_San Jose,00:00,35.128823,-118.411826
+1_Austin_San Jose,00:00,35.174147,-118.479493
+1_Austin_San Jose,00:00,35.222015,-118.559219
+1_Austin_San Jose,00:00,35.25013,-118.601813
+1_Austin_San Jose,00:00,35.269718,-118.67859
+1_Austin_San Jose,00:00,35.327872,-118.801942
+1_Austin_San Jose,00:00,35.352561,-118.976189
+1_Austin_San Jose,00:00,35.370663,-119.058579
+1_Austin_San Jose,00:00,35.362121,-119.13775
+1_Austin_San Jose,00:00,35.354602,-119.252029
+1_Austin_San Jose,00:00,35.617122,-119.653635
+1_Austin_San Jose,00:00,36.004751,-119.982345
+1_Austin_San Jose,00:00,36.398654,-120.360781
+1_Austin_San Jose,00:00,36.856396,-120.777902
+1_Austin_San Jose,00:00,37.021586,-120.935576
+1_Austin_San Jose,00:00,37.068513,-121.070266
+1_Austin_San Jose,00:00,37.098709,-121.147369
+1_Austin_San Jose,00:00,37.077519,-121.200177
+1_Austin_San Jose,00:00,37.046622,-121.285531
+1_Austin_San Jose,00:00,36.990559,-121.383283
+1_Austin_San Jose,00:00,36.970142,-121.416429
+1_Austin_San Jose,00:00,36.98786,-121.454154
+1_Austin_San Jose,00:00,37.009801,-121.516295
+1_Austin_San Jose,00:00,37.022723,-121.566634
+1_Austin_San Jose,00:00,37.159897,-121.659522
+1_Austin_San Jose,00:00,37.227921,-121.744209
+1_Austin_San Jose,00:00,37.318368,-121.831268
+1_Austin_San Jose,00:00,37.343112,-121.875968
+0_Austin_Jacksonville,00:00,30.267115,-97.743072
+0_Austin_Jacksonville,00:00,30.262698,-97.722512
+0_Austin_Jacksonville,00:00,30.257806,-97.704395
+0_Austin_Jacksonville,00:00,30.236017,-97.685981
+0_Austin_Jacksonville,00:00,30.212399,-97.657995
+0_Austin_Jacksonville,00:00,30.186814,-97.615754
+0_Austin_Jacksonville,00:00,30.176035,-97.528893
+0_Austin_Jacksonville,00:00,30.128357,-97.443644
+0_Austin_Jacksonville,00:00,30.11082,-97.372803
+0_Austin_Jacksonville,00:00,30.093557,-97.266253
+0_Austin_Jacksonville,00:00,30.055748,-97.204508
+0_Austin_Jacksonville,00:00,29.994337,-97.127307
+0_Austin_Jacksonville,00:00,29.941122,-97.05939
+0_Austin_Jacksonville,00:00,29.928003,-96.971534
+0_Austin_Jacksonville,00:00,29.921793,-96.880561
+0_Austin_Jacksonville,00:00,29.900012,-96.784502
+0_Austin_Jacksonville,00:00,29.849822,-96.725792
+0_Austin_Jacksonville,00:00,29.752359,-96.606311
+0_Austin_Jacksonville,00:00,29.694685,-96.573661
+0_Austin_Jacksonville,00:00,29.701495,-96.52134
+0_Austin_Jacksonville,00:00,29.767876,-96.141584
+0_Austin_Jacksonville,00:00,29.781429,-95.992856
+0_Austin_Jacksonville,00:00,29.7774,-95.819439
+0_Austin_Jacksonville,00:00,29.785017,-95.751285
+0_Austin_Jacksonville,00:00,29.784579,-95.609701
+0_Austin_Jacksonville,00:00,29.783724,-95.484274
+0_Austin_Jacksonville,00:00,29.776446,-95.401306
+0_Austin_Jacksonville,00:00,29.766994,-95.360173
+0_Austin_Jacksonville,00:00,29.774163,-95.302714
+0_Austin_Jacksonville,00:00,29.771448,-95.200754
+0_Austin_Jacksonville,00:00,29.794747,-95.072663
+0_Austin_Jacksonville,00:00,29.802059,-94.997926
+0_Austin_Jacksonville,00:00,29.82544,-94.853504
+0_Austin_Jacksonville,00:00,29.840584,-94.680162
+0_Austin_Jacksonville,00:00,29.864056,-94.350707
+0_Austin_Jacksonville,00:00,30.014604,-94.180647
+0_Austin_Jacksonville,00:00,30.091804,-94.136026
+0_Austin_Jacksonville,00:00,30.094564,-94.092127
+0_Austin_Jacksonville,00:00,30.134389,-94.010164
+0_Austin_Jacksonville,00:00,30.130687,-93.89811
+0_Austin_Jacksonville,00:00,30.114495,-93.81701
+0_Austin_Jacksonville,00:00,30.121063,-93.716162
+0_Austin_Jacksonville,00:00,30.208182,-93.447379
+0_Austin_Jacksonville,00:00,30.234733,-93.286112
+0_Austin_Jacksonville,00:00,30.236975,-93.190414
+0_Austin_Jacksonville,00:00,30.247578,-93.06853
+0_Austin_Jacksonville,00:00,30.247195,-92.757495
+0_Austin_Jacksonville,00:00,30.245779,-92.642894
+0_Austin_Jacksonville,00:00,30.23179,-92.533751
+0_Austin_Jacksonville,00:00,30.23623,-92.33557
+0_Austin_Jacksonville,00:00,30.247646,-92.20131
+0_Austin_Jacksonville,00:00,30.24679,-92.053292
+0_Austin_Jacksonville,00:00,30.286733,-91.936421
+0_Austin_Jacksonville,00:00,30.317901,-91.815979
+0_Austin_Jacksonville,00:00,30.420021,-91.428335
+0_Austin_Jacksonville,00:00,30.43891,-91.180467
+0_Austin_Jacksonville,00:00,30.427081,-91.168896
+0_Austin_Jacksonville,00:00,30.427896,-91.064947
+0_Austin_Jacksonville,00:00,30.475729,-90.70877
+0_Austin_Jacksonville,00:00,30.482145,-90.31136
+0_Austin_Jacksonville,00:00,30.394483,-90.007179
+0_Austin_Jacksonville,00:00,30.305562,-89.739244
+0_Austin_Jacksonville,00:00,30.314424,-89.601417
+0_Austin_Jacksonville,00:00,30.350425,-89.448389
+0_Austin_Jacksonville,00:00,30.403837,-89.273773
+0_Austin_Jacksonville,00:00,30.422822,-89.146682
+0_Austin_Jacksonville,00:00,30.4517,-88.992636
+0_Austin_Jacksonville,00:00,30.446997,-88.921345
+0_Austin_Jacksonville,00:00,30.458627,-88.781754
+0_Austin_Jacksonville,00:00,30.434758,-88.655346
+0_Austin_Jacksonville,00:00,30.459889,-88.441351
+0_Austin_Jacksonville,00:00,30.509854,-88.290346
+0_Austin_Jacksonville,00:00,30.580374,-88.171452
+0_Austin_Jacksonville,00:00,30.62597,-88.119034
+0_Austin_Jacksonville,00:00,30.673883,-88.044652
+0_Austin_Jacksonville,00:00,30.684136,-87.998762
+0_Austin_Jacksonville,00:00,30.660014,-87.878767
+0_Austin_Jacksonville,00:00,30.645459,-87.708499
+0_Austin_Jacksonville,00:00,30.612059,-87.569812
+0_Austin_Jacksonville,00:00,30.566863,-87.390829
+0_Austin_Jacksonville,00:00,30.504096,-87.277539
+0_Austin_Jacksonville,00:00,30.502416,-87.169591
+0_Austin_Jacksonville,00:00,30.534474,-87.078213
+0_Austin_Jacksonville,00:00,30.716575,-86.654803
+0_Austin_Jacksonville,00:00,30.725746,-86.563609
+0_Austin_Jacksonville,00:00,30.732501,-86.351093
+0_Austin_Jacksonville,00:00,30.694262,-86.145293
+0_Austin_Jacksonville,00:00,30.762637,-85.68511
+0_Austin_Jacksonville,00:00,30.756791,-85.281414
+0_Austin_Jacksonville,00:00,30.639247,-84.982212
+0_Austin_Jacksonville,00:00,30.618212,-84.831229
+0_Austin_Jacksonville,00:00,30.589635,-84.719322
+0_Austin_Jacksonville,00:00,30.484876,-84.394847
+0_Austin_Jacksonville,00:00,30.50141,-84.233926
+0_Austin_Jacksonville,00:00,30.485425,-83.950638
+0_Austin_Jacksonville,00:00,30.431475,-83.611234
+0_Austin_Jacksonville,00:00,30.372646,-83.267257
+0_Austin_Jacksonville,00:00,30.318472,-82.945913
+0_Austin_Jacksonville,00:00,30.244856,-82.68036
+0_Austin_Jacksonville,00:00,30.24086,-82.255306
+0_Austin_Jacksonville,00:00,30.308598,-81.854393
+0_Austin_Jacksonville,00:00,30.320969,-81.700018
+0_Austin_Jacksonville,00:00,30.334277,-81.665665
+1_Austin_Jacksonville,00:00,30.267115,-97.743072
+1_Austin_Jacksonville,00:00,30.262109,-97.720353
+1_Austin_Jacksonville,00:00,30.253329,-97.697586
+1_Austin_Jacksonville,00:00,30.223247,-97.680407
+1_Austin_Jacksonville,00:00,30.196242,-97.626831
+1_Austin_Jacksonville,00:00,30.179803,-97.536012
+1_Austin_Jacksonville,00:00,30.126148,-97.439784
+1_Austin_Jacksonville,00:00,30.108593,-97.339196
+1_Austin_Jacksonville,00:00,30.077635,-97.240036
+1_Austin_Jacksonville,00:00,30.031884,-97.161914
+1_Austin_Jacksonville,00:00,29.948733,-97.080243
+1_Austin_Jacksonville,00:00,29.928501,-96.973749
+1_Austin_Jacksonville,00:00,29.92339,-96.875712
+1_Austin_Jacksonville,00:00,29.889135,-96.763025
+1_Austin_Jacksonville,00:00,29.818845,-96.688986
+1_Austin_Jacksonville,00:00,29.725557,-96.580586
+1_Austin_Jacksonville,00:00,29.694068,-96.535079
+1_Austin_Jacksonville,00:00,29.767876,-96.141584
+1_Austin_Jacksonville,00:00,29.779596,-95.976507
+1_Austin_Jacksonville,00:00,29.783338,-95.809562
+1_Austin_Jacksonville,00:00,29.784712,-95.687815
+1_Austin_Jacksonville,00:00,29.784274,-95.505061
+1_Austin_Jacksonville,00:00,29.777408,-95.410219
+1_Austin_Jacksonville,00:00,29.766993,-95.359505
+1_Austin_Jacksonville,00:00,29.777859,-95.289507
+1_Austin_Jacksonville,00:00,29.772056,-95.148974
+1_Austin_Jacksonville,00:00,29.795708,-95.036594
+1_Austin_Jacksonville,00:00,29.821006,-94.905212
+1_Austin_Jacksonville,00:00,29.840401,-94.686943
+1_Austin_Jacksonville,00:00,29.872937,-94.340471
+1_Austin_Jacksonville,00:00,30.048873,-94.145945
+1_Austin_Jacksonville,00:00,30.095825,-94.12398
+1_Austin_Jacksonville,00:00,30.113994,-94.0425
+1_Austin_Jacksonville,00:00,30.13047,-93.923188
+1_Austin_Jacksonville,00:00,30.114495,-93.81701
+1_Austin_Jacksonville,00:00,30.133645,-93.686861
+1_Austin_Jacksonville,00:00,30.215448,-93.385777
+1_Austin_Jacksonville,00:00,30.236387,-93.220578
+1_Austin_Jacksonville,00:00,30.243874,-93.13631
+1_Austin_Jacksonville,00:00,30.247045,-92.800248
+1_Austin_Jacksonville,00:00,30.244888,-92.639153
+1_Austin_Jacksonville,00:00,30.230853,-92.482021
+1_Austin_Jacksonville,00:00,30.252152,-92.279374
+1_Austin_Jacksonville,00:00,30.247177,-92.119091
+1_Austin_Jacksonville,00:00,30.278927,-91.956631
+1_Austin_Jacksonville,00:00,30.317141,-91.819976
+1_Austin_Jacksonville,00:00,30.429114,-91.399781
+1_Austin_Jacksonville,00:00,30.436945,-91.178321
+1_Austin_Jacksonville,00:00,30.420592,-91.122971
+1_Austin_Jacksonville,00:00,30.473327,-90.80179
+1_Austin_Jacksonville,00:00,30.478853,-90.357004
+1_Austin_Jacksonville,00:00,30.394483,-90.007179
+1_Austin_Jacksonville,00:00,30.303183,-89.731887
+1_Austin_Jacksonville,00:00,30.332618,-89.539921
+1_Austin_Jacksonville,00:00,30.390881,-89.319831
+1_Austin_Jacksonville,00:00,30.416629,-89.196919
+1_Austin_Jacksonville,00:00,30.450005,-88.9981
+1_Austin_Jacksonville,00:00,30.447116,-88.917915
+1_Austin_Jacksonville,00:00,30.446926,-88.747229
+1_Austin_Jacksonville,00:00,30.440581,-88.532807
+1_Austin_Jacksonville,00:00,30.490612,-88.360578
+1_Austin_Jacksonville,00:00,30.573008,-88.184046
+1_Austin_Jacksonville,00:00,30.625192,-88.123564
+1_Austin_Jacksonville,00:00,30.72835,-88.119963
+1_Austin_Jacksonville,00:00,30.813249,-88.10132
+1_Austin_Jacksonville,00:00,30.890935,-88.021376
+1_Austin_Jacksonville,00:00,30.955654,-87.813204
+1_Austin_Jacksonville,00:00,31.03353,-87.634882
+1_Austin_Jacksonville,00:00,31.0867,-87.530124
+1_Austin_Jacksonville,00:00,31.131515,-87.433759
+1_Austin_Jacksonville,00:00,31.226678,-87.282922
+1_Austin_Jacksonville,00:00,31.340294,-87.106731
+1_Austin_Jacksonville,00:00,31.415212,-86.995605
+1_Austin_Jacksonville,00:00,31.435586,-86.947277
+1_Austin_Jacksonville,00:00,31.439611,-86.89621
+1_Austin_Jacksonville,00:00,31.427378,-86.838291
+1_Austin_Jacksonville,00:00,31.398818,-86.683108
+1_Austin_Jacksonville,00:00,31.362541,-86.600783
+1_Austin_Jacksonville,00:00,31.348445,-86.534581
+1_Austin_Jacksonville,00:00,31.322134,-86.504619
+1_Austin_Jacksonville,00:00,31.318662,-86.460803
+1_Austin_Jacksonville,00:00,31.311738,-86.406625
+1_Austin_Jacksonville,00:00,31.27458,-86.358336
+1_Austin_Jacksonville,00:00,31.26786,-86.295449
+1_Austin_Jacksonville,00:00,31.281129,-86.255871
+1_Austin_Jacksonville,00:00,31.303609,-86.234451
+1_Austin_Jacksonville,00:00,31.353611,-86.195546
+1_Austin_Jacksonville,00:00,31.41438,-86.119215
+1_Austin_Jacksonville,00:00,31.426134,-86.079344
+1_Austin_Jacksonville,00:00,31.404434,-86.022884
+1_Austin_Jacksonville,00:00,31.370266,-85.906869
+1_Austin_Jacksonville,00:00,31.327097,-85.835296
+1_Austin_Jacksonville,00:00,31.298158,-85.786052
+1_Austin_Jacksonville,00:00,31.283706,-85.6943
+1_Austin_Jacksonville,00:00,31.242197,-85.634022
+1_Austin_Jacksonville,00:00,31.237874,-85.535645
+1_Austin_Jacksonville,00:00,31.238697,-85.468588
+1_Austin_Jacksonville,00:00,31.215775,-85.43074
+1_Austin_Jacksonville,00:00,31.188097,-85.401785
+1_Austin_Jacksonville,00:00,31.120097,-85.404408
+1_Austin_Jacksonville,00:00,31.013376,-85.407852
+1_Austin_Jacksonville,00:00,30.955683,-85.402609
+1_Austin_Jacksonville,00:00,30.901762,-85.374319
+1_Austin_Jacksonville,00:00,30.805017,-85.283818
+1_Austin_Jacksonville,00:00,30.753941,-85.271161
+1_Austin_Jacksonville,00:00,30.640889,-84.967817
+1_Austin_Jacksonville,00:00,30.622255,-84.799741
+1_Austin_Jacksonville,00:00,30.530396,-84.566228
+1_Austin_Jacksonville,00:00,30.485587,-84.29765
+1_Austin_Jacksonville,00:00,30.488763,-84.020585
+1_Austin_Jacksonville,00:00,30.433412,-83.626408
+1_Austin_Jacksonville,00:00,30.36024,-83.207911
+1_Austin_Jacksonville,00:00,30.290021,-82.866883
+1_Austin_Jacksonville,00:00,30.259038,-82.481419
+1_Austin_Jacksonville,00:00,30.290549,-81.960769
+1_Austin_Jacksonville,00:00,30.320658,-81.721782
+1_Austin_Jacksonville,00:00,30.334232,-81.665469
+0_Chicago_Columbus,00:00,41.878113,-87.629772
+0_Chicago_Columbus,00:00,41.848617,-87.631076
+0_Chicago_Columbus,00:00,41.764013,-87.605696
+0_Chicago_Columbus,00:00,41.702172,-87.52377
+0_Chicago_Columbus,00:00,41.630684,-87.500868
+0_Chicago_Columbus,00:00,41.609568,-87.376372
+0_Chicago_Columbus,00:00,41.594442,-87.306945
+0_Chicago_Columbus,00:00,41.506567,-87.319952
+0_Chicago_Columbus,00:00,41.354971,-87.314934
+0_Chicago_Columbus,00:00,41.146175,-87.265977
+0_Chicago_Columbus,00:00,40.95221,-87.226275
+0_Chicago_Columbus,00:00,40.791039,-87.136657
+0_Chicago_Columbus,00:00,40.548691,-86.925324
+0_Chicago_Columbus,00:00,40.384098,-86.787293
+0_Chicago_Columbus,00:00,40.089333,-86.505233
+0_Chicago_Columbus,00:00,39.934033,-86.341902
+0_Chicago_Columbus,00:00,39.86694,-86.279659
+0_Chicago_Columbus,00:00,39.840423,-86.245214
+0_Chicago_Columbus,00:00,39.816003,-86.185833
+0_Chicago_Columbus,00:00,39.79455,-86.164753
+0_Chicago_Columbus,00:00,39.783706,-86.141581
+0_Chicago_Columbus,00:00,39.800793,-86.093002
+0_Chicago_Columbus,00:00,39.798412,-86.045326
+0_Chicago_Columbus,00:00,39.820965,-85.766066
+0_Chicago_Columbus,00:00,39.84453,-85.532596
+0_Chicago_Columbus,00:00,39.852966,-85.343008
+0_Chicago_Columbus,00:00,39.859407,-85.029599
+0_Chicago_Columbus,00:00,39.831363,-84.727493
+0_Chicago_Columbus,00:00,39.855088,-84.376129
+0_Chicago_Columbus,00:00,39.867656,-84.100698
+0_Chicago_Columbus,00:00,39.892849,-83.878509
+0_Chicago_Columbus,00:00,39.90543,-83.713546
+0_Chicago_Columbus,00:00,39.938921,-83.558178
+0_Chicago_Columbus,00:00,39.972382,-83.07789
+0_Chicago_Columbus,00:00,39.964542,-83.006722
+1_Chicago_Columbus,00:00,41.878113,-87.629772
+1_Chicago_Columbus,00:00,41.848617,-87.631076
+1_Chicago_Columbus,00:00,41.764013,-87.605696
+1_Chicago_Columbus,00:00,41.702172,-87.52377
+1_Chicago_Columbus,00:00,41.630684,-87.500868
+1_Chicago_Columbus,00:00,41.609568,-87.376372
+1_Chicago_Columbus,00:00,41.589725,-87.269649
+1_Chicago_Columbus,00:00,41.573087,-87.152638
+1_Chicago_Columbus,00:00,41.575542,-87.049836
+1_Chicago_Columbus,00:00,41.484682,-87.020531
+1_Chicago_Columbus,00:00,41.433993,-86.900651
+1_Chicago_Columbus,00:00,41.393799,-86.657051
+1_Chicago_Columbus,00:00,41.364684,-86.466979
+1_Chicago_Columbus,00:00,41.351743,-86.276712
+1_Chicago_Columbus,00:00,41.289437,-86.068454
+1_Chicago_Columbus,00:00,41.261708,-85.838281
+1_Chicago_Columbus,00:00,41.18207,-85.633346
+1_Chicago_Columbus,00:00,41.143315,-85.443087
+1_Chicago_Columbus,00:00,41.122441,-85.187239
+1_Chicago_Columbus,00:00,41.163625,-85.074789
+1_Chicago_Columbus,00:00,41.059282,-84.976446
+1_Chicago_Columbus,00:00,40.940946,-84.70856
+1_Chicago_Columbus,00:00,40.869602,-84.4711
+1_Chicago_Columbus,00:00,40.83971,-84.299458
+1_Chicago_Columbus,00:00,40.794755,-84.221724
+1_Chicago_Columbus,00:00,40.772237,-84.169019
+1_Chicago_Columbus,00:00,40.750747,-84.124387
+1_Chicago_Columbus,00:00,40.732708,-84.083109
+1_Chicago_Columbus,00:00,40.714764,-84.026351
+1_Chicago_Columbus,00:00,40.682928,-83.971081
+1_Chicago_Columbus,00:00,40.61386,-83.896125
+1_Chicago_Columbus,00:00,40.554807,-83.835806
+1_Chicago_Columbus,00:00,40.47096,-83.810624
+1_Chicago_Columbus,00:00,40.376058,-83.740913
+1_Chicago_Columbus,00:00,40.267009,-83.4925
+1_Chicago_Columbus,00:00,40.230899,-83.33744
+1_Chicago_Columbus,00:00,40.098986,-83.145949
+1_Chicago_Columbus,00:00,39.974635,-83.119766
+1_Chicago_Columbus,00:00,39.966026,-83.024186
+0_Chicago_Charlotte,00:00,41.878113,-87.629772
+0_Chicago_Charlotte,00:00,41.811952,-87.63046
+0_Chicago_Charlotte,00:00,41.730688,-87.559275
+0_Chicago_Charlotte,00:00,41.641346,-87.506448
+0_Chicago_Charlotte,00:00,41.609568,-87.376372
+0_Chicago_Charlotte,00:00,41.57817,-87.296369
+0_Chicago_Charlotte,00:00,41.459203,-87.322436
+0_Chicago_Charlotte,00:00,41.18667,-87.2838
+0_Chicago_Charlotte,00:00,40.95221,-87.226275
+0_Chicago_Charlotte,00:00,40.758341,-87.114763
+0_Chicago_Charlotte,00:00,40.470119,-86.852289
+0_Chicago_Charlotte,00:00,40.175944,-86.554231
+0_Chicago_Charlotte,00:00,39.934033,-86.341902
+0_Chicago_Charlotte,00:00,39.855265,-86.266744
+0_Chicago_Charlotte,00:00,39.823767,-86.224372
+0_Chicago_Charlotte,00:00,39.804526,-86.16619
+0_Chicago_Charlotte,00:00,39.783706,-86.141581
+0_Chicago_Charlotte,00:00,39.802117,-86.087949
+0_Chicago_Charlotte,00:00,39.803596,-85.964301
+0_Chicago_Charlotte,00:00,39.838587,-85.558989
+0_Chicago_Charlotte,00:00,39.852966,-85.343008
+0_Chicago_Charlotte,00:00,39.867338,-84.925826
+0_Chicago_Charlotte,00:00,39.838291,-84.445626
+0_Chicago_Charlotte,00:00,39.825066,-84.291522
+0_Chicago_Charlotte,00:00,39.794949,-84.247776
+0_Chicago_Charlotte,00:00,39.762323,-84.205065
+0_Chicago_Charlotte,00:00,39.749856,-84.139082
+0_Chicago_Charlotte,00:00,39.701315,-84.000077
+0_Chicago_Charlotte,00:00,39.668065,-83.908044
+0_Chicago_Charlotte,00:00,39.669518,-83.731102
+0_Chicago_Charlotte,00:00,39.613119,-83.596279
+0_Chicago_Charlotte,00:00,39.535759,-83.470959
+0_Chicago_Charlotte,00:00,39.436783,-83.193002
+0_Chicago_Charlotte,00:00,39.292785,-82.899691
+0_Chicago_Charlotte,00:00,39.195927,-82.794398
+0_Chicago_Charlotte,00:00,39.123265,-82.699875
+0_Chicago_Charlotte,00:00,39.045503,-82.613189
+0_Chicago_Charlotte,00:00,38.919731,-82.461322
+0_Chicago_Charlotte,00:00,38.889234,-82.352884
+0_Chicago_Charlotte,00:00,38.842241,-82.213254
+0_Chicago_Charlotte,00:00,38.804865,-82.10297
+0_Chicago_Charlotte,00:00,38.655255,-81.991434
+0_Chicago_Charlotte,00:00,38.542903,-81.968894
+0_Chicago_Charlotte,00:00,38.459429,-81.905147
+0_Chicago_Charlotte,00:00,38.400022,-81.785187
+0_Chicago_Charlotte,00:00,38.363874,-81.676192
+0_Chicago_Charlotte,00:00,38.317489,-81.5612
+0_Chicago_Charlotte,00:00,38.232534,-81.550871
+0_Chicago_Charlotte,00:00,38.174102,-81.449488
+0_Chicago_Charlotte,00:00,38.131596,-81.390386
+0_Chicago_Charlotte,00:00,38.050233,-81.373242
+0_Chicago_Charlotte,00:00,37.989211,-81.328786
+0_Chicago_Charlotte,00:00,37.922504,-81.269043
+0_Chicago_Charlotte,00:00,37.836473,-81.217024
+0_Chicago_Charlotte,00:00,37.751783,-81.207172
+0_Chicago_Charlotte,00:00,37.6881,-81.129459
+0_Chicago_Charlotte,00:00,37.542553,-81.116035
+0_Chicago_Charlotte,00:00,37.458807,-81.064436
+0_Chicago_Charlotte,00:00,37.375381,-81.043271
+0_Chicago_Charlotte,00:00,37.32689,-81.05984
+0_Chicago_Charlotte,00:00,37.290961,-81.123477
+0_Chicago_Charlotte,00:00,37.210176,-81.097311
+0_Chicago_Charlotte,00:00,37.141748,-81.137778
+0_Chicago_Charlotte,00:00,37.070768,-81.12674
+0_Chicago_Charlotte,00:00,37.004244,-81.097015
+0_Chicago_Charlotte,00:00,36.946771,-81.050769
+0_Chicago_Charlotte,00:00,36.946355,-80.943807
+0_Chicago_Charlotte,00:00,36.870186,-80.872372
+0_Chicago_Charlotte,00:00,36.789061,-80.835506
+0_Chicago_Charlotte,00:00,36.727142,-80.754229
+0_Chicago_Charlotte,00:00,36.652289,-80.705365
+0_Chicago_Charlotte,00:00,36.601423,-80.737826
+0_Chicago_Charlotte,00:00,36.514426,-80.742647
+0_Chicago_Charlotte,00:00,36.404456,-80.784131
+0_Chicago_Charlotte,00:00,36.221547,-80.812314
+0_Chicago_Charlotte,00:00,36.084316,-80.817066
+0_Chicago_Charlotte,00:00,35.92185,-80.855579
+0_Chicago_Charlotte,00:00,35.734962,-80.859095
+0_Chicago_Charlotte,00:00,35.6134,-80.857552
+0_Chicago_Charlotte,00:00,35.48504,-80.874874
+0_Chicago_Charlotte,00:00,35.392495,-80.852384
+0_Chicago_Charlotte,00:00,35.310272,-80.847743
+0_Chicago_Charlotte,00:00,35.2568,-80.841973
+1_Chicago_Charlotte,00:00,41.878113,-87.629772
+1_Chicago_Charlotte,00:00,41.775676,-87.628412
+1_Chicago_Charlotte,00:00,41.675205,-87.522471
+1_Chicago_Charlotte,00:00,41.609568,-87.376372
+1_Chicago_Charlotte,00:00,41.551363,-87.311239
+1_Chicago_Charlotte,00:00,41.262193,-87.295884
+1_Chicago_Charlotte,00:00,40.95221,-87.226275
+1_Chicago_Charlotte,00:00,40.635688,-87.006714
+1_Chicago_Charlotte,00:00,40.29793,-86.716806
+1_Chicago_Charlotte,00:00,39.934033,-86.341902
+1_Chicago_Charlotte,00:00,39.84188,-86.255281
+1_Chicago_Charlotte,00:00,39.811797,-86.171092
+1_Chicago_Charlotte,00:00,39.783023,-86.142452
+1_Chicago_Charlotte,00:00,39.72611,-86.134377
+1_Chicago_Charlotte,00:00,39.550214,-86.041152
+1_Chicago_Charlotte,00:00,39.113825,-85.955571
+1_Chicago_Charlotte,00:00,38.888974,-85.810737
+1_Chicago_Charlotte,00:00,38.685745,-85.788251
+1_Chicago_Charlotte,00:00,38.475788,-85.770138
+1_Chicago_Charlotte,00:00,38.343526,-85.691615
+1_Chicago_Charlotte,00:00,38.282675,-85.501001
+1_Chicago_Charlotte,00:00,38.203742,-85.323558
+1_Chicago_Charlotte,00:00,38.146934,-85.017185
+1_Chicago_Charlotte,00:00,38.157325,-84.885783
+1_Chicago_Charlotte,00:00,38.169628,-84.767486
+1_Chicago_Charlotte,00:00,38.159439,-84.670365
+1_Chicago_Charlotte,00:00,38.148583,-84.587911
+1_Chicago_Charlotte,00:00,38.029255,-84.418342
+1_Chicago_Charlotte,00:00,37.857343,-84.332322
+1_Chicago_Charlotte,00:00,37.786519,-84.320986
+1_Chicago_Charlotte,00:00,37.708964,-84.319851
+1_Chicago_Charlotte,00:00,37.602692,-84.314556
+1_Chicago_Charlotte,00:00,37.48449,-84.331577
+1_Chicago_Charlotte,00:00,37.32569,-84.302133
+1_Chicago_Charlotte,00:00,37.22743,-84.217511
+1_Chicago_Charlotte,00:00,37.182506,-84.136717
+1_Chicago_Charlotte,00:00,37.098005,-84.100875
+1_Chicago_Charlotte,00:00,37.0199,-84.099831
+1_Chicago_Charlotte,00:00,36.956758,-84.068935
+1_Chicago_Charlotte,00:00,36.919684,-83.930529
+1_Chicago_Charlotte,00:00,36.856519,-83.86978
+1_Chicago_Charlotte,00:00,36.862328,-83.795601
+1_Chicago_Charlotte,00:00,36.790404,-83.748832
+1_Chicago_Charlotte,00:00,36.743209,-83.69358
+1_Chicago_Charlotte,00:00,36.696998,-83.689784
+1_Chicago_Charlotte,00:00,36.648808,-83.700496
+1_Chicago_Charlotte,00:00,36.597888,-83.676135
+1_Chicago_Charlotte,00:00,36.53538,-83.62806
+1_Chicago_Charlotte,00:00,36.464578,-83.572088
+1_Chicago_Charlotte,00:00,36.424313,-83.527554
+1_Chicago_Charlotte,00:00,36.408934,-83.474428
+1_Chicago_Charlotte,00:00,36.368544,-83.437771
+1_Chicago_Charlotte,00:00,36.354751,-83.373288
+1_Chicago_Charlotte,00:00,36.333814,-83.284498
+1_Chicago_Charlotte,00:00,36.274605,-83.282319
+1_Chicago_Charlotte,00:00,36.184492,-83.273003
+1_Chicago_Charlotte,00:00,36.071915,-83.262767
+1_Chicago_Charlotte,00:00,35.983673,-83.218587
+1_Chicago_Charlotte,00:00,35.824609,-83.18334
+1_Chicago_Charlotte,00:00,35.757247,-83.052616
+1_Chicago_Charlotte,00:00,35.690951,-83.035341
+1_Chicago_Charlotte,00:00,35.587163,-82.995934
+1_Chicago_Charlotte,00:00,35.540046,-82.809443
+1_Chicago_Charlotte,00:00,35.550656,-82.608918
+1_Chicago_Charlotte,00:00,35.420381,-82.526142
+1_Chicago_Charlotte,00:00,35.272694,-82.371317
+1_Chicago_Charlotte,00:00,35.250765,-82.211809
+1_Chicago_Charlotte,00:00,35.30643,-81.955843
+1_Chicago_Charlotte,00:00,35.296525,-81.673556
+1_Chicago_Charlotte,00:00,35.27676,-81.536186
+1_Chicago_Charlotte,00:00,35.250194,-81.402006
+1_Chicago_Charlotte,00:00,35.262827,-81.265927
+1_Chicago_Charlotte,00:00,35.257493,-80.995903
+1_Chicago_Charlotte,00:00,35.24098,-80.887394
+1_Chicago_Charlotte,00:00,35.223873,-80.847923
+0_Chicago_Seattle,00:00,41.878113,-87.629772
+0_Chicago_Seattle,00:00,41.889615,-87.64861
+0_Chicago_Seattle,00:00,41.929581,-87.690595
+0_Chicago_Seattle,00:00,41.962834,-87.745513
+0_Chicago_Seattle,00:00,41.984586,-87.834955
+0_Chicago_Seattle,00:00,42.022171,-87.955458
+0_Chicago_Seattle,00:00,42.06662,-88.285123
+0_Chicago_Seattle,00:00,42.165101,-88.581852
+0_Chicago_Seattle,00:00,42.235372,-88.910301
+0_Chicago_Seattle,00:00,42.43165,-88.987565
+0_Chicago_Seattle,00:00,42.556686,-88.980784
+0_Chicago_Seattle,00:00,42.634842,-88.985126
+0_Chicago_Seattle,00:00,42.734122,-89.002719
+0_Chicago_Seattle,00:00,42.899583,-89.078622
+0_Chicago_Seattle,00:00,42.976632,-89.117877
+0_Chicago_Seattle,00:00,43.001673,-89.198008
+0_Chicago_Seattle,00:00,43.046715,-89.270759
+0_Chicago_Seattle,00:00,43.113764,-89.286301
+0_Chicago_Seattle,00:00,43.206481,-89.355924
+0_Chicago_Seattle,00:00,43.324485,-89.449069
+0_Chicago_Seattle,00:00,43.411247,-89.467944
+0_Chicago_Seattle,00:00,43.485501,-89.492281
+0_Chicago_Seattle,00:00,43.519846,-89.529941
+0_Chicago_Seattle,00:00,43.553405,-89.693808
+0_Chicago_Seattle,00:00,43.581406,-89.804341
+0_Chicago_Seattle,00:00,43.640883,-89.811309
+0_Chicago_Seattle,00:00,43.728904,-89.912233
+0_Chicago_Seattle,00:00,43.811566,-90.071582
+0_Chicago_Seattle,00:00,43.902777,-90.200384
+0_Chicago_Seattle,00:00,43.986481,-90.445455
+0_Chicago_Seattle,00:00,43.943873,-90.755603
+0_Chicago_Seattle,00:00,43.886209,-90.999837
+0_Chicago_Seattle,00:00,43.87099,-91.138441
+0_Chicago_Seattle,00:00,43.858931,-91.289292
+0_Chicago_Seattle,00:00,43.922019,-91.374225
+0_Chicago_Seattle,00:00,43.914739,-91.589093
+0_Chicago_Seattle,00:00,43.932965,-91.932512
+0_Chicago_Seattle,00:00,43.955188,-92.343279
+0_Chicago_Seattle,00:00,43.919938,-92.415999
+0_Chicago_Seattle,00:00,43.856372,-92.529776
+0_Chicago_Seattle,00:00,43.677334,-92.745726
+0_Chicago_Seattle,00:00,43.677339,-92.958815
+0_Chicago_Seattle,00:00,43.663902,-93.02342
+0_Chicago_Seattle,00:00,43.661684,-93.198393
+0_Chicago_Seattle,00:00,43.688818,-93.363354
+0_Chicago_Seattle,00:00,43.666468,-93.517267
+0_Chicago_Seattle,00:00,43.651459,-93.756121
+0_Chicago_Seattle,00:00,43.660033,-94.102921
+0_Chicago_Seattle,00:00,43.674674,-94.428936
+0_Chicago_Seattle,00:00,43.666886,-94.70471
+0_Chicago_Seattle,00:00,43.638716,-95.163101
+0_Chicago_Seattle,00:00,43.638257,-95.733223
+0_Chicago_Seattle,00:00,43.642516,-95.942326
+0_Chicago_Seattle,00:00,43.636772,-96.244505
+0_Chicago_Seattle,00:00,43.609221,-96.583845
+0_Chicago_Seattle,00:00,43.606169,-96.71975
+0_Chicago_Seattle,00:00,43.608674,-96.851091
+0_Chicago_Seattle,00:00,43.666485,-97.399769
+0_Chicago_Seattle,00:00,43.691854,-98.02161
+0_Chicago_Seattle,00:00,43.695051,-98.403472
+0_Chicago_Seattle,00:00,43.717733,-98.715298
+0_Chicago_Seattle,00:00,43.7378,-98.88696
+0_Chicago_Seattle,00:00,43.752193,-99.199248
+0_Chicago_Seattle,00:00,43.781324,-99.331858
+0_Chicago_Seattle,00:00,43.80601,-99.370503
+0_Chicago_Seattle,00:00,43.847011,-99.512871
+0_Chicago_Seattle,00:00,43.868748,-99.62225
+0_Chicago_Seattle,00:00,43.877911,-99.806783
+0_Chicago_Seattle,00:00,43.9122,-100.187752
+0_Chicago_Seattle,00:00,43.908482,-100.636847
+0_Chicago_Seattle,00:00,43.886799,-100.760469
+0_Chicago_Seattle,00:00,43.900993,-101.083497
+0_Chicago_Seattle,00:00,43.850282,-101.49458
+0_Chicago_Seattle,00:00,43.91101,-102.066546
+0_Chicago_Seattle,00:00,44.047656,-102.358625
+0_Chicago_Seattle,00:00,44.06771,-102.45941
+0_Chicago_Seattle,00:00,44.111446,-102.914285
+0_Chicago_Seattle,00:00,44.102105,-103.143555
+0_Chicago_Seattle,00:00,44.105234,-103.231353
+0_Chicago_Seattle,00:00,44.161941,-103.307062
+0_Chicago_Seattle,00:00,44.37411,-103.476345
+0_Chicago_Seattle,00:00,44.466929,-103.631606
+0_Chicago_Seattle,00:00,44.558311,-103.743805
+0_Chicago_Seattle,00:00,44.641065,-103.849586
+0_Chicago_Seattle,00:00,44.669446,-103.853609
+0_Chicago_Seattle,00:00,44.751986,-103.957907
+0_Chicago_Seattle,00:00,44.885961,-104.184978
+0_Chicago_Seattle,00:00,45.023524,-104.408932
+0_Chicago_Seattle,00:00,45.24708,-104.984832
+0_Chicago_Seattle,00:00,45.400224,-105.362043
+0_Chicago_Seattle,00:00,45.457389,-105.44478
+0_Chicago_Seattle,00:00,45.549933,-105.869947
+0_Chicago_Seattle,00:00,45.570736,-106.045645
+0_Chicago_Seattle,00:00,45.588057,-106.255982
+0_Chicago_Seattle,00:00,45.616673,-106.385974
+0_Chicago_Seattle,00:00,45.630047,-106.474502
+0_Chicago_Seattle,00:00,45.636475,-106.594556
+0_Chicago_Seattle,00:00,45.617583,-106.690367
+0_Chicago_Seattle,00:00,45.608619,-106.793429
+0_Chicago_Seattle,00:00,45.551803,-106.927788
+0_Chicago_Seattle,00:00,45.518119,-107.153096
+0_Chicago_Seattle,00:00,45.578528,-107.445617
+0_Chicago_Seattle,00:00,45.74643,-107.61875
+0_Chicago_Seattle,00:00,45.783021,-108.062461
+0_Chicago_Seattle,00:00,45.804228,-108.309603
+0_Chicago_Seattle,00:00,45.814132,-108.415691
+0_Chicago_Seattle,00:00,45.749698,-108.563614
+0_Chicago_Seattle,00:00,45.636936,-108.902417
+0_Chicago_Seattle,00:00,45.600721,-109.125405
+0_Chicago_Seattle,00:00,45.658467,-109.313577
+0_Chicago_Seattle,00:00,45.707884,-109.508768
+0_Chicago_Seattle,00:00,45.732556,-109.739929
+0_Chicago_Seattle,00:00,45.823952,-109.978771
+0_Chicago_Seattle,00:00,45.707392,-110.261449
+0_Chicago_Seattle,00:00,45.708779,-110.45006
+0_Chicago_Seattle,00:00,45.661516,-110.664119
+0_Chicago_Seattle,00:00,45.657233,-110.778597
+0_Chicago_Seattle,00:00,45.639943,-110.915817
+0_Chicago_Seattle,00:00,45.691747,-111.024553
+0_Chicago_Seattle,00:00,45.834365,-111.291776
+0_Chicago_Seattle,00:00,45.90578,-111.543445
+0_Chicago_Seattle,00:00,45.87735,-111.896615
+0_Chicago_Seattle,00:00,45.90941,-112.261083
+0_Chicago_Seattle,00:00,45.92154,-112.41705
+0_Chicago_Seattle,00:00,45.981344,-112.486888
+0_Chicago_Seattle,00:00,46.005612,-112.579997
+0_Chicago_Seattle,00:00,46.06037,-112.766461
+0_Chicago_Seattle,00:00,46.272748,-112.747367
+0_Chicago_Seattle,00:00,46.504736,-112.750258
+0_Chicago_Seattle,00:00,46.542299,-112.84558
+0_Chicago_Seattle,00:00,46.606502,-113.015567
+0_Chicago_Seattle,00:00,46.672865,-113.160956
+0_Chicago_Seattle,00:00,46.710784,-113.26457
+0_Chicago_Seattle,00:00,46.71659,-113.321917
+0_Chicago_Seattle,00:00,46.704732,-113.378457
+0_Chicago_Seattle,00:00,46.704498,-113.455901
+0_Chicago_Seattle,00:00,46.71203,-113.512776
+0_Chicago_Seattle,00:00,46.726987,-113.676166
+0_Chicago_Seattle,00:00,46.835,-113.827829
+0_Chicago_Seattle,00:00,46.864853,-113.956087
+0_Chicago_Seattle,00:00,46.920767,-114.061913
+0_Chicago_Seattle,00:00,47.019367,-114.244527
+0_Chicago_Seattle,00:00,46.995549,-114.454886
+0_Chicago_Seattle,00:00,47.017727,-114.67127
+0_Chicago_Seattle,00:00,47.178843,-114.869322
+0_Chicago_Seattle,00:00,47.247349,-115.053779
+0_Chicago_Seattle,00:00,47.308247,-115.207305
+0_Chicago_Seattle,00:00,47.320303,-115.245362
+0_Chicago_Seattle,00:00,47.33905,-115.270648
+0_Chicago_Seattle,00:00,47.359861,-115.316267
+0_Chicago_Seattle,00:00,47.393575,-115.420071
+0_Chicago_Seattle,00:00,47.401104,-115.463769
+0_Chicago_Seattle,00:00,47.407659,-115.502717
+0_Chicago_Seattle,00:00,47.41724,-115.561182
+0_Chicago_Seattle,00:00,47.419654,-115.602162
+0_Chicago_Seattle,00:00,47.431351,-115.64633
+0_Chicago_Seattle,00:00,47.438073,-115.682114
+0_Chicago_Seattle,00:00,47.462925,-115.700883
+0_Chicago_Seattle,00:00,47.461161,-115.732697
+0_Chicago_Seattle,00:00,47.469716,-115.767402
+0_Chicago_Seattle,00:00,47.465501,-115.81591
+0_Chicago_Seattle,00:00,47.472837,-115.864026
+0_Chicago_Seattle,00:00,47.472383,-115.915841
+0_Chicago_Seattle,00:00,47.491682,-115.960258
+0_Chicago_Seattle,00:00,47.510335,-116.012256
+0_Chicago_Seattle,00:00,47.530221,-116.08706
+0_Chicago_Seattle,00:00,47.548153,-116.158007
+0_Chicago_Seattle,00:00,47.549498,-116.267733
+0_Chicago_Seattle,00:00,47.546323,-116.339077
+0_Chicago_Seattle,00:00,47.574877,-116.440624
+0_Chicago_Seattle,00:00,47.606171,-116.503013
+0_Chicago_Seattle,00:00,47.62263,-116.553894
+0_Chicago_Seattle,00:00,47.630911,-116.610465
+0_Chicago_Seattle,00:00,47.63117,-116.696547
+0_Chicago_Seattle,00:00,47.65231,-116.716772
+0_Chicago_Seattle,00:00,47.675734,-116.752261
+0_Chicago_Seattle,00:00,47.70857,-116.854602
+0_Chicago_Seattle,00:00,47.714215,-116.959141
+0_Chicago_Seattle,00:00,47.689114,-117.067106
+0_Chicago_Seattle,00:00,47.674042,-117.248557
+0_Chicago_Seattle,00:00,47.653978,-117.386939
+0_Chicago_Seattle,00:00,47.602674,-117.541842
+0_Chicago_Seattle,00:00,47.395896,-117.840507
+0_Chicago_Seattle,00:00,47.284612,-118.043101
+0_Chicago_Seattle,00:00,47.206131,-118.237347
+0_Chicago_Seattle,00:00,47.102766,-118.597952
+0_Chicago_Seattle,00:00,47.086168,-119.059764
+0_Chicago_Seattle,00:00,47.10359,-119.769018
+0_Chicago_Seattle,00:00,47.013629,-119.951099
+0_Chicago_Seattle,00:00,46.956848,-119.962577
+0_Chicago_Seattle,00:00,46.940976,-120.062566
+0_Chicago_Seattle,00:00,46.946871,-120.202017
+0_Chicago_Seattle,00:00,46.971376,-120.441429
+0_Chicago_Seattle,00:00,47.057856,-120.676394
+0_Chicago_Seattle,00:00,47.131621,-120.80856
+0_Chicago_Seattle,00:00,47.194808,-120.962787
+0_Chicago_Seattle,00:00,47.234143,-121.170693
+0_Chicago_Seattle,00:00,47.268598,-121.242249
+0_Chicago_Seattle,00:00,47.29883,-121.290153
+0_Chicago_Seattle,00:00,47.338946,-121.350426
+0_Chicago_Seattle,00:00,47.36295,-121.372873
+0_Chicago_Seattle,00:00,47.402587,-121.403893
+0_Chicago_Seattle,00:00,47.416875,-121.445547
+0_Chicago_Seattle,00:00,47.398126,-121.548712
+0_Chicago_Seattle,00:00,47.430325,-121.634189
+0_Chicago_Seattle,00:00,47.464886,-121.713816
+0_Chicago_Seattle,00:00,47.515142,-121.84299
+0_Chicago_Seattle,00:00,47.531277,-121.943734
+0_Chicago_Seattle,00:00,47.532373,-122.02071
+0_Chicago_Seattle,00:00,47.579109,-122.140375
+0_Chicago_Seattle,00:00,47.584798,-122.225
+0_Chicago_Seattle,00:00,47.594651,-122.31335
+1_Chicago_Seattle,00:00,41.878113,-87.629772
+1_Chicago_Seattle,00:00,41.875687,-87.694906
+1_Chicago_Seattle,00:00,41.873642,-87.814605
+1_Chicago_Seattle,00:00,41.868556,-87.918965
+1_Chicago_Seattle,00:00,41.827133,-88.021963
+1_Chicago_Seattle,00:00,41.806453,-88.141742
+1_Chicago_Seattle,00:00,41.795482,-88.341762
+1_Chicago_Seattle,00:00,41.806587,-88.437439
+1_Chicago_Seattle,00:00,41.898293,-88.644071
+1_Chicago_Seattle,00:00,41.905283,-89.011973
+1_Chicago_Seattle,00:00,41.822829,-89.389234
+1_Chicago_Seattle,00:00,41.762778,-89.631598
+1_Chicago_Seattle,00:00,41.724158,-89.960316
+1_Chicago_Seattle,00:00,41.604738,-90.192628
+1_Chicago_Seattle,00:00,41.53638,-90.328106
+1_Chicago_Seattle,00:00,41.550672,-90.341456
+1_Chicago_Seattle,00:00,41.562101,-90.345349
+1_Chicago_Seattle,00:00,41.569373,-90.357258
+1_Chicago_Seattle,00:00,41.596727,-90.484055
+1_Chicago_Seattle,00:00,41.604507,-90.7246
+1_Chicago_Seattle,00:00,41.638135,-91.043536
+1_Chicago_Seattle,00:00,41.663541,-91.259312
+1_Chicago_Seattle,00:00,41.669343,-91.438975
+1_Chicago_Seattle,00:00,41.693519,-91.598545
+1_Chicago_Seattle,00:00,41.687863,-91.804136
+1_Chicago_Seattle,00:00,41.687581,-92.051467
+1_Chicago_Seattle,00:00,41.695906,-92.23198
+1_Chicago_Seattle,00:00,41.696229,-92.437224
+1_Chicago_Seattle,00:00,41.695576,-92.681817
+1_Chicago_Seattle,00:00,41.680052,-92.940874
+1_Chicago_Seattle,00:00,41.681478,-93.115303
+1_Chicago_Seattle,00:00,41.682686,-93.29696
+1_Chicago_Seattle,00:00,41.65054,-93.590086
+1_Chicago_Seattle,00:00,41.649331,-93.773683
+1_Chicago_Seattle,00:00,41.563889,-93.874659
+1_Chicago_Seattle,00:00,41.517734,-94.113417
+1_Chicago_Seattle,00:00,41.493434,-94.360428
+1_Chicago_Seattle,00:00,41.496878,-94.724914
+1_Chicago_Seattle,00:00,41.497301,-94.944991
+1_Chicago_Seattle,00:00,41.497901,-95.089207
+1_Chicago_Seattle,00:00,41.49755,-95.259448
+1_Chicago_Seattle,00:00,41.499224,-95.477044
+1_Chicago_Seattle,00:00,41.487206,-95.587234
+1_Chicago_Seattle,00:00,41.393352,-95.667527
+1_Chicago_Seattle,00:00,41.332758,-95.740148
+1_Chicago_Seattle,00:00,41.242611,-95.82341
+1_Chicago_Seattle,00:00,41.226809,-95.941057
+1_Chicago_Seattle,00:00,41.222879,-95.994293
+1_Chicago_Seattle,00:00,41.222896,-96.073767
+1_Chicago_Seattle,00:00,41.192926,-96.098121
+1_Chicago_Seattle,00:00,41.126039,-96.195272
+1_Chicago_Seattle,00:00,41.054034,-96.29683
+1_Chicago_Seattle,00:00,40.928352,-96.448983
+1_Chicago_Seattle,00:00,40.897008,-96.654817
+1_Chicago_Seattle,00:00,40.818507,-96.755211
+1_Chicago_Seattle,00:00,40.821723,-96.935041
+1_Chicago_Seattle,00:00,40.822466,-97.168866
+1_Chicago_Seattle,00:00,40.822029,-97.445133
+1_Chicago_Seattle,00:00,40.821571,-97.773286
+1_Chicago_Seattle,00:00,40.822079,-98.054781
+1_Chicago_Seattle,00:00,40.822495,-98.321077
+1_Chicago_Seattle,00:00,40.766256,-98.576523
+1_Chicago_Seattle,00:00,40.720975,-98.769557
+1_Chicago_Seattle,00:00,40.682866,-98.966861
+1_Chicago_Seattle,00:00,40.672648,-99.221213
+1_Chicago_Seattle,00:00,40.693458,-99.473027
+1_Chicago_Seattle,00:00,40.740261,-99.733484
+1_Chicago_Seattle,00:00,40.85641,-100.012415
+1_Chicago_Seattle,00:00,40.953817,-100.251918
+1_Chicago_Seattle,00:00,41.0471,-100.500756
+1_Chicago_Seattle,00:00,41.103982,-100.717347
+1_Chicago_Seattle,00:00,41.138554,-101.139775
+1_Chicago_Seattle,00:00,41.109007,-101.424027
+1_Chicago_Seattle,00:00,41.120589,-101.679074
+1_Chicago_Seattle,00:00,41.094585,-101.820788
+1_Chicago_Seattle,00:00,41.059425,-102.036326
+1_Chicago_Seattle,00:00,41.042259,-102.2508
+1_Chicago_Seattle,00:00,41.090668,-102.513663
+1_Chicago_Seattle,00:00,41.112933,-102.925101
+1_Chicago_Seattle,00:00,41.192661,-103.163085
+1_Chicago_Seattle,00:00,41.222222,-103.395843
+1_Chicago_Seattle,00:00,41.190723,-103.860534
+1_Chicago_Seattle,00:00,41.167552,-104.087818
+1_Chicago_Seattle,00:00,41.158507,-104.595589
+1_Chicago_Seattle,00:00,41.114157,-104.849904
+1_Chicago_Seattle,00:00,41.10041,-105.063831
+1_Chicago_Seattle,00:00,41.104867,-105.233763
+1_Chicago_Seattle,00:00,41.158591,-105.403724
+1_Chicago_Seattle,00:00,41.26565,-105.469573
+1_Chicago_Seattle,00:00,41.298729,-105.598685
+1_Chicago_Seattle,00:00,41.363205,-105.77504
+1_Chicago_Seattle,00:00,41.481169,-106.018035
+1_Chicago_Seattle,00:00,41.591426,-106.185863
+1_Chicago_Seattle,00:00,41.668767,-106.36905
+1_Chicago_Seattle,00:00,41.753993,-106.513015
+1_Chicago_Seattle,00:00,41.742033,-106.842929
+1_Chicago_Seattle,00:00,41.789265,-107.200262
+1_Chicago_Seattle,00:00,41.789244,-107.383191
+1_Chicago_Seattle,00:00,41.706002,-107.877716
+1_Chicago_Seattle,00:00,41.636335,-108.42176
+1_Chicago_Seattle,00:00,41.687742,-108.814406
+1_Chicago_Seattle,00:00,41.666986,-108.970935
+1_Chicago_Seattle,00:00,41.608163,-109.228661
+1_Chicago_Seattle,00:00,41.523621,-109.442124
+1_Chicago_Seattle,00:00,41.563814,-109.557035
+1_Chicago_Seattle,00:00,41.540979,-109.922845
+1_Chicago_Seattle,00:00,41.391736,-110.188688
+1_Chicago_Seattle,00:00,41.298739,-110.551221
+1_Chicago_Seattle,00:00,41.28781,-110.7862
+1_Chicago_Seattle,00:00,41.266661,-110.950084
+1_Chicago_Seattle,00:00,41.247587,-111.045213
+1_Chicago_Seattle,00:00,41.117939,-111.194028
+1_Chicago_Seattle,00:00,40.991094,-111.402449
+1_Chicago_Seattle,00:00,41.000753,-111.468742
+1_Chicago_Seattle,00:00,41.063214,-111.546113
+1_Chicago_Seattle,00:00,41.051212,-111.625204
+1_Chicago_Seattle,00:00,41.138383,-111.828491
+1_Chicago_Seattle,00:00,41.136883,-111.920618
+1_Chicago_Seattle,00:00,41.206717,-111.994643
+1_Chicago_Seattle,00:00,41.343397,-112.038486
+1_Chicago_Seattle,00:00,41.52148,-112.064146
+1_Chicago_Seattle,00:00,41.708334,-112.200183
+1_Chicago_Seattle,00:00,41.805526,-112.324328
+1_Chicago_Seattle,00:00,41.882459,-112.481552
+1_Chicago_Seattle,00:00,41.920687,-112.62804
+1_Chicago_Seattle,00:00,41.996906,-112.829992
+1_Chicago_Seattle,00:00,42.154866,-112.987208
+1_Chicago_Seattle,00:00,42.215042,-113.048786
+1_Chicago_Seattle,00:00,42.267055,-113.143041
+1_Chicago_Seattle,00:00,42.426146,-113.331803
+1_Chicago_Seattle,00:00,42.570228,-113.521642
+1_Chicago_Seattle,00:00,42.568388,-113.775052
+1_Chicago_Seattle,00:00,42.576836,-113.919449
+1_Chicago_Seattle,00:00,42.575166,-114.151212
+1_Chicago_Seattle,00:00,42.583378,-114.311137
+1_Chicago_Seattle,00:00,42.720663,-114.541744
+1_Chicago_Seattle,00:00,42.798894,-114.757047
+1_Chicago_Seattle,00:00,42.873041,-114.864228
+1_Chicago_Seattle,00:00,42.938213,-115.000529
+1_Chicago_Seattle,00:00,42.965161,-115.188119
+1_Chicago_Seattle,00:00,42.960904,-115.276626
+1_Chicago_Seattle,00:00,42.948308,-115.394516
+1_Chicago_Seattle,00:00,42.995138,-115.530778
+1_Chicago_Seattle,00:00,43.115201,-115.64257
+1_Chicago_Seattle,00:00,43.365081,-115.974946
+1_Chicago_Seattle,00:00,43.567921,-116.201689
+1_Chicago_Seattle,00:00,43.595372,-116.358639
+1_Chicago_Seattle,00:00,43.616769,-116.60558
+1_Chicago_Seattle,00:00,43.700144,-116.698721
+1_Chicago_Seattle,00:00,43.804262,-116.750408
+1_Chicago_Seattle,00:00,43.88756,-116.802758
+1_Chicago_Seattle,00:00,43.979264,-116.923217
+1_Chicago_Seattle,00:00,44.151907,-117.110946
+1_Chicago_Seattle,00:00,44.263583,-117.190144
+1_Chicago_Seattle,00:00,44.374765,-117.298411
+1_Chicago_Seattle,00:00,44.450584,-117.330912
+1_Chicago_Seattle,00:00,44.485524,-117.360197
+1_Chicago_Seattle,00:00,44.524687,-117.396886
+1_Chicago_Seattle,00:00,44.628636,-117.516826
+1_Chicago_Seattle,00:00,44.74751,-117.804736
+1_Chicago_Seattle,00:00,44.974747,-117.882172
+1_Chicago_Seattle,00:00,45.183915,-117.98783
+1_Chicago_Seattle,00:00,45.33764,-118.078355
+1_Chicago_Seattle,00:00,45.346807,-118.143344
+1_Chicago_Seattle,00:00,45.354627,-118.187146
+1_Chicago_Seattle,00:00,45.342631,-118.227839
+1_Chicago_Seattle,00:00,45.386681,-118.316278
+1_Chicago_Seattle,00:00,45.452776,-118.378362
+1_Chicago_Seattle,00:00,45.550861,-118.464434
+1_Chicago_Seattle,00:00,45.599321,-118.508653
+1_Chicago_Seattle,00:00,45.585332,-118.605604
+1_Chicago_Seattle,00:00,45.595532,-118.613607
+1_Chicago_Seattle,00:00,45.629844,-118.670516
+1_Chicago_Seattle,00:00,45.675969,-118.877918
+1_Chicago_Seattle,00:00,45.887258,-119.328982
+1_Chicago_Seattle,00:00,45.94928,-119.436303
+1_Chicago_Seattle,00:00,46.077721,-119.602076
+1_Chicago_Seattle,00:00,46.201068,-119.721902
+1_Chicago_Seattle,00:00,46.262532,-119.891314
+1_Chicago_Seattle,00:00,46.339181,-120.162546
+1_Chicago_Seattle,00:00,46.435006,-120.345131
+1_Chicago_Seattle,00:00,46.557427,-120.470317
+1_Chicago_Seattle,00:00,46.696601,-120.44229
+1_Chicago_Seattle,00:00,46.783999,-120.36786
+1_Chicago_Seattle,00:00,46.848,-120.386817
+1_Chicago_Seattle,00:00,46.968176,-120.509449
+1_Chicago_Seattle,00:00,47.050452,-120.654451
+1_Chicago_Seattle,00:00,47.128255,-120.803685
+1_Chicago_Seattle,00:00,47.194764,-120.958551
+1_Chicago_Seattle,00:00,47.227902,-121.162397
+1_Chicago_Seattle,00:00,47.268784,-121.239287
+1_Chicago_Seattle,00:00,47.297082,-121.287707
+1_Chicago_Seattle,00:00,47.334414,-121.346132
+1_Chicago_Seattle,00:00,47.361373,-121.372516
+1_Chicago_Seattle,00:00,47.40069,-121.402091
+1_Chicago_Seattle,00:00,47.418752,-121.444816
+1_Chicago_Seattle,00:00,47.397679,-121.543639
+1_Chicago_Seattle,00:00,47.429655,-121.631225
+1_Chicago_Seattle,00:00,47.462994,-121.707035
+1_Chicago_Seattle,00:00,47.515227,-121.838844
+1_Chicago_Seattle,00:00,47.529776,-121.941259
+1_Chicago_Seattle,00:00,47.53274,-122.019851
+1_Chicago_Seattle,00:00,47.578463,-122.132799
+1_Chicago_Seattle,00:00,47.58194,-122.21857
+1_Chicago_Seattle,00:00,47.594297,-122.312773
+"0_Chicago_Washington, D.C.",00:00,41.878113,-87.629772
+"0_Chicago_Washington, D.C.",00:00,41.811952,-87.63046
+"0_Chicago_Washington, D.C.",00:00,41.730688,-87.559275
+"0_Chicago_Washington, D.C.",00:00,41.641346,-87.506448
+"0_Chicago_Washington, D.C.",00:00,41.609568,-87.376372
+"0_Chicago_Washington, D.C.",00:00,41.591266,-87.227824
+"0_Chicago_Washington, D.C.",00:00,41.57921,-87.093209
+"0_Chicago_Washington, D.C.",00:00,41.602974,-86.86177
+"0_Chicago_Washington, D.C.",00:00,41.67363,-86.678129
+"0_Chicago_Washington, D.C.",00:00,41.741075,-86.528258
+"0_Chicago_Washington, D.C.",00:00,41.734314,-86.386168
+"0_Chicago_Washington, D.C.",00:00,41.715988,-86.197142
+"0_Chicago_Washington, D.C.",00:00,41.730807,-85.95594
+"0_Chicago_Washington, D.C.",00:00,41.746982,-85.692536
+"0_Chicago_Washington, D.C.",00:00,41.753406,-85.473909
+"0_Chicago_Washington, D.C.",00:00,41.751266,-85.268989
+"0_Chicago_Washington, D.C.",00:00,41.735624,-85.003727
+"0_Chicago_Washington, D.C.",00:00,41.641121,-84.832036
+"0_Chicago_Washington, D.C.",00:00,41.616709,-84.582846
+"0_Chicago_Washington, D.C.",00:00,41.599974,-84.375303
+"0_Chicago_Washington, D.C.",00:00,41.593422,-84.140935
+"0_Chicago_Washington, D.C.",00:00,41.599412,-83.79945
+"0_Chicago_Washington, D.C.",00:00,41.538131,-83.497366
+"0_Chicago_Washington, D.C.",00:00,41.417285,-83.157291
+"0_Chicago_Washington, D.C.",00:00,41.338251,-82.743909
+"0_Chicago_Washington, D.C.",00:00,41.341657,-82.350089
+"0_Chicago_Washington, D.C.",00:00,41.39036,-82.118795
+"0_Chicago_Washington, D.C.",00:00,41.370537,-81.97397
+"0_Chicago_Washington, D.C.",00:00,41.274636,-81.633385
+"0_Chicago_Washington, D.C.",00:00,41.256746,-81.483865
+"0_Chicago_Washington, D.C.",00:00,41.250272,-81.320793
+"0_Chicago_Washington, D.C.",00:00,41.243751,-81.09994
+"0_Chicago_Washington, D.C.",00:00,41.192661,-80.941119
+"0_Chicago_Washington, D.C.",00:00,41.093548,-80.82464
+"0_Chicago_Washington, D.C.",00:00,40.994801,-80.693819
+"0_Chicago_Washington, D.C.",00:00,40.923209,-80.554381
+"0_Chicago_Washington, D.C.",00:00,40.85062,-80.395386
+"0_Chicago_Washington, D.C.",00:00,40.798533,-80.291883
+"0_Chicago_Washington, D.C.",00:00,40.741395,-80.19295
+"0_Chicago_Washington, D.C.",00:00,40.652573,-80.060539
+"0_Chicago_Washington, D.C.",00:00,40.613319,-79.97088
+"0_Chicago_Washington, D.C.",00:00,40.594484,-79.897159
+"0_Chicago_Washington, D.C.",00:00,40.561298,-79.850539
+"0_Chicago_Washington, D.C.",00:00,40.520635,-79.806011
+"0_Chicago_Washington, D.C.",00:00,40.462641,-79.760912
+"0_Chicago_Washington, D.C.",00:00,40.376791,-79.675984
+"0_Chicago_Washington, D.C.",00:00,40.283233,-79.669287
+"0_Chicago_Washington, D.C.",00:00,40.224058,-79.606425
+"0_Chicago_Washington, D.C.",00:00,40.155086,-79.438432
+"0_Chicago_Washington, D.C.",00:00,40.107882,-79.242567
+"0_Chicago_Washington, D.C.",00:00,40.022111,-79.085831
+"0_Chicago_Washington, D.C.",00:00,39.957157,-78.845811
+"0_Chicago_Washington, D.C.",00:00,39.987095,-78.782746
+"0_Chicago_Washington, D.C.",00:00,40.010243,-78.669399
+"0_Chicago_Washington, D.C.",00:00,40.019102,-78.586066
+"0_Chicago_Washington, D.C.",00:00,40.028678,-78.488439
+"0_Chicago_Washington, D.C.",00:00,40.012551,-78.40525
+"0_Chicago_Washington, D.C.",00:00,39.991342,-78.321208
+"0_Chicago_Washington, D.C.",00:00,39.992515,-78.236418
+"0_Chicago_Washington, D.C.",00:00,39.964887,-78.247379
+"0_Chicago_Washington, D.C.",00:00,39.878215,-78.248087
+"0_Chicago_Washington, D.C.",00:00,39.780159,-78.203637
+"0_Chicago_Washington, D.C.",00:00,39.696753,-78.15272
+"0_Chicago_Washington, D.C.",00:00,39.627077,-77.983399
+"0_Chicago_Washington, D.C.",00:00,39.622447,-77.791293
+"0_Chicago_Washington, D.C.",00:00,39.587074,-77.642784
+"0_Chicago_Washington, D.C.",00:00,39.4861,-77.554234
+"0_Chicago_Washington, D.C.",00:00,39.404044,-77.462841
+"0_Chicago_Washington, D.C.",00:00,39.299869,-77.338508
+"0_Chicago_Washington, D.C.",00:00,39.151317,-77.219442
+"0_Chicago_Washington, D.C.",00:00,39.01127,-77.097809
+"0_Chicago_Washington, D.C.",00:00,38.966209,-77.088423
+"0_Chicago_Washington, D.C.",00:00,38.938266,-77.086018
+"0_Chicago_Washington, D.C.",00:00,38.921031,-77.062792
+"0_Chicago_Washington, D.C.",00:00,38.909145,-77.043241
+"1_Chicago_Washington, D.C.",00:00,41.878113,-87.629772
+"1_Chicago_Washington, D.C.",00:00,41.811952,-87.63046
+"1_Chicago_Washington, D.C.",00:00,41.730688,-87.559275
+"1_Chicago_Washington, D.C.",00:00,41.641346,-87.506448
+"1_Chicago_Washington, D.C.",00:00,41.609568,-87.376372
+"1_Chicago_Washington, D.C.",00:00,41.57817,-87.296369
+"1_Chicago_Washington, D.C.",00:00,41.459203,-87.322436
+"1_Chicago_Washington, D.C.",00:00,41.18667,-87.2838
+"1_Chicago_Washington, D.C.",00:00,40.95221,-87.226275
+"1_Chicago_Washington, D.C.",00:00,40.758341,-87.114763
+"1_Chicago_Washington, D.C.",00:00,40.470119,-86.852289
+"1_Chicago_Washington, D.C.",00:00,40.175944,-86.554231
+"1_Chicago_Washington, D.C.",00:00,39.934033,-86.341902
+"1_Chicago_Washington, D.C.",00:00,39.855265,-86.266744
+"1_Chicago_Washington, D.C.",00:00,39.823767,-86.224372
+"1_Chicago_Washington, D.C.",00:00,39.804526,-86.16619
+"1_Chicago_Washington, D.C.",00:00,39.783706,-86.141581
+"1_Chicago_Washington, D.C.",00:00,39.802117,-86.087949
+"1_Chicago_Washington, D.C.",00:00,39.803596,-85.964301
+"1_Chicago_Washington, D.C.",00:00,39.838587,-85.558989
+"1_Chicago_Washington, D.C.",00:00,39.852966,-85.343008
+"1_Chicago_Washington, D.C.",00:00,39.867338,-84.925826
+"1_Chicago_Washington, D.C.",00:00,39.838291,-84.445626
+"1_Chicago_Washington, D.C.",00:00,39.86595,-84.177374
+"1_Chicago_Washington, D.C.",00:00,39.892849,-83.878509
+"1_Chicago_Washington, D.C.",00:00,39.927644,-83.683699
+"1_Chicago_Washington, D.C.",00:00,39.980458,-83.249649
+"1_Chicago_Washington, D.C.",00:00,39.949714,-83.023152
+"1_Chicago_Washington, D.C.",00:00,39.935939,-82.885967
+"1_Chicago_Washington, D.C.",00:00,39.950429,-82.748287
+"1_Chicago_Washington, D.C.",00:00,39.945662,-82.60603
+"1_Chicago_Washington, D.C.",00:00,39.943916,-82.410319
+"1_Chicago_Washington, D.C.",00:00,39.944902,-82.006386
+"1_Chicago_Washington, D.C.",00:00,39.972261,-81.79787
+"1_Chicago_Washington, D.C.",00:00,40.003226,-81.498979
+"1_Chicago_Washington, D.C.",00:00,40.055677,-81.223307
+"1_Chicago_Washington, D.C.",00:00,40.056891,-81.115877
+"1_Chicago_Washington, D.C.",00:00,40.0653,-80.982016
+"1_Chicago_Washington, D.C.",00:00,40.0703,-80.857488
+"1_Chicago_Washington, D.C.",00:00,40.047686,-80.742659
+"1_Chicago_Washington, D.C.",00:00,40.063087,-80.590943
+"1_Chicago_Washington, D.C.",00:00,40.113256,-80.463851
+"1_Chicago_Washington, D.C.",00:00,40.124886,-80.364265
+"1_Chicago_Washington, D.C.",00:00,40.178479,-80.266628
+"1_Chicago_Washington, D.C.",00:00,40.163769,-80.19975
+"1_Chicago_Washington, D.C.",00:00,40.168722,-80.100881
+"1_Chicago_Washington, D.C.",00:00,40.128465,-79.961652
+"1_Chicago_Washington, D.C.",00:00,40.063499,-79.903168
+"1_Chicago_Washington, D.C.",00:00,39.99277,-79.90046
+"1_Chicago_Washington, D.C.",00:00,39.964899,-79.804186
+"1_Chicago_Washington, D.C.",00:00,39.918117,-79.72703
+"1_Chicago_Washington, D.C.",00:00,39.869646,-79.699389
+"1_Chicago_Washington, D.C.",00:00,39.828295,-79.59723
+"1_Chicago_Washington, D.C.",00:00,39.756781,-79.443846
+"1_Chicago_Washington, D.C.",00:00,39.753372,-79.357166
+"1_Chicago_Washington, D.C.",00:00,39.694125,-79.248005
+"1_Chicago_Washington, D.C.",00:00,39.6923,-79.148607
+"1_Chicago_Washington, D.C.",00:00,39.68464,-78.99277
+"1_Chicago_Washington, D.C.",00:00,39.639538,-78.892399
+"1_Chicago_Washington, D.C.",00:00,39.643967,-78.792297
+"1_Chicago_Washington, D.C.",00:00,39.67029,-78.707456
+"1_Chicago_Washington, D.C.",00:00,39.708026,-78.599081
+"1_Chicago_Washington, D.C.",00:00,39.677499,-78.472791
+"1_Chicago_Washington, D.C.",00:00,39.702475,-78.349952
+"1_Chicago_Washington, D.C.",00:00,39.704471,-78.258273
+"1_Chicago_Washington, D.C.",00:00,39.695526,-78.150436
+"1_Chicago_Washington, D.C.",00:00,39.627212,-77.974015
+"1_Chicago_Washington, D.C.",00:00,39.620869,-77.7889
+"1_Chicago_Washington, D.C.",00:00,39.584275,-77.636702
+"1_Chicago_Washington, D.C.",00:00,39.484989,-77.547661
+"1_Chicago_Washington, D.C.",00:00,39.403061,-77.454919
+"1_Chicago_Washington, D.C.",00:00,39.295637,-77.33399
+"1_Chicago_Washington, D.C.",00:00,39.14847,-77.216798
+"1_Chicago_Washington, D.C.",00:00,39.009809,-77.09745
+"1_Chicago_Washington, D.C.",00:00,38.963884,-77.087318
+"1_Chicago_Washington, D.C.",00:00,38.93811,-77.086302
+"1_Chicago_Washington, D.C.",00:00,38.919683,-77.060951
+"1_Chicago_Washington, D.C.",00:00,38.909297,-77.0429
+"0_Chicago_Washington, D.C.",00:00,41.878113,-87.629772
+"0_Chicago_Washington, D.C.",00:00,41.811952,-87.63046
+"0_Chicago_Washington, D.C.",00:00,41.730688,-87.559275
+"0_Chicago_Washington, D.C.",00:00,41.641346,-87.506448
+"0_Chicago_Washington, D.C.",00:00,41.609568,-87.376372
+"0_Chicago_Washington, D.C.",00:00,41.591266,-87.227824
+"0_Chicago_Washington, D.C.",00:00,41.57921,-87.093209
+"0_Chicago_Washington, D.C.",00:00,41.602974,-86.86177
+"0_Chicago_Washington, D.C.",00:00,41.67363,-86.678129
+"0_Chicago_Washington, D.C.",00:00,41.741075,-86.528258
+"0_Chicago_Washington, D.C.",00:00,41.734314,-86.386168
+"0_Chicago_Washington, D.C.",00:00,41.715988,-86.197142
+"0_Chicago_Washington, D.C.",00:00,41.730807,-85.95594
+"0_Chicago_Washington, D.C.",00:00,41.746982,-85.692536
+"0_Chicago_Washington, D.C.",00:00,41.753406,-85.473909
+"0_Chicago_Washington, D.C.",00:00,41.751266,-85.268989
+"0_Chicago_Washington, D.C.",00:00,41.735624,-85.003727
+"0_Chicago_Washington, D.C.",00:00,41.641121,-84.832036
+"0_Chicago_Washington, D.C.",00:00,41.616709,-84.582846
+"0_Chicago_Washington, D.C.",00:00,41.599974,-84.375303
+"0_Chicago_Washington, D.C.",00:00,41.593422,-84.140935
+"0_Chicago_Washington, D.C.",00:00,41.599412,-83.79945
+"0_Chicago_Washington, D.C.",00:00,41.538131,-83.497366
+"0_Chicago_Washington, D.C.",00:00,41.417285,-83.157291
+"0_Chicago_Washington, D.C.",00:00,41.338251,-82.743909
+"0_Chicago_Washington, D.C.",00:00,41.341657,-82.350089
+"0_Chicago_Washington, D.C.",00:00,41.39036,-82.118795
+"0_Chicago_Washington, D.C.",00:00,41.370537,-81.97397
+"0_Chicago_Washington, D.C.",00:00,41.274636,-81.633385
+"0_Chicago_Washington, D.C.",00:00,41.256746,-81.483865
+"0_Chicago_Washington, D.C.",00:00,41.250272,-81.320793
+"0_Chicago_Washington, D.C.",00:00,41.243751,-81.09994
+"0_Chicago_Washington, D.C.",00:00,41.192661,-80.941119
+"0_Chicago_Washington, D.C.",00:00,41.093548,-80.82464
+"0_Chicago_Washington, D.C.",00:00,40.994801,-80.693819
+"0_Chicago_Washington, D.C.",00:00,40.923209,-80.554381
+"0_Chicago_Washington, D.C.",00:00,40.85062,-80.395386
+"0_Chicago_Washington, D.C.",00:00,40.798533,-80.291883
+"0_Chicago_Washington, D.C.",00:00,40.741395,-80.19295
+"0_Chicago_Washington, D.C.",00:00,40.652573,-80.060539
+"0_Chicago_Washington, D.C.",00:00,40.613319,-79.97088
+"0_Chicago_Washington, D.C.",00:00,40.594484,-79.897159
+"0_Chicago_Washington, D.C.",00:00,40.561298,-79.850539
+"0_Chicago_Washington, D.C.",00:00,40.520635,-79.806011
+"0_Chicago_Washington, D.C.",00:00,40.462641,-79.760912
+"0_Chicago_Washington, D.C.",00:00,40.376791,-79.675984
+"0_Chicago_Washington, D.C.",00:00,40.283233,-79.669287
+"0_Chicago_Washington, D.C.",00:00,40.224058,-79.606425
+"0_Chicago_Washington, D.C.",00:00,40.155086,-79.438432
+"0_Chicago_Washington, D.C.",00:00,40.107882,-79.242567
+"0_Chicago_Washington, D.C.",00:00,40.022111,-79.085831
+"0_Chicago_Washington, D.C.",00:00,39.957157,-78.845811
+"0_Chicago_Washington, D.C.",00:00,39.987095,-78.782746
+"0_Chicago_Washington, D.C.",00:00,40.010243,-78.669399
+"0_Chicago_Washington, D.C.",00:00,40.019102,-78.586066
+"0_Chicago_Washington, D.C.",00:00,40.028678,-78.488439
+"0_Chicago_Washington, D.C.",00:00,40.012551,-78.40525
+"0_Chicago_Washington, D.C.",00:00,39.991342,-78.321208
+"0_Chicago_Washington, D.C.",00:00,39.992515,-78.236418
+"0_Chicago_Washington, D.C.",00:00,39.964887,-78.247379
+"0_Chicago_Washington, D.C.",00:00,39.878215,-78.248087
+"0_Chicago_Washington, D.C.",00:00,39.780159,-78.203637
+"0_Chicago_Washington, D.C.",00:00,39.696753,-78.15272
+"0_Chicago_Washington, D.C.",00:00,39.627077,-77.983399
+"0_Chicago_Washington, D.C.",00:00,39.622447,-77.791293
+"0_Chicago_Washington, D.C.",00:00,39.587074,-77.642784
+"0_Chicago_Washington, D.C.",00:00,39.4861,-77.554234
+"0_Chicago_Washington, D.C.",00:00,39.404044,-77.462841
+"0_Chicago_Washington, D.C.",00:00,39.299869,-77.338508
+"0_Chicago_Washington, D.C.",00:00,39.151317,-77.219442
+"0_Chicago_Washington, D.C.",00:00,39.01127,-77.097809
+"0_Chicago_Washington, D.C.",00:00,38.966209,-77.088423
+"0_Chicago_Washington, D.C.",00:00,38.938266,-77.086018
+"0_Chicago_Washington, D.C.",00:00,38.921031,-77.062792
+"0_Chicago_Washington, D.C.",00:00,38.909145,-77.043241
+"1_Chicago_Washington, D.C.",00:00,41.878113,-87.629772
+"1_Chicago_Washington, D.C.",00:00,41.811952,-87.63046
+"1_Chicago_Washington, D.C.",00:00,41.730688,-87.559275
+"1_Chicago_Washington, D.C.",00:00,41.641346,-87.506448
+"1_Chicago_Washington, D.C.",00:00,41.609568,-87.376372
+"1_Chicago_Washington, D.C.",00:00,41.57817,-87.296369
+"1_Chicago_Washington, D.C.",00:00,41.459203,-87.322436
+"1_Chicago_Washington, D.C.",00:00,41.18667,-87.2838
+"1_Chicago_Washington, D.C.",00:00,40.95221,-87.226275
+"1_Chicago_Washington, D.C.",00:00,40.758341,-87.114763
+"1_Chicago_Washington, D.C.",00:00,40.470119,-86.852289
+"1_Chicago_Washington, D.C.",00:00,40.175944,-86.554231
+"1_Chicago_Washington, D.C.",00:00,39.934033,-86.341902
+"1_Chicago_Washington, D.C.",00:00,39.855265,-86.266744
+"1_Chicago_Washington, D.C.",00:00,39.823767,-86.224372
+"1_Chicago_Washington, D.C.",00:00,39.804526,-86.16619
+"1_Chicago_Washington, D.C.",00:00,39.783706,-86.141581
+"1_Chicago_Washington, D.C.",00:00,39.802117,-86.087949
+"1_Chicago_Washington, D.C.",00:00,39.803596,-85.964301
+"1_Chicago_Washington, D.C.",00:00,39.838587,-85.558989
+"1_Chicago_Washington, D.C.",00:00,39.852966,-85.343008
+"1_Chicago_Washington, D.C.",00:00,39.867338,-84.925826
+"1_Chicago_Washington, D.C.",00:00,39.838291,-84.445626
+"1_Chicago_Washington, D.C.",00:00,39.86595,-84.177374
+"1_Chicago_Washington, D.C.",00:00,39.892849,-83.878509
+"1_Chicago_Washington, D.C.",00:00,39.927644,-83.683699
+"1_Chicago_Washington, D.C.",00:00,39.980458,-83.249649
+"1_Chicago_Washington, D.C.",00:00,39.949714,-83.023152
+"1_Chicago_Washington, D.C.",00:00,39.935939,-82.885967
+"1_Chicago_Washington, D.C.",00:00,39.950429,-82.748287
+"1_Chicago_Washington, D.C.",00:00,39.945662,-82.60603
+"1_Chicago_Washington, D.C.",00:00,39.943916,-82.410319
+"1_Chicago_Washington, D.C.",00:00,39.944902,-82.006386
+"1_Chicago_Washington, D.C.",00:00,39.972261,-81.79787
+"1_Chicago_Washington, D.C.",00:00,40.003226,-81.498979
+"1_Chicago_Washington, D.C.",00:00,40.055677,-81.223307
+"1_Chicago_Washington, D.C.",00:00,40.056891,-81.115877
+"1_Chicago_Washington, D.C.",00:00,40.0653,-80.982016
+"1_Chicago_Washington, D.C.",00:00,40.0703,-80.857488
+"1_Chicago_Washington, D.C.",00:00,40.047686,-80.742659
+"1_Chicago_Washington, D.C.",00:00,40.063087,-80.590943
+"1_Chicago_Washington, D.C.",00:00,40.113256,-80.463851
+"1_Chicago_Washington, D.C.",00:00,40.124886,-80.364265
+"1_Chicago_Washington, D.C.",00:00,40.178479,-80.266628
+"1_Chicago_Washington, D.C.",00:00,40.163769,-80.19975
+"1_Chicago_Washington, D.C.",00:00,40.168722,-80.100881
+"1_Chicago_Washington, D.C.",00:00,40.128465,-79.961652
+"1_Chicago_Washington, D.C.",00:00,40.063499,-79.903168
+"1_Chicago_Washington, D.C.",00:00,39.99277,-79.90046
+"1_Chicago_Washington, D.C.",00:00,39.964899,-79.804186
+"1_Chicago_Washington, D.C.",00:00,39.918117,-79.72703
+"1_Chicago_Washington, D.C.",00:00,39.869646,-79.699389
+"1_Chicago_Washington, D.C.",00:00,39.828295,-79.59723
+"1_Chicago_Washington, D.C.",00:00,39.756781,-79.443846
+"1_Chicago_Washington, D.C.",00:00,39.753372,-79.357166
+"1_Chicago_Washington, D.C.",00:00,39.694125,-79.248005
+"1_Chicago_Washington, D.C.",00:00,39.6923,-79.148607
+"1_Chicago_Washington, D.C.",00:00,39.68464,-78.99277
+"1_Chicago_Washington, D.C.",00:00,39.639538,-78.892399
+"1_Chicago_Washington, D.C.",00:00,39.643967,-78.792297
+"1_Chicago_Washington, D.C.",00:00,39.67029,-78.707456
+"1_Chicago_Washington, D.C.",00:00,39.708026,-78.599081
+"1_Chicago_Washington, D.C.",00:00,39.677499,-78.472791
+"1_Chicago_Washington, D.C.",00:00,39.702475,-78.349952
+"1_Chicago_Washington, D.C.",00:00,39.704471,-78.258273
+"1_Chicago_Washington, D.C.",00:00,39.695526,-78.150436
+"1_Chicago_Washington, D.C.",00:00,39.627212,-77.974015
+"1_Chicago_Washington, D.C.",00:00,39.620869,-77.7889
+"1_Chicago_Washington, D.C.",00:00,39.584275,-77.636702
+"1_Chicago_Washington, D.C.",00:00,39.484989,-77.547661
+"1_Chicago_Washington, D.C.",00:00,39.403061,-77.454919
+"1_Chicago_Washington, D.C.",00:00,39.295637,-77.33399
+"1_Chicago_Washington, D.C.",00:00,39.14847,-77.216798
+"1_Chicago_Washington, D.C.",00:00,39.009809,-77.09745
+"1_Chicago_Washington, D.C.",00:00,38.963884,-77.087318
+"1_Chicago_Washington, D.C.",00:00,38.93811,-77.086302
+"1_Chicago_Washington, D.C.",00:00,38.919683,-77.060951
+"1_Chicago_Washington, D.C.",00:00,38.909297,-77.0429
+0_New York City_Seattle,00:00,40.712156,-74.005615
+0_New York City_Seattle,00:00,40.723564,-74.007591
+0_New York City_Seattle,00:00,40.731687,-74.048005
+0_New York City_Seattle,00:00,40.744863,-74.062515
+0_New York City_Seattle,00:00,40.777021,-74.045328
+0_New York City_Seattle,00:00,40.810528,-74.095901
+0_New York City_Seattle,00:00,40.827382,-74.133039
+0_New York City_Seattle,00:00,40.864201,-74.181328
+0_New York City_Seattle,00:00,40.888106,-74.217471
+0_New York City_Seattle,00:00,40.893145,-74.254343
+0_New York City_Seattle,00:00,40.87023,-74.30744
+0_New York City_Seattle,00:00,40.8583,-74.354297
+0_New York City_Seattle,00:00,40.867403,-74.411986
+0_New York City_Seattle,00:00,40.886936,-74.464513
+0_New York City_Seattle,00:00,40.911194,-74.510469
+0_New York City_Seattle,00:00,40.894934,-74.64368
+0_New York City_Seattle,00:00,40.895434,-74.71664
+0_New York City_Seattle,00:00,40.916227,-74.767679
+0_New York City_Seattle,00:00,40.916952,-74.810592
+0_New York City_Seattle,00:00,40.928579,-74.885993
+0_New York City_Seattle,00:00,40.929658,-74.980908
+0_New York City_Seattle,00:00,40.927631,-75.083677
+0_New York City_Seattle,00:00,40.970864,-75.120603
+0_New York City_Seattle,00:00,40.987984,-75.18101
+0_New York City_Seattle,00:00,41.01476,-75.300245
+0_New York City_Seattle,00:00,41.07302,-75.406991
+0_New York City_Seattle,00:00,41.079339,-75.61178
+0_New York City_Seattle,00:00,41.058791,-75.760026
+0_New York City_Seattle,00:00,41.04247,-76.029758
+0_New York City_Seattle,00:00,41.012598,-76.223548
+0_New York City_Seattle,00:00,41.032647,-76.384969
+0_New York City_Seattle,00:00,41.006234,-76.535426
+0_New York City_Seattle,00:00,40.988195,-76.690034
+0_New York City_Seattle,00:00,41.043693,-76.816451
+0_New York City_Seattle,00:00,41.065762,-77.071229
+0_New York City_Seattle,00:00,41.054948,-77.208447
+0_New York City_Seattle,00:00,41.061286,-77.364872
+0_New York City_Seattle,00:00,41.038068,-77.478871
+0_New York City_Seattle,00:00,40.96978,-77.640524
+0_New York City_Seattle,00:00,40.978738,-77.793647
+0_New York City_Seattle,00:00,41.007844,-77.968256
+0_New York City_Seattle,00:00,40.965744,-78.112175
+0_New York City_Seattle,00:00,40.994038,-78.260719
+0_New York City_Seattle,00:00,41.036308,-78.381866
+0_New York City_Seattle,00:00,41.071445,-78.487686
+0_New York City_Seattle,00:00,41.134022,-78.722824
+0_New York City_Seattle,00:00,41.152813,-78.923235
+0_New York City_Seattle,00:00,41.169938,-79.03043
+0_New York City_Seattle,00:00,41.180665,-79.138498
+0_New York City_Seattle,00:00,41.176963,-79.251549
+0_New York City_Seattle,00:00,41.181411,-79.316955
+0_New York City_Seattle,00:00,41.179726,-79.378753
+0_New York City_Seattle,00:00,41.196482,-79.47808
+0_New York City_Seattle,00:00,41.185238,-79.554206
+0_New York City_Seattle,00:00,41.191702,-79.646309
+0_New York City_Seattle,00:00,41.190638,-79.799143
+0_New York City_Seattle,00:00,41.202905,-79.999536
+0_New York City_Seattle,00:00,41.19556,-80.191418
+0_New York City_Seattle,00:00,41.185032,-80.433019
+0_New York City_Seattle,00:00,41.177027,-80.538831
+0_New York City_Seattle,00:00,41.153245,-80.668627
+0_New York City_Seattle,00:00,41.123538,-80.78298
+0_New York City_Seattle,00:00,41.148794,-80.88907
+0_New York City_Seattle,00:00,41.240307,-80.989295
+0_New York City_Seattle,00:00,41.242546,-81.138942
+0_New York City_Seattle,00:00,41.247982,-81.276241
+0_New York City_Seattle,00:00,41.253454,-81.403897
+0_New York City_Seattle,00:00,41.255762,-81.556559
+0_New York City_Seattle,00:00,41.300261,-81.69873
+0_New York City_Seattle,00:00,41.369289,-81.948764
+0_New York City_Seattle,00:00,41.386793,-82.079211
+0_New York City_Seattle,00:00,41.374447,-82.264909
+0_New York City_Seattle,00:00,41.326833,-82.514047
+0_New York City_Seattle,00:00,41.347082,-82.79972
+0_New York City_Seattle,00:00,41.408034,-83.135493
+0_New York City_Seattle,00:00,41.482953,-83.35211
+0_New York City_Seattle,00:00,41.555766,-83.555423
+0_New York City_Seattle,00:00,41.601804,-83.825495
+0_New York City_Seattle,00:00,41.592891,-84.133301
+0_New York City_Seattle,00:00,41.591672,-84.320977
+0_New York City_Seattle,00:00,41.606581,-84.463687
+0_New York City_Seattle,00:00,41.617052,-84.648905
+0_New York City_Seattle,00:00,41.629487,-84.81613
+0_New York City_Seattle,00:00,41.718558,-84.958941
+0_New York City_Seattle,00:00,41.754957,-85.121792
+0_New York City_Seattle,00:00,41.748609,-85.339878
+0_New York City_Seattle,00:00,41.745897,-85.539134
+0_New York City_Seattle,00:00,41.74683,-85.707018
+0_New York City_Seattle,00:00,41.729776,-85.896525
+0_New York City_Seattle,00:00,41.733768,-86.129276
+0_New York City_Seattle,00:00,41.722404,-86.28787
+0_New York City_Seattle,00:00,41.748688,-86.415299
+0_New York City_Seattle,00:00,41.737838,-86.537517
+0_New York City_Seattle,00:00,41.683417,-86.661325
+0_New York City_Seattle,00:00,41.631882,-86.793211
+0_New York City_Seattle,00:00,41.570797,-86.987378
+0_New York City_Seattle,00:00,41.572215,-87.148846
+0_New York City_Seattle,00:00,41.592244,-87.2482
+0_New York City_Seattle,00:00,41.608896,-87.353934
+0_New York City_Seattle,00:00,41.626546,-87.493667
+0_New York City_Seattle,00:00,41.702776,-87.524139
+0_New York City_Seattle,00:00,41.77178,-87.616258
+0_New York City_Seattle,00:00,41.84724,-87.64178
+0_New York City_Seattle,00:00,41.883886,-87.645647
+0_New York City_Seattle,00:00,41.929837,-87.691034
+0_New York City_Seattle,00:00,41.97041,-87.759996
+0_New York City_Seattle,00:00,41.997369,-87.876343
+0_New York City_Seattle,00:00,42.062133,-88.064306
+0_New York City_Seattle,00:00,42.145904,-88.51877
+0_New York City_Seattle,00:00,42.235797,-88.911218
+0_New York City_Seattle,00:00,42.488128,-88.994783
+0_New York City_Seattle,00:00,42.57578,-89.011136
+0_New York City_Seattle,00:00,42.700472,-88.983852
+0_New York City_Seattle,00:00,42.867244,-89.048701
+0_New York City_Seattle,00:00,42.976882,-89.118193
+0_New York City_Seattle,00:00,43.017001,-89.200141
+0_New York City_Seattle,00:00,43.065874,-89.277623
+0_New York City_Seattle,00:00,43.175781,-89.319981
+0_New York City_Seattle,00:00,43.296527,-89.420074
+0_New York City_Seattle,00:00,43.411624,-89.468104
+0_New York City_Seattle,00:00,43.495091,-89.496648
+0_New York City_Seattle,00:00,43.545729,-89.628055
+0_New York City_Seattle,00:00,43.569999,-89.778861
+0_New York City_Seattle,00:00,43.627575,-89.805162
+0_New York City_Seattle,00:00,43.729009,-89.912416
+0_New York City_Seattle,00:00,43.844756,-90.098128
+0_New York City_Seattle,00:00,43.926995,-90.27688
+0_New York City_Seattle,00:00,43.941613,-90.585678
+0_New York City_Seattle,00:00,43.88849,-90.971555
+0_New York City_Seattle,00:00,43.8709,-91.141334
+0_New York City_Seattle,00:00,43.858695,-91.306805
+0_New York City_Seattle,00:00,43.924101,-91.441449
+0_New York City_Seattle,00:00,43.940081,-91.7607
+0_New York City_Seattle,00:00,43.955379,-92.178667
+0_New York City_Seattle,00:00,43.919883,-92.416392
+0_New York City_Seattle,00:00,43.828342,-92.560941
+0_New York City_Seattle,00:00,43.671634,-92.913722
+0_New York City_Seattle,00:00,43.680529,-92.998702
+0_New York City_Seattle,00:00,43.659861,-93.189774
+0_New York City_Seattle,00:00,43.689027,-93.364409
+0_New York City_Seattle,00:00,43.66591,-93.573327
+0_New York City_Seattle,00:00,43.652541,-93.931671
+0_New York City_Seattle,00:00,43.666549,-94.296786
+0_New York City_Seattle,00:00,43.667509,-94.648536
+0_New York City_Seattle,00:00,43.63889,-95.166122
+0_New York City_Seattle,00:00,43.637605,-95.802788
+0_New York City_Seattle,00:00,43.637834,-96.013491
+0_New York City_Seattle,00:00,43.609039,-96.436965
+0_New York City_Seattle,00:00,43.605836,-96.702339
+0_New York City_Seattle,00:00,43.608627,-96.870437
+0_New York City_Seattle,00:00,43.665101,-97.561096
+0_New York City_Seattle,00:00,43.69432,-98.09181
+0_New York City_Seattle,00:00,43.708874,-98.66241
+0_New York City_Seattle,00:00,43.738186,-98.865289
+0_New York City_Seattle,00:00,43.752108,-99.20072
+0_New York City_Seattle,00:00,43.791974,-99.339248
+0_New York City_Seattle,00:00,43.801096,-99.394835
+0_New York City_Seattle,00:00,43.850067,-99.564292
+0_New York City_Seattle,00:00,43.876998,-99.766333
+0_New York City_Seattle,00:00,43.912404,-100.189489
+0_New York City_Seattle,00:00,43.900786,-100.65456
+0_New York City_Seattle,00:00,43.895564,-100.90566
+0_New York City_Seattle,00:00,43.842796,-101.236242
+0_New York City_Seattle,00:00,43.868029,-101.959976
+0_New York City_Seattle,00:00,44.048551,-102.359636
+0_New York City_Seattle,00:00,44.0955,-102.500397
+0_New York City_Seattle,00:00,44.117586,-103.087496
+0_New York City_Seattle,00:00,44.103974,-103.19477
+0_New York City_Seattle,00:00,44.132307,-103.28033
+0_New York City_Seattle,00:00,44.37503,-103.47746
+0_New York City_Seattle,00:00,44.475275,-103.636702
+0_New York City_Seattle,00:00,44.612622,-103.794348
+0_New York City_Seattle,00:00,44.655828,-103.857135
+0_New York City_Seattle,00:00,44.725409,-103.923682
+0_New York City_Seattle,00:00,44.886298,-104.185374
+0_New York City_Seattle,00:00,45.075756,-104.507393
+0_New York City_Seattle,00:00,45.318934,-105.152794
+0_New York City_Seattle,00:00,45.443649,-105.421477
+0_New York City_Seattle,00:00,45.528487,-105.76408
+0_New York City_Seattle,00:00,45.570636,-106.048905
+0_New York City_Seattle,00:00,45.594042,-106.270879
+0_New York City_Seattle,00:00,45.622364,-106.422319
+0_New York City_Seattle,00:00,45.633719,-106.543565
+0_New York City_Seattle,00:00,45.622478,-106.679062
+0_New York City_Seattle,00:00,45.607766,-106.79652
+0_New York City_Seattle,00:00,45.535242,-106.953225
+0_New York City_Seattle,00:00,45.528255,-107.225514
+0_New York City_Seattle,00:00,45.675911,-107.500728
+0_New York City_Seattle,00:00,45.781212,-107.984575
+0_New York City_Seattle,00:00,45.804525,-108.313664
+0_New York City_Seattle,00:00,45.795542,-108.4603
+0_New York City_Seattle,00:00,45.678943,-108.718559
+0_New York City_Seattle,00:00,45.602371,-109.053271
+0_New York City_Seattle,00:00,45.657438,-109.286784
+0_New York City_Seattle,00:00,45.708033,-109.510043
+0_New York City_Seattle,00:00,45.745204,-109.770568
+0_New York City_Seattle,00:00,45.765077,-110.094138
+0_New York City_Seattle,00:00,45.705116,-110.348689
+0_New York City_Seattle,00:00,45.662004,-110.641865
+0_New York City_Seattle,00:00,45.657506,-110.779334
+0_New York City_Seattle,00:00,45.642031,-110.921892
+0_New York City_Seattle,00:00,45.744217,-111.117957
+0_New York City_Seattle,00:00,45.885396,-111.453531
+0_New York City_Seattle,00:00,45.879169,-111.880167
+0_New York City_Seattle,00:00,45.913709,-112.271449
+0_New York City_Seattle,00:00,45.920695,-112.435735
+0_New York City_Seattle,00:00,45.984664,-112.508779
+0_New York City_Seattle,00:00,46.010324,-112.706702
+0_New York City_Seattle,00:00,46.242047,-112.763452
+0_New York City_Seattle,00:00,46.504998,-112.752284
+0_New York City_Seattle,00:00,46.556611,-112.867088
+0_New York City_Seattle,00:00,46.665258,-113.138394
+0_New York City_Seattle,00:00,46.696929,-113.222528
+0_New York City_Seattle,00:00,46.71871,-113.314023
+0_New York City_Seattle,00:00,46.704566,-113.378873
+0_New York City_Seattle,00:00,46.703521,-113.470934
+0_New York City_Seattle,00:00,46.725413,-113.574345
+0_New York City_Seattle,00:00,46.793051,-113.740083
+0_New York City_Seattle,00:00,46.875477,-113.919651
+0_New York City_Seattle,00:00,46.920968,-114.062529
+0_New York City_Seattle,00:00,47.033995,-114.329506
+0_New York City_Seattle,00:00,47.020913,-114.524108
+0_New York City_Seattle,00:00,47.084042,-114.780691
+0_New York City_Seattle,00:00,47.235303,-115.022665
+0_New York City_Seattle,00:00,47.308482,-115.207533
+0_New York City_Seattle,00:00,47.326992,-115.251025
+0_New York City_Seattle,00:00,47.344754,-115.284807
+0_New York City_Seattle,00:00,47.375599,-115.379209
+0_New York City_Seattle,00:00,47.398766,-115.459944
+0_New York City_Seattle,00:00,47.407693,-115.503068
+0_New York City_Seattle,00:00,47.415876,-115.572407
+0_New York City_Seattle,00:00,47.418276,-115.621232
+0_New York City_Seattle,00:00,47.434062,-115.664657
+0_New York City_Seattle,00:00,47.459917,-115.693887
+0_New York City_Seattle,00:00,47.461049,-115.733403
+0_New York City_Seattle,00:00,47.46818,-115.78421
+0_New York City_Seattle,00:00,47.464309,-115.835167
+0_New York City_Seattle,00:00,47.474371,-115.896673
+0_New York City_Seattle,00:00,47.491243,-115.952646
+0_New York City_Seattle,00:00,47.510392,-116.012782
+0_New York City_Seattle,00:00,47.53423,-116.097614
+0_New York City_Seattle,00:00,47.547999,-116.220412
+0_New York City_Seattle,00:00,47.551679,-116.312673
+0_New York City_Seattle,00:00,47.579499,-116.425467
+0_New York City_Seattle,00:00,47.606226,-116.503393
+0_New York City_Seattle,00:00,47.624432,-116.566344
+0_New York City_Seattle,00:00,47.623815,-116.657709
+0_New York City_Seattle,00:00,47.639477,-116.708717
+0_New York City_Seattle,00:00,47.667886,-116.750622
+0_New York City_Seattle,00:00,47.708678,-116.855298
+0_New York City_Seattle,00:00,47.71098,-116.984213
+0_New York City_Seattle,00:00,47.666083,-117.128863
+0_New York City_Seattle,00:00,47.656414,-117.322544
+0_New York City_Seattle,00:00,47.624187,-117.495883
+0_New York City_Seattle,00:00,47.395081,-117.841809
+0_New York City_Seattle,00:00,47.265304,-118.070488
+0_New York City_Seattle,00:00,47.11366,-118.372958
+0_New York City_Seattle,00:00,47.087843,-118.898317
+0_New York City_Seattle,00:00,47.104098,-119.550278
+0_New York City_Seattle,00:00,47.013149,-119.951503
+0_New York City_Seattle,00:00,46.946412,-119.960829
+0_New York City_Seattle,00:00,46.945862,-120.102452
+0_New York City_Seattle,00:00,46.958326,-120.313793
+0_New York City_Seattle,00:00,47.039714,-120.628787
+0_New York City_Seattle,00:00,47.132263,-120.809032
+0_New York City_Seattle,00:00,47.1824,-121.038531
+0_New York City_Seattle,00:00,47.258526,-121.208956
+0_New York City_Seattle,00:00,47.281695,-121.280932
+0_New York City_Seattle,00:00,47.330177,-121.342067
+0_New York City_Seattle,00:00,47.363117,-121.372861
+0_New York City_Seattle,00:00,47.411207,-121.409804
+0_New York City_Seattle,00:00,47.395919,-121.471945
+0_New York City_Seattle,00:00,47.425374,-121.599275
+0_New York City_Seattle,00:00,47.456037,-121.702057
+0_New York City_Seattle,00:00,47.515062,-121.843427
+0_New York City_Seattle,00:00,47.536138,-121.968913
+0_New York City_Seattle,00:00,47.539921,-122.03517
+0_New York City_Seattle,00:00,47.578472,-122.202471
+0_New York City_Seattle,00:00,47.591387,-122.310359
+1_New York City_Seattle,00:00,40.712156,-74.005615
+1_New York City_Seattle,00:00,40.723564,-74.007591
+1_New York City_Seattle,00:00,40.731687,-74.048005
+1_New York City_Seattle,00:00,40.744863,-74.062515
+1_New York City_Seattle,00:00,40.777021,-74.045328
+1_New York City_Seattle,00:00,40.810528,-74.095901
+1_New York City_Seattle,00:00,40.827382,-74.133039
+1_New York City_Seattle,00:00,40.864201,-74.181328
+1_New York City_Seattle,00:00,40.888106,-74.217471
+1_New York City_Seattle,00:00,40.893145,-74.254343
+1_New York City_Seattle,00:00,40.87023,-74.30744
+1_New York City_Seattle,00:00,40.8583,-74.354297
+1_New York City_Seattle,00:00,40.867403,-74.411986
+1_New York City_Seattle,00:00,40.886936,-74.464513
+1_New York City_Seattle,00:00,40.911194,-74.510469
+1_New York City_Seattle,00:00,40.894934,-74.64368
+1_New York City_Seattle,00:00,40.895434,-74.71664
+1_New York City_Seattle,00:00,40.916227,-74.767679
+1_New York City_Seattle,00:00,40.916952,-74.810592
+1_New York City_Seattle,00:00,40.928579,-74.885993
+1_New York City_Seattle,00:00,40.929658,-74.980908
+1_New York City_Seattle,00:00,40.927631,-75.083677
+1_New York City_Seattle,00:00,40.970864,-75.120603
+1_New York City_Seattle,00:00,40.987984,-75.18101
+1_New York City_Seattle,00:00,41.01476,-75.300245
+1_New York City_Seattle,00:00,41.07302,-75.406991
+1_New York City_Seattle,00:00,41.079339,-75.61178
+1_New York City_Seattle,00:00,41.058791,-75.760026
+1_New York City_Seattle,00:00,41.04247,-76.029758
+1_New York City_Seattle,00:00,41.012598,-76.223548
+1_New York City_Seattle,00:00,41.032647,-76.384969
+1_New York City_Seattle,00:00,41.006234,-76.535426
+1_New York City_Seattle,00:00,40.988195,-76.690034
+1_New York City_Seattle,00:00,41.043693,-76.816451
+1_New York City_Seattle,00:00,41.065762,-77.071229
+1_New York City_Seattle,00:00,41.054948,-77.208447
+1_New York City_Seattle,00:00,41.061286,-77.364872
+1_New York City_Seattle,00:00,41.038068,-77.478871
+1_New York City_Seattle,00:00,40.96978,-77.640524
+1_New York City_Seattle,00:00,40.978738,-77.793647
+1_New York City_Seattle,00:00,41.007844,-77.968256
+1_New York City_Seattle,00:00,40.965744,-78.112175
+1_New York City_Seattle,00:00,40.994038,-78.260719
+1_New York City_Seattle,00:00,41.036308,-78.381866
+1_New York City_Seattle,00:00,41.071445,-78.487686
+1_New York City_Seattle,00:00,41.134022,-78.722824
+1_New York City_Seattle,00:00,41.152813,-78.923235
+1_New York City_Seattle,00:00,41.169938,-79.03043
+1_New York City_Seattle,00:00,41.180665,-79.138498
+1_New York City_Seattle,00:00,41.176963,-79.251549
+1_New York City_Seattle,00:00,41.181411,-79.316955
+1_New York City_Seattle,00:00,41.179726,-79.378753
+1_New York City_Seattle,00:00,41.196482,-79.47808
+1_New York City_Seattle,00:00,41.185238,-79.554206
+1_New York City_Seattle,00:00,41.191702,-79.646309
+1_New York City_Seattle,00:00,41.190638,-79.799143
+1_New York City_Seattle,00:00,41.202905,-79.999536
+1_New York City_Seattle,00:00,41.19556,-80.191418
+1_New York City_Seattle,00:00,41.185032,-80.433019
+1_New York City_Seattle,00:00,41.177027,-80.538831
+1_New York City_Seattle,00:00,41.153245,-80.668627
+1_New York City_Seattle,00:00,41.123538,-80.78298
+1_New York City_Seattle,00:00,41.148794,-80.88907
+1_New York City_Seattle,00:00,41.240307,-80.989295
+1_New York City_Seattle,00:00,41.242546,-81.138942
+1_New York City_Seattle,00:00,41.247982,-81.276241
+1_New York City_Seattle,00:00,41.253454,-81.403897
+1_New York City_Seattle,00:00,41.255762,-81.556559
+1_New York City_Seattle,00:00,41.300261,-81.69873
+1_New York City_Seattle,00:00,41.369289,-81.948764
+1_New York City_Seattle,00:00,41.386793,-82.079211
+1_New York City_Seattle,00:00,41.374447,-82.264909
+1_New York City_Seattle,00:00,41.326833,-82.514047
+1_New York City_Seattle,00:00,41.347082,-82.79972
+1_New York City_Seattle,00:00,41.408034,-83.135493
+1_New York City_Seattle,00:00,41.482953,-83.35211
+1_New York City_Seattle,00:00,41.555766,-83.555423
+1_New York City_Seattle,00:00,41.601804,-83.825495
+1_New York City_Seattle,00:00,41.592891,-84.133301
+1_New York City_Seattle,00:00,41.591672,-84.320977
+1_New York City_Seattle,00:00,41.606581,-84.463687
+1_New York City_Seattle,00:00,41.617052,-84.648905
+1_New York City_Seattle,00:00,41.629487,-84.81613
+1_New York City_Seattle,00:00,41.718558,-84.958941
+1_New York City_Seattle,00:00,41.754957,-85.121792
+1_New York City_Seattle,00:00,41.748609,-85.339878
+1_New York City_Seattle,00:00,41.745897,-85.539134
+1_New York City_Seattle,00:00,41.74683,-85.707018
+1_New York City_Seattle,00:00,41.729776,-85.896525
+1_New York City_Seattle,00:00,41.733768,-86.129276
+1_New York City_Seattle,00:00,41.722404,-86.28787
+1_New York City_Seattle,00:00,41.748688,-86.415299
+1_New York City_Seattle,00:00,41.737838,-86.537517
+1_New York City_Seattle,00:00,41.683417,-86.661325
+1_New York City_Seattle,00:00,41.631882,-86.793211
+1_New York City_Seattle,00:00,41.570797,-86.987378
+1_New York City_Seattle,00:00,41.572215,-87.148846
+1_New York City_Seattle,00:00,41.58945,-87.233259
+1_New York City_Seattle,00:00,41.57292,-87.442771
+1_New York City_Seattle,00:00,41.577821,-87.58303
+1_New York City_Seattle,00:00,41.568435,-87.738306
+1_New York City_Seattle,00:00,41.520219,-87.991937
+1_New York City_Seattle,00:00,41.505548,-88.150785
+1_New York City_Seattle,00:00,41.449741,-88.323289
+1_New York City_Seattle,00:00,41.375563,-88.717105
+1_New York City_Seattle,00:00,41.368071,-89.040292
+1_New York City_Seattle,00:00,41.375864,-89.255143
+1_New York City_Seattle,00:00,41.400578,-89.458706
+1_New York City_Seattle,00:00,41.394693,-89.56622
+1_New York City_Seattle,00:00,41.386627,-89.764902
+1_New York City_Seattle,00:00,41.414718,-90.08426
+1_New York City_Seattle,00:00,41.462875,-90.394096
+1_New York City_Seattle,00:00,41.458102,-90.507519
+1_New York City_Seattle,00:00,41.450667,-90.551601
+1_New York City_Seattle,00:00,41.487394,-90.643033
+1_New York City_Seattle,00:00,41.602969,-90.678427
+1_New York City_Seattle,00:00,41.634514,-91.028081
+1_New York City_Seattle,00:00,41.66305,-91.305198
+1_New York City_Seattle,00:00,41.686709,-91.493358
+1_New York City_Seattle,00:00,41.695362,-91.716066
+1_New York City_Seattle,00:00,41.687126,-91.979194
+1_New York City_Seattle,00:00,41.695999,-92.21322
+1_New York City_Seattle,00:00,41.695365,-92.453989
+1_New York City_Seattle,00:00,41.696326,-92.727498
+1_New York City_Seattle,00:00,41.683836,-93.04984
+1_New York City_Seattle,00:00,41.699713,-93.211173
+1_New York City_Seattle,00:00,41.65165,-93.580612
+1_New York City_Seattle,00:00,41.643842,-93.777171
+1_New York City_Seattle,00:00,41.543849,-93.980898
+1_New York City_Seattle,00:00,41.512063,-94.19839
+1_New York City_Seattle,00:00,41.493306,-94.633824
+1_New York City_Seattle,00:00,41.497587,-94.878297
+1_New York City_Seattle,00:00,41.498221,-95.100633
+1_New York City_Seattle,00:00,41.498643,-95.293766
+1_New York City_Seattle,00:00,41.498364,-95.556974
+1_New York City_Seattle,00:00,41.434081,-95.625626
+1_New York City_Seattle,00:00,41.341055,-95.730277
+1_New York City_Seattle,00:00,41.23894,-95.825548
+1_New York City_Seattle,00:00,41.227437,-95.95569
+1_New York City_Seattle,00:00,41.223977,-96.044695
+1_New York City_Seattle,00:00,41.204206,-96.094423
+1_New York City_Seattle,00:00,41.132202,-96.178353
+1_New York City_Seattle,00:00,41.034673,-96.291682
+1_New York City_Seattle,00:00,40.901857,-96.534153
+1_New York City_Seattle,00:00,40.865077,-96.711666
+1_New York City_Seattle,00:00,40.821926,-96.8537
+1_New York City_Seattle,00:00,40.822414,-97.146203
+1_New York City_Seattle,00:00,40.822062,-97.479029
+1_New York City_Seattle,00:00,40.82124,-97.88252
+1_New York City_Seattle,00:00,40.821931,-98.206174
+1_New York City_Seattle,00:00,40.812669,-98.441362
+1_New York City_Seattle,00:00,40.722751,-98.757278
+1_New York City_Seattle,00:00,40.679975,-98.989369
+1_New York City_Seattle,00:00,40.684337,-99.312967
+1_New York City_Seattle,00:00,40.702419,-99.635719
+1_New York City_Seattle,00:00,40.838667,-99.974871
+1_New York City_Seattle,00:00,40.943831,-100.227874
+1_New York City_Seattle,00:00,41.05178,-100.526332
+1_New York City_Seattle,00:00,41.112566,-100.811806
+1_New York City_Seattle,00:00,41.117247,-101.268017
+1_New York City_Seattle,00:00,41.118221,-101.589951
+1_New York City_Seattle,00:00,41.096284,-101.803456
+1_New York City_Seattle,00:00,41.047156,-102.076672
+1_New York City_Seattle,00:00,41.054537,-102.410235
+1_New York City_Seattle,00:00,41.113919,-102.613987
+1_New York City_Seattle,00:00,41.160722,-103.09576
+1_New York City_Seattle,00:00,41.221501,-103.381875
+1_New York City_Seattle,00:00,41.192098,-103.885168
+1_New York City_Seattle,00:00,41.148675,-104.181795
+1_New York City_Seattle,00:00,41.125841,-104.731179
+1_New York City_Seattle,00:00,41.104885,-105.000409
+1_New York City_Seattle,00:00,41.10406,-105.222854
+1_New York City_Seattle,00:00,41.181859,-105.421068
+1_New York City_Seattle,00:00,41.274665,-105.506119
+1_New York City_Seattle,00:00,41.341383,-105.620669
+1_New York City_Seattle,00:00,41.443776,-105.960099
+1_New York City_Seattle,00:00,41.574444,-106.155857
+1_New York City_Seattle,00:00,41.67919,-106.375017
+1_New York City_Seattle,00:00,41.736476,-106.598272
+1_New York City_Seattle,00:00,41.77381,-107.106246
+1_New York City_Seattle,00:00,41.776118,-107.323145
+1_New York City_Seattle,00:00,41.706016,-107.856356
+1_New York City_Seattle,00:00,41.644384,-108.554783
+1_New York City_Seattle,00:00,41.690877,-108.884047
+1_New York City_Seattle,00:00,41.592469,-109.185201
+1_New York City_Seattle,00:00,41.529467,-109.397876
+1_New York City_Seattle,00:00,41.564465,-109.549401
+1_New York City_Seattle,00:00,41.500263,-110.004686
+1_New York City_Seattle,00:00,41.367632,-110.29731
+1_New York City_Seattle,00:00,41.295099,-110.688194
+1_New York City_Seattle,00:00,41.265738,-110.915661
+1_New York City_Seattle,00:00,41.2467,-111.039749
+1_New York City_Seattle,00:00,41.103465,-111.210907
+1_New York City_Seattle,00:00,40.971653,-111.437932
+1_New York City_Seattle,00:00,41.04798,-111.526946
+1_New York City_Seattle,00:00,41.053129,-111.601354
+1_New York City_Seattle,00:00,41.138293,-111.804917
+1_New York City_Seattle,00:00,41.136995,-111.944357
+1_New York City_Seattle,00:00,41.242294,-112.015344
+1_New York City_Seattle,00:00,41.432003,-112.0573
+1_New York City_Seattle,00:00,41.678419,-112.13769
+1_New York City_Seattle,00:00,41.799697,-112.303325
+1_New York City_Seattle,00:00,41.890383,-112.509816
+1_New York City_Seattle,00:00,41.9606,-112.691556
+1_New York City_Seattle,00:00,42.093838,-112.928127
+1_New York City_Seattle,00:00,42.20312,-113.033881
+1_New York City_Seattle,00:00,42.262823,-113.134341
+1_New York City_Seattle,00:00,42.439888,-113.347941
+1_New York City_Seattle,00:00,42.56887,-113.597073
+1_New York City_Seattle,00:00,42.570843,-113.845977
+1_New York City_Seattle,00:00,42.575997,-114.112805
+1_New York City_Seattle,00:00,42.579218,-114.303105
+1_New York City_Seattle,00:00,42.730654,-114.558456
+1_New York City_Seattle,00:00,42.835624,-114.815155
+1_New York City_Seattle,00:00,42.919814,-114.92736
+1_New York City_Seattle,00:00,42.955346,-115.166952
+1_New York City_Seattle,00:00,42.961313,-115.270071
+1_New York City_Seattle,00:00,42.945798,-115.410917
+1_New York City_Seattle,00:00,43.031893,-115.563612
+1_New York City_Seattle,00:00,43.16774,-115.717069
+1_New York City_Seattle,00:00,43.54283,-116.161614
+1_New York City_Seattle,00:00,43.597048,-116.351915
+1_New York City_Seattle,00:00,43.630272,-116.625555
+1_New York City_Seattle,00:00,43.739343,-116.710166
+1_New York City_Seattle,00:00,43.85772,-116.769674
+1_New York City_Seattle,00:00,43.953407,-116.890001
+1_New York City_Seattle,00:00,44.132482,-117.091205
+1_New York City_Seattle,00:00,44.268071,-117.194913
+1_New York City_Seattle,00:00,44.40489,-117.31235
+1_New York City_Seattle,00:00,44.470409,-117.337179
+1_New York City_Seattle,00:00,44.519445,-117.378689
+1_New York City_Seattle,00:00,44.627126,-117.50703
+1_New York City_Seattle,00:00,44.761976,-117.809524
+1_New York City_Seattle,00:00,45.025484,-117.925812
+1_New York City_Seattle,00:00,45.239105,-118.015269
+1_New York City_Seattle,00:00,45.346266,-118.126797
+1_New York City_Seattle,00:00,45.352902,-118.182913
+1_New York City_Seattle,00:00,45.342303,-118.231057
+1_New York City_Seattle,00:00,45.405673,-118.339613
+1_New York City_Seattle,00:00,45.495454,-118.415614
+1_New York City_Seattle,00:00,45.592705,-118.474385
+1_New York City_Seattle,00:00,45.585923,-118.602825
+1_New York City_Seattle,00:00,45.595697,-118.621238
+1_New York City_Seattle,00:00,45.656387,-118.714885
+1_New York City_Seattle,00:00,45.791345,-119.369005
+1_New York City_Seattle,00:00,45.950164,-119.402051
+1_New York City_Seattle,00:00,46.0435,-119.60236
+1_New York City_Seattle,00:00,46.208722,-119.728706
+1_New York City_Seattle,00:00,46.306401,-119.973728
+1_New York City_Seattle,00:00,46.395661,-120.253516
+1_New York City_Seattle,00:00,46.520187,-120.461554
+1_New York City_Seattle,00:00,46.680702,-120.475905
+1_New York City_Seattle,00:00,46.793475,-120.357983
+1_New York City_Seattle,00:00,46.889991,-120.431539
+1_New York City_Seattle,00:00,46.98069,-120.55978
+1_New York City_Seattle,00:00,47.107676,-120.768106
+1_New York City_Seattle,00:00,47.193352,-120.95359
+1_New York City_Seattle,00:00,47.237402,-121.174542
+1_New York City_Seattle,00:00,47.268859,-121.259231
+1_New York City_Seattle,00:00,47.314158,-121.315139
+1_New York City_Seattle,00:00,47.353125,-121.365065
+1_New York City_Seattle,00:00,47.397891,-121.398421
+1_New York City_Seattle,00:00,47.410233,-121.447124
+1_New York City_Seattle,00:00,47.40906,-121.575148
+1_New York City_Seattle,00:00,47.443947,-121.677424
+1_New York City_Seattle,00:00,47.495391,-121.811392
+1_New York City_Seattle,00:00,47.52368,-121.936546
+1_New York City_Seattle,00:00,47.532172,-122.021353
+1_New York City_Seattle,00:00,47.580328,-122.178015
+1_New York City_Seattle,00:00,47.590189,-122.250717
+1_New York City_Seattle,00:00,47.606899,-122.329076
+0_Portland_Atlanta,00:00,45.51223,-122.658717
+0_Portland_Atlanta,00:00,45.529702,-122.648253
+0_Portland_Atlanta,00:00,45.527693,-122.60462
+0_Portland_Atlanta,00:00,45.534504,-122.562192
+0_Portland_Atlanta,00:00,45.541349,-122.477026
+0_Portland_Atlanta,00:00,45.539999,-122.4173
+0_Portland_Atlanta,00:00,45.541494,-122.294812
+0_Portland_Atlanta,00:00,45.578992,-122.122936
+0_Portland_Atlanta,00:00,45.617363,-121.992291
+0_Portland_Atlanta,00:00,45.654011,-121.903129
+0_Portland_Atlanta,00:00,45.696983,-121.821345
+0_Portland_Atlanta,00:00,45.692349,-121.739483
+0_Portland_Atlanta,00:00,45.704145,-121.61881
+0_Portland_Atlanta,00:00,45.709728,-121.493066
+0_Portland_Atlanta,00:00,45.693078,-121.383721
+0_Portland_Atlanta,00:00,45.679036,-121.289151
+0_Portland_Atlanta,00:00,45.628448,-121.214168
+0_Portland_Atlanta,00:00,45.617817,-121.114895
+0_Portland_Atlanta,00:00,45.636803,-120.902003
+0_Portland_Atlanta,00:00,45.733264,-120.647137
+0_Portland_Atlanta,00:00,45.706657,-120.286604
+0_Portland_Atlanta,00:00,45.834372,-119.741302
+0_Portland_Atlanta,00:00,45.676708,-118.869466
+0_Portland_Atlanta,00:00,45.615109,-118.651645
+0_Portland_Atlanta,00:00,45.584601,-118.639346
+0_Portland_Atlanta,00:00,45.583211,-118.606595
+0_Portland_Atlanta,00:00,45.600017,-118.502988
+0_Portland_Atlanta,00:00,45.531648,-118.449483
+0_Portland_Atlanta,00:00,45.421566,-118.350977
+0_Portland_Atlanta,00:00,45.349264,-118.247723
+0_Portland_Atlanta,00:00,45.354471,-118.19019
+0_Portland_Atlanta,00:00,45.343841,-118.137329
+0_Portland_Atlanta,00:00,45.296938,-118.038887
+0_Portland_Atlanta,00:00,45.122608,-117.962606
+0_Portland_Atlanta,00:00,44.910181,-117.81989
+0_Portland_Atlanta,00:00,44.6716,-117.628155
+0_Portland_Atlanta,00:00,44.560742,-117.429235
+0_Portland_Atlanta,00:00,44.511533,-117.376537
+0_Portland_Atlanta,00:00,44.468126,-117.335805
+0_Portland_Atlanta,00:00,44.416429,-117.308587
+0_Portland_Atlanta,00:00,44.279142,-117.209263
+0_Portland_Atlanta,00:00,44.216768,-117.153035
+0_Portland_Atlanta,00:00,44.035542,-116.957875
+0_Portland_Atlanta,00:00,43.937795,-116.861334
+0_Portland_Atlanta,00:00,43.857274,-116.769793
+0_Portland_Atlanta,00:00,43.710545,-116.700073
+0_Portland_Atlanta,00:00,43.633583,-116.631478
+0_Portland_Atlanta,00:00,43.594411,-116.361608
+0_Portland_Atlanta,00:00,43.570574,-116.213164
+0_Portland_Atlanta,00:00,43.40834,-116.022048
+0_Portland_Atlanta,00:00,43.155356,-115.687902
+0_Portland_Atlanta,00:00,43.059787,-115.590438
+0_Portland_Atlanta,00:00,42.958282,-115.480399
+0_Portland_Atlanta,00:00,42.957592,-115.363604
+0_Portland_Atlanta,00:00,42.962683,-115.258294
+0_Portland_Atlanta,00:00,42.9557,-115.174062
+0_Portland_Atlanta,00:00,42.936188,-114.952441
+0_Portland_Atlanta,00:00,42.860209,-114.846617
+0_Portland_Atlanta,00:00,42.771764,-114.719493
+0_Portland_Atlanta,00:00,42.716296,-114.538515
+0_Portland_Atlanta,00:00,42.647881,-114.462782
+0_Portland_Atlanta,00:00,42.576139,-114.257667
+0_Portland_Atlanta,00:00,42.57594,-114.083227
+0_Portland_Atlanta,00:00,42.573414,-113.851692
+0_Portland_Atlanta,00:00,42.568718,-113.672834
+0_Portland_Atlanta,00:00,42.50762,-113.41135
+0_Portland_Atlanta,00:00,42.355589,-113.250012
+0_Portland_Atlanta,00:00,42.237721,-113.087032
+0_Portland_Atlanta,00:00,42.19963,-113.025613
+0_Portland_Atlanta,00:00,42.074993,-112.909964
+0_Portland_Atlanta,00:00,41.926506,-112.638992
+0_Portland_Atlanta,00:00,41.874937,-112.469665
+0_Portland_Atlanta,00:00,41.740759,-112.255706
+0_Portland_Atlanta,00:00,41.63871,-112.103733
+0_Portland_Atlanta,00:00,41.417268,-112.051111
+0_Portland_Atlanta,00:00,41.252684,-112.0183
+0_Portland_Atlanta,00:00,41.182873,-112.011223
+0_Portland_Atlanta,00:00,41.136921,-111.917957
+0_Portland_Atlanta,00:00,41.139205,-111.819159
+0_Portland_Atlanta,00:00,41.051016,-111.625205
+0_Portland_Atlanta,00:00,41.063512,-111.546865
+0_Portland_Atlanta,00:00,41.007987,-111.478771
+0_Portland_Atlanta,00:00,40.99539,-111.39703
+0_Portland_Atlanta,00:00,41.1105,-111.202271
+0_Portland_Atlanta,00:00,41.249619,-111.054475
+0_Portland_Atlanta,00:00,41.261665,-110.954845
+0_Portland_Atlanta,00:00,41.272512,-110.855694
+0_Portland_Atlanta,00:00,41.299095,-110.677516
+0_Portland_Atlanta,00:00,41.355066,-110.344062
+0_Portland_Atlanta,00:00,41.427721,-110.122583
+0_Portland_Atlanta,00:00,41.541914,-109.892171
+0_Portland_Atlanta,00:00,41.561329,-109.539355
+0_Portland_Atlanta,00:00,41.527798,-109.427002
+0_Portland_Atlanta,00:00,41.608967,-109.225946
+0_Portland_Atlanta,00:00,41.635783,-109.044401
+0_Portland_Atlanta,00:00,41.688663,-108.842994
+0_Portland_Atlanta,00:00,41.645774,-108.581665
+0_Portland_Atlanta,00:00,41.687577,-107.9517
+0_Portland_Atlanta,00:00,41.784634,-107.413081
+0_Portland_Atlanta,00:00,41.780797,-107.217117
+0_Portland_Atlanta,00:00,41.741616,-106.843387
+0_Portland_Atlanta,00:00,41.744482,-106.496054
+0_Portland_Atlanta,00:00,41.641517,-106.305228
+0_Portland_Atlanta,00:00,41.559176,-106.10659
+0_Portland_Atlanta,00:00,41.432424,-105.89181
+0_Portland_Atlanta,00:00,41.340215,-105.61908
+0_Portland_Atlanta,00:00,41.285286,-105.52138
+0_Portland_Atlanta,00:00,41.231261,-105.437613
+0_Portland_Atlanta,00:00,41.127613,-105.337501
+0_Portland_Atlanta,00:00,41.097728,-105.164957
+0_Portland_Atlanta,00:00,41.107338,-104.987981
+0_Portland_Atlanta,00:00,41.124671,-104.736669
+0_Portland_Atlanta,00:00,41.157515,-104.413362
+0_Portland_Atlanta,00:00,41.17569,-104.07487
+0_Portland_Atlanta,00:00,41.192598,-103.769714
+0_Portland_Atlanta,00:00,41.207761,-103.331236
+0_Portland_Atlanta,00:00,41.173299,-103.117214
+0_Portland_Atlanta,00:00,41.115177,-102.897362
+0_Portland_Atlanta,00:00,41.082871,-102.480953
+0_Portland_Atlanta,00:00,41.029607,-102.174432
+0_Portland_Atlanta,00:00,41.062357,-101.997924
+0_Portland_Atlanta,00:00,41.100882,-101.776606
+0_Portland_Atlanta,00:00,41.118061,-101.594853
+0_Portland_Atlanta,00:00,41.110265,-101.362107
+0_Portland_Atlanta,00:00,41.136786,-100.995786
+0_Portland_Atlanta,00:00,41.088197,-100.644503
+0_Portland_Atlanta,00:00,41.024412,-100.438254
+0_Portland_Atlanta,00:00,40.925328,-100.185619
+0_Portland_Atlanta,00:00,40.832363,-99.957843
+0_Portland_Atlanta,00:00,40.719834,-99.691049
+0_Portland_Atlanta,00:00,40.69473,-99.436939
+0_Portland_Atlanta,00:00,40.670061,-99.147989
+0_Portland_Atlanta,00:00,40.688667,-98.944687
+0_Portland_Atlanta,00:00,40.72251,-98.733266
+0_Portland_Atlanta,00:00,40.8081,-98.45737
+0_Portland_Atlanta,00:00,40.820945,-98.22521
+0_Portland_Atlanta,00:00,40.821154,-97.930068
+0_Portland_Atlanta,00:00,40.821176,-97.674635
+0_Portland_Atlanta,00:00,40.821449,-97.328432
+0_Portland_Atlanta,00:00,40.820825,-97.026732
+0_Portland_Atlanta,00:00,40.818422,-96.795659
+0_Portland_Atlanta,00:00,40.799456,-96.738788
+0_Portland_Atlanta,00:00,40.755451,-96.722049
+0_Portland_Atlanta,00:00,40.690291,-96.631022
+0_Portland_Atlanta,00:00,40.711423,-96.407802
+0_Portland_Atlanta,00:00,40.686911,-96.271345
+0_Portland_Atlanta,00:00,40.675806,-96.042184
+0_Portland_Atlanta,00:00,40.653092,-95.862193
+0_Portland_Atlanta,00:00,40.687791,-95.783147
+0_Portland_Atlanta,00:00,40.583863,-95.651975
+0_Portland_Atlanta,00:00,40.310274,-95.493987
+0_Portland_Atlanta,00:00,40.189881,-95.356188
+0_Portland_Atlanta,00:00,40.143702,-95.242624
+0_Portland_Atlanta,00:00,40.073219,-95.190332
+0_Portland_Atlanta,00:00,39.967791,-94.97353
+0_Portland_Atlanta,00:00,39.890544,-94.863607
+0_Portland_Atlanta,00:00,39.816036,-94.804175
+0_Portland_Atlanta,00:00,39.723036,-94.788678
+0_Portland_Atlanta,00:00,39.544765,-94.787772
+0_Portland_Atlanta,00:00,39.358263,-94.767088
+0_Portland_Atlanta,00:00,39.307072,-94.600656
+0_Portland_Atlanta,00:00,39.207215,-94.491238
+0_Portland_Atlanta,00:00,39.064439,-94.488474
+0_Portland_Atlanta,00:00,39.039565,-94.346664
+0_Portland_Atlanta,00:00,39.011625,-94.083303
+0_Portland_Atlanta,00:00,39.0077,-93.943895
+0_Portland_Atlanta,00:00,39.004383,-93.858353
+0_Portland_Atlanta,00:00,39.001034,-93.747203
+0_Portland_Atlanta,00:00,38.991884,-93.660344
+0_Portland_Atlanta,00:00,38.992518,-93.575424
+0_Portland_Atlanta,00:00,38.979134,-93.467858
+0_Portland_Atlanta,00:00,38.971445,-93.273357
+0_Portland_Atlanta,00:00,38.939848,-92.98488
+0_Portland_Atlanta,00:00,38.968091,-92.370842
+0_Portland_Atlanta,00:00,38.961028,-92.276021
+0_Portland_Atlanta,00:00,38.959247,-92.219231
+0_Portland_Atlanta,00:00,38.949222,-91.960759
+0_Portland_Atlanta,00:00,38.937999,-91.82307
+0_Portland_Atlanta,00:00,38.896686,-91.602239
+0_Portland_Atlanta,00:00,38.888772,-91.418495
+0_Portland_Atlanta,00:00,38.847814,-91.278733
+0_Portland_Atlanta,00:00,38.820716,-91.18761
+0_Portland_Atlanta,00:00,38.827808,-91.053726
+0_Portland_Atlanta,00:00,38.809984,-90.87069
+0_Portland_Atlanta,00:00,38.805504,-90.809906
+0_Portland_Atlanta,00:00,38.800087,-90.629522
+0_Portland_Atlanta,00:00,38.785318,-90.527906
+0_Portland_Atlanta,00:00,38.746087,-90.432467
+0_Portland_Atlanta,00:00,38.73717,-90.359298
+0_Portland_Atlanta,00:00,38.720757,-90.306469
+0_Portland_Atlanta,00:00,38.701609,-90.266805
+0_Portland_Atlanta,00:00,38.682831,-90.231641
+0_Portland_Atlanta,00:00,38.66051,-90.19681
+0_Portland_Atlanta,00:00,38.649195,-90.166074
+0_Portland_Atlanta,00:00,38.620123,-90.11166
+0_Portland_Atlanta,00:00,38.598559,-89.97972
+0_Portland_Atlanta,00:00,38.57533,-89.890105
+0_Portland_Atlanta,00:00,38.544419,-89.744308
+0_Portland_Atlanta,00:00,38.511327,-89.648106
+0_Portland_Atlanta,00:00,38.448846,-89.547683
+0_Portland_Atlanta,00:00,38.407936,-89.414933
+0_Portland_Atlanta,00:00,38.3914,-89.311967
+0_Portland_Atlanta,00:00,38.386777,-89.13616
+0_Portland_Atlanta,00:00,38.325787,-88.955935
+0_Portland_Atlanta,00:00,38.220561,-88.906993
+0_Portland_Atlanta,00:00,38.122907,-88.912126
+0_Portland_Atlanta,00:00,38.006735,-88.9296
+0_Portland_Atlanta,00:00,37.908544,-88.946613
+0_Portland_Atlanta,00:00,37.775657,-88.946008
+0_Portland_Atlanta,00:00,37.681139,-88.966249
+0_Portland_Atlanta,00:00,37.605709,-88.998309
+0_Portland_Atlanta,00:00,37.500905,-88.899323
+0_Portland_Atlanta,00:00,37.407329,-88.864206
+0_Portland_Atlanta,00:00,37.319506,-88.760787
+0_Portland_Atlanta,00:00,37.185506,-88.683218
+0_Portland_Atlanta,00:00,37.072273,-88.675205
+0_Portland_Atlanta,00:00,37.039198,-88.635059
+0_Portland_Atlanta,00:00,37.003188,-88.554428
+0_Portland_Atlanta,00:00,36.993016,-88.452901
+0_Portland_Atlanta,00:00,37.002805,-88.324757
+0_Portland_Atlanta,00:00,37.051177,-88.243609
+0_Portland_Atlanta,00:00,37.06145,-88.187542
+0_Portland_Atlanta,00:00,37.071164,-88.143081
+0_Portland_Atlanta,00:00,37.072307,-88.089071
+0_Portland_Atlanta,00:00,37.048498,-88.021651
+0_Portland_Atlanta,00:00,37.004809,-87.968649
+0_Portland_Atlanta,00:00,36.957884,-87.853582
+0_Portland_Atlanta,00:00,36.861187,-87.707346
+0_Portland_Atlanta,00:00,36.796023,-87.604675
+0_Portland_Atlanta,00:00,36.692638,-87.428992
+0_Portland_Atlanta,00:00,36.61369,-87.295163
+0_Portland_Atlanta,00:00,36.513461,-87.206897
+0_Portland_Atlanta,00:00,36.396079,-87.014674
+0_Portland_Atlanta,00:00,36.326099,-86.883842
+0_Portland_Atlanta,00:00,36.280939,-86.804047
+0_Portland_Atlanta,00:00,36.196064,-86.776107
+0_Portland_Atlanta,00:00,36.134588,-86.727098
+0_Portland_Atlanta,00:00,36.020911,-86.627952
+0_Portland_Atlanta,00:00,35.895718,-86.488842
+0_Portland_Atlanta,00:00,35.622284,-86.24229
+0_Portland_Atlanta,00:00,35.364405,-85.963142
+0_Portland_Atlanta,00:00,35.249034,-85.873154
+0_Portland_Atlanta,00:00,35.229294,-85.825292
+0_Portland_Atlanta,00:00,35.171233,-85.794536
+0_Portland_Atlanta,00:00,35.038295,-85.683541
+0_Portland_Atlanta,00:00,35.00681,-85.526861
+0_Portland_Atlanta,00:00,34.991481,-85.48412
+0_Portland_Atlanta,00:00,34.971203,-85.421886
+0_Portland_Atlanta,00:00,35.028929,-85.352507
+0_Portland_Atlanta,00:00,35.01873,-85.294529
+0_Portland_Atlanta,00:00,34.996575,-85.208435
+0_Portland_Atlanta,00:00,34.917697,-85.146589
+0_Portland_Atlanta,00:00,34.863386,-85.030209
+0_Portland_Atlanta,00:00,34.763101,-85.00197
+0_Portland_Atlanta,00:00,34.671683,-84.997381
+0_Portland_Atlanta,00:00,34.545548,-84.925199
+0_Portland_Atlanta,00:00,34.425074,-84.92032
+0_Portland_Atlanta,00:00,34.308963,-84.836595
+0_Portland_Atlanta,00:00,34.219969,-84.752689
+0_Portland_Atlanta,00:00,34.178425,-84.760585
+0_Portland_Atlanta,00:00,34.113705,-84.734472
+0_Portland_Atlanta,00:00,34.080259,-84.674095
+0_Portland_Atlanta,00:00,34.048497,-84.585987
+0_Portland_Atlanta,00:00,33.987459,-84.545425
+0_Portland_Atlanta,00:00,33.901109,-84.473024
+0_Portland_Atlanta,00:00,33.841427,-84.430201
+0_Portland_Atlanta,00:00,33.795547,-84.394363
+0_Portland_Atlanta,00:00,33.755102,-84.378619
+1_Portland_Atlanta,00:00,45.51223,-122.658717
+1_Portland_Atlanta,00:00,45.529702,-122.648253
+1_Portland_Atlanta,00:00,45.527693,-122.60462
+1_Portland_Atlanta,00:00,45.534504,-122.562192
+1_Portland_Atlanta,00:00,45.541349,-122.477026
+1_Portland_Atlanta,00:00,45.539999,-122.4173
+1_Portland_Atlanta,00:00,45.541494,-122.294812
+1_Portland_Atlanta,00:00,45.578992,-122.122936
+1_Portland_Atlanta,00:00,45.617363,-121.992291
+1_Portland_Atlanta,00:00,45.654011,-121.903129
+1_Portland_Atlanta,00:00,45.696983,-121.821345
+1_Portland_Atlanta,00:00,45.692349,-121.739483
+1_Portland_Atlanta,00:00,45.704145,-121.61881
+1_Portland_Atlanta,00:00,45.709728,-121.493066
+1_Portland_Atlanta,00:00,45.693078,-121.383721
+1_Portland_Atlanta,00:00,45.679036,-121.289151
+1_Portland_Atlanta,00:00,45.628448,-121.214168
+1_Portland_Atlanta,00:00,45.617817,-121.114895
+1_Portland_Atlanta,00:00,45.636803,-120.902003
+1_Portland_Atlanta,00:00,45.733264,-120.647137
+1_Portland_Atlanta,00:00,45.706657,-120.286604
+1_Portland_Atlanta,00:00,45.834372,-119.741302
+1_Portland_Atlanta,00:00,45.901308,-119.331505
+1_Portland_Atlanta,00:00,45.998242,-119.264061
+1_Portland_Atlanta,00:00,46.172144,-119.193588
+1_Portland_Atlanta,00:00,46.214481,-119.15665
+1_Portland_Atlanta,00:00,46.241372,-119.128724
+1_Portland_Atlanta,00:00,46.364816,-119.083424
+1_Portland_Atlanta,00:00,46.641847,-118.859425
+1_Portland_Atlanta,00:00,46.812174,-118.713061
+1_Portland_Atlanta,00:00,46.976258,-118.565439
+1_Portland_Atlanta,00:00,47.104485,-118.406023
+1_Portland_Atlanta,00:00,47.21304,-118.22019
+1_Portland_Atlanta,00:00,47.296912,-118.027007
+1_Portland_Atlanta,00:00,47.412784,-117.818841
+1_Portland_Atlanta,00:00,47.581394,-117.576138
+1_Portland_Atlanta,00:00,47.652146,-117.404255
+1_Portland_Atlanta,00:00,47.666697,-117.305683
+1_Portland_Atlanta,00:00,47.665599,-117.130681
+1_Portland_Atlanta,00:00,47.709202,-117.001383
+1_Portland_Atlanta,00:00,47.701007,-116.815742
+1_Portland_Atlanta,00:00,47.662232,-116.743769
+1_Portland_Atlanta,00:00,47.643019,-116.71339
+1_Portland_Atlanta,00:00,47.631376,-116.692801
+1_Portland_Atlanta,00:00,47.630676,-116.607063
+1_Portland_Atlanta,00:00,47.622539,-116.557973
+1_Portland_Atlanta,00:00,47.606173,-116.504316
+1_Portland_Atlanta,00:00,47.577971,-116.433313
+1_Portland_Atlanta,00:00,47.548014,-116.32444
+1_Portland_Atlanta,00:00,47.549288,-116.267588
+1_Portland_Atlanta,00:00,47.54607,-116.187906
+1_Portland_Atlanta,00:00,47.534297,-116.106659
+1_Portland_Atlanta,00:00,47.522179,-116.042203
+1_Portland_Atlanta,00:00,47.495448,-115.977882
+1_Portland_Atlanta,00:00,47.475205,-115.928
+1_Portland_Atlanta,00:00,47.472206,-115.882723
+1_Portland_Atlanta,00:00,47.464377,-115.835952
+1_Portland_Atlanta,00:00,47.468107,-115.798362
+1_Portland_Atlanta,00:00,47.465023,-115.755239
+1_Portland_Atlanta,00:00,47.459948,-115.71911
+1_Portland_Atlanta,00:00,47.450858,-115.693848
+1_Portland_Atlanta,00:00,47.435625,-115.660144
+1_Portland_Atlanta,00:00,47.419149,-115.62593
+1_Portland_Atlanta,00:00,47.41584,-115.586718
+1_Portland_Atlanta,00:00,47.417787,-115.532671
+1_Portland_Atlanta,00:00,47.401846,-115.473492
+1_Portland_Atlanta,00:00,47.394484,-115.441283
+1_Portland_Atlanta,00:00,47.377989,-115.35481
+1_Portland_Atlanta,00:00,47.344217,-115.279202
+1_Portland_Atlanta,00:00,47.327569,-115.255772
+1_Portland_Atlanta,00:00,47.313695,-115.225822
+1_Portland_Atlanta,00:00,47.29657,-115.138754
+1_Portland_Atlanta,00:00,47.232888,-114.999092
+1_Portland_Atlanta,00:00,47.111537,-114.787111
+1_Portland_Atlanta,00:00,47.017626,-114.666553
+1_Portland_Atlanta,00:00,47.000724,-114.476054
+1_Portland_Atlanta,00:00,47.027377,-114.292013
+1_Portland_Atlanta,00:00,46.937133,-114.096819
+1_Portland_Atlanta,00:00,46.86387,-113.960158
+1_Portland_Atlanta,00:00,46.861862,-113.865816
+1_Portland_Atlanta,00:00,46.728895,-113.694701
+1_Portland_Atlanta,00:00,46.716238,-113.532338
+1_Portland_Atlanta,00:00,46.703578,-113.470031
+1_Portland_Atlanta,00:00,46.697582,-113.400276
+1_Portland_Atlanta,00:00,46.705166,-113.336862
+1_Portland_Atlanta,00:00,46.717312,-113.290475
+1_Portland_Atlanta,00:00,46.68366,-113.193504
+1_Portland_Atlanta,00:00,46.653138,-113.124969
+1_Portland_Atlanta,00:00,46.569558,-112.891393
+1_Portland_Atlanta,00:00,46.523705,-112.81782
+1_Portland_Atlanta,00:00,46.477758,-112.723391
+1_Portland_Atlanta,00:00,46.238874,-112.7645
+1_Portland_Atlanta,00:00,46.04103,-112.739244
+1_Portland_Atlanta,00:00,46.003232,-112.571741
+1_Portland_Atlanta,00:00,45.980252,-112.480918
+1_Portland_Atlanta,00:00,45.915811,-112.38787
+1_Portland_Atlanta,00:00,45.90066,-112.214849
+1_Portland_Atlanta,00:00,45.875329,-111.893819
+1_Portland_Atlanta,00:00,45.905048,-111.543055
+1_Portland_Atlanta,00:00,45.834589,-111.292634
+1_Portland_Atlanta,00:00,45.697978,-111.051118
+1_Portland_Atlanta,00:00,45.639553,-110.912085
+1_Portland_Atlanta,00:00,45.661645,-110.744422
+1_Portland_Atlanta,00:00,45.644508,-110.581789
+1_Portland_Atlanta,00:00,45.703605,-110.337413
+1_Portland_Atlanta,00:00,45.735898,-110.220164
+1_Portland_Atlanta,00:00,45.83224,-109.899065
+1_Portland_Atlanta,00:00,45.711561,-109.629737
+1_Portland_Atlanta,00:00,45.682024,-109.432697
+1_Portland_Atlanta,00:00,45.655774,-109.272091
+1_Portland_Atlanta,00:00,45.599065,-109.065083
+1_Portland_Atlanta,00:00,45.663678,-108.796369
+1_Portland_Atlanta,00:00,45.75205,-108.547262
+1_Portland_Atlanta,00:00,45.826305,-108.39241
+1_Portland_Atlanta,00:00,45.776445,-108.184869
+1_Portland_Atlanta,00:00,45.766846,-107.918577
+1_Portland_Atlanta,00:00,45.626217,-107.466264
+1_Portland_Atlanta,00:00,45.535245,-107.278498
+1_Portland_Atlanta,00:00,45.528845,-106.985284
+1_Portland_Atlanta,00:00,45.58263,-106.861604
+1_Portland_Atlanta,00:00,45.631446,-106.733899
+1_Portland_Atlanta,00:00,45.62346,-106.666111
+1_Portland_Atlanta,00:00,45.631829,-106.534469
+1_Portland_Atlanta,00:00,45.6227,-106.441335
+1_Portland_Atlanta,00:00,45.590819,-106.29933
+1_Portland_Atlanta,00:00,45.56748,-106.171212
+1_Portland_Atlanta,00:00,45.560051,-105.982474
+1_Portland_Atlanta,00:00,45.480279,-105.601787
+1_Portland_Atlanta,00:00,45.443428,-105.419232
+1_Portland_Atlanta,00:00,45.331114,-105.188712
+1_Portland_Atlanta,00:00,45.148471,-104.710367
+1_Portland_Atlanta,00:00,44.951291,-104.303559
+1_Portland_Atlanta,00:00,44.840004,-104.103063
+1_Portland_Atlanta,00:00,44.69076,-103.867883
+1_Portland_Atlanta,00:00,44.6543,-103.858293
+1_Portland_Atlanta,00:00,44.616395,-103.815251
+1_Portland_Atlanta,00:00,44.506554,-103.676208
+1_Portland_Atlanta,00:00,44.412869,-103.527686
+1_Portland_Atlanta,00:00,44.236451,-103.391588
+1_Portland_Atlanta,00:00,44.115822,-103.273504
+1_Portland_Atlanta,00:00,44.099898,-103.18475
+1_Portland_Atlanta,00:00,44.11736,-103.087112
+1_Portland_Atlanta,00:00,44.103205,-102.556205
+1_Portland_Atlanta,00:00,44.066822,-102.377477
+1_Portland_Atlanta,00:00,43.981346,-102.202746
+1_Portland_Atlanta,00:00,43.835986,-101.559174
+1_Portland_Atlanta,00:00,43.870881,-101.161628
+1_Portland_Atlanta,00:00,43.886551,-100.878977
+1_Portland_Atlanta,00:00,43.904534,-100.647031
+1_Portland_Atlanta,00:00,43.91139,-100.353154
+1_Portland_Atlanta,00:00,43.897166,-99.876158
+1_Portland_Atlanta,00:00,43.868515,-99.705192
+1_Portland_Atlanta,00:00,43.847196,-99.520357
+1_Portland_Atlanta,00:00,43.806039,-99.369593
+1_Portland_Atlanta,00:00,43.775613,-99.325255
+1_Portland_Atlanta,00:00,43.743451,-99.009396
+1_Portland_Atlanta,00:00,43.737599,-98.781259
+1_Portland_Atlanta,00:00,43.711777,-98.683234
+1_Portland_Atlanta,00:00,43.694715,-98.447883
+1_Portland_Atlanta,00:00,43.694217,-98.12328
+1_Portland_Atlanta,00:00,43.665961,-97.813602
+1_Portland_Atlanta,00:00,43.608952,-97.025393
+1_Portland_Atlanta,00:00,43.612354,-96.774356
+1_Portland_Atlanta,00:00,43.562812,-96.779059
+1_Portland_Atlanta,00:00,43.490224,-96.793787
+1_Portland_Atlanta,00:00,43.380947,-96.796474
+1_Portland_Atlanta,00:00,43.116784,-96.796784
+1_Portland_Atlanta,00:00,42.674904,-96.683954
+1_Portland_Atlanta,00:00,42.493596,-96.459294
+1_Portland_Atlanta,00:00,42.48982,-96.373856
+1_Portland_Atlanta,00:00,42.47558,-96.33139
+1_Portland_Atlanta,00:00,42.474813,-96.10681
+1_Portland_Atlanta,00:00,42.482215,-95.778872
+1_Portland_Atlanta,00:00,42.474792,-95.497162
+1_Portland_Atlanta,00:00,42.469652,-95.071179
+1_Portland_Atlanta,00:00,42.449169,-94.707354
+1_Portland_Atlanta,00:00,42.44885,-94.213504
+1_Portland_Atlanta,00:00,42.449042,-93.866025
+1_Portland_Atlanta,00:00,42.447142,-93.223832
+1_Portland_Atlanta,00:00,42.453416,-93.057283
+1_Portland_Atlanta,00:00,42.463496,-92.648914
+1_Portland_Atlanta,00:00,42.463534,-92.428924
+1_Portland_Atlanta,00:00,42.460357,-92.280036
+1_Portland_Atlanta,00:00,42.450089,-91.978906
+1_Portland_Atlanta,00:00,42.461956,-91.688346
+1_Portland_Atlanta,00:00,42.470661,-91.248335
+1_Portland_Atlanta,00:00,42.437922,-91.005058
+1_Portland_Atlanta,00:00,42.44893,-90.778002
+1_Portland_Atlanta,00:00,42.457396,-90.70806
+1_Portland_Atlanta,00:00,42.420904,-90.6945
+1_Portland_Atlanta,00:00,42.262731,-90.680597
+1_Portland_Atlanta,00:00,42.071458,-90.683372
+1_Portland_Atlanta,00:00,41.973061,-90.651064
+1_Portland_Atlanta,00:00,41.881685,-90.580971
+1_Portland_Atlanta,00:00,41.717305,-90.566418
+1_Portland_Atlanta,00:00,41.595722,-90.570437
+1_Portland_Atlanta,00:00,41.593832,-90.376134
+1_Portland_Atlanta,00:00,41.540846,-90.341774
+1_Portland_Atlanta,00:00,41.260026,-90.329945
+1_Portland_Atlanta,00:00,40.967514,-90.332138
+1_Portland_Atlanta,00:00,40.877912,-90.088233
+1_Portland_Atlanta,00:00,40.78983,-89.79011
+1_Portland_Atlanta,00:00,40.735938,-89.625588
+1_Portland_Atlanta,00:00,40.713138,-89.621673
+1_Portland_Atlanta,00:00,40.700048,-89.593103
+1_Portland_Atlanta,00:00,40.653399,-89.561247
+1_Portland_Atlanta,00:00,40.598925,-89.47843
+1_Portland_Atlanta,00:00,40.386233,-89.455836
+1_Portland_Atlanta,00:00,40.223235,-89.458021
+1_Portland_Atlanta,00:00,40.124513,-89.416947
+1_Portland_Atlanta,00:00,40.059956,-89.451052
+1_Portland_Atlanta,00:00,39.976919,-89.52827
+1_Portland_Atlanta,00:00,39.909527,-89.5953
+1_Portland_Atlanta,00:00,39.822966,-89.59277
+1_Portland_Atlanta,00:00,39.776924,-89.583805
+1_Portland_Atlanta,00:00,39.719333,-89.483374
+1_Portland_Atlanta,00:00,39.661055,-89.380095
+1_Portland_Atlanta,00:00,39.569474,-89.312438
+1_Portland_Atlanta,00:00,39.503668,-89.218886
+1_Portland_Atlanta,00:00,39.386384,-89.081065
+1_Portland_Atlanta,00:00,39.202686,-89.100909
+1_Portland_Atlanta,00:00,39.150329,-89.107887
+1_Portland_Atlanta,00:00,39.078743,-89.0882
+1_Portland_Atlanta,00:00,38.991386,-89.098639
+1_Portland_Atlanta,00:00,38.948474,-89.085053
+1_Portland_Atlanta,00:00,38.824563,-89.08802
+1_Portland_Atlanta,00:00,38.736819,-89.095733
+1_Portland_Atlanta,00:00,38.643287,-89.107216
+1_Portland_Atlanta,00:00,38.619272,-89.058724
+1_Portland_Atlanta,00:00,38.624394,-88.973812
+1_Portland_Atlanta,00:00,38.531023,-88.964636
+1_Portland_Atlanta,00:00,38.335427,-88.956682
+1_Portland_Atlanta,00:00,38.23371,-88.906128
+1_Portland_Atlanta,00:00,38.143221,-88.912761
+1_Portland_Atlanta,00:00,38.014563,-88.926255
+1_Portland_Atlanta,00:00,37.927841,-88.946837
+1_Portland_Atlanta,00:00,37.788319,-88.946003
+1_Portland_Atlanta,00:00,37.69531,-88.966024
+1_Portland_Atlanta,00:00,37.608286,-88.998045
+1_Portland_Atlanta,00:00,37.509329,-88.905465
+1_Portland_Atlanta,00:00,37.41067,-88.868085
+1_Portland_Atlanta,00:00,37.324811,-88.766017
+1_Portland_Atlanta,00:00,37.191217,-88.685819
+1_Portland_Atlanta,00:00,37.075731,-88.679103
+1_Portland_Atlanta,00:00,37.043186,-88.641991
+1_Portland_Atlanta,00:00,37.007681,-88.564498
+1_Portland_Atlanta,00:00,36.993634,-88.466777
+1_Portland_Atlanta,00:00,36.993141,-88.33386
+1_Portland_Atlanta,00:00,37.049317,-88.247681
+1_Portland_Atlanta,00:00,37.063571,-88.194519
+1_Portland_Atlanta,00:00,37.070364,-88.145113
+1_Portland_Atlanta,00:00,37.072319,-88.091514
+1_Portland_Atlanta,00:00,37.053886,-88.029617
+1_Portland_Atlanta,00:00,37.009319,-87.973834
+1_Portland_Atlanta,00:00,36.960487,-87.858319
+1_Portland_Atlanta,00:00,36.869685,-87.714364
+1_Portland_Atlanta,00:00,36.812955,-87.624985
+1_Portland_Atlanta,00:00,36.701113,-87.451029
+1_Portland_Atlanta,00:00,36.625396,-87.306185
+1_Portland_Atlanta,00:00,36.521431,-87.216667
+1_Portland_Atlanta,00:00,36.405833,-87.032644
+1_Portland_Atlanta,00:00,36.331926,-86.902185
+1_Portland_Atlanta,00:00,36.288378,-86.809701
+1_Portland_Atlanta,00:00,36.202327,-86.77688
+1_Portland_Atlanta,00:00,36.140597,-86.731927
+1_Portland_Atlanta,00:00,36.041078,-86.65188
+1_Portland_Atlanta,00:00,35.913314,-86.508388
+1_Portland_Atlanta,00:00,35.648238,-86.255162
+1_Portland_Atlanta,00:00,35.41319,-86.012435
+1_Portland_Atlanta,00:00,35.25371,-85.873566
+1_Portland_Atlanta,00:00,35.23374,-85.833851
+1_Portland_Atlanta,00:00,35.176648,-85.802479
+1_Portland_Atlanta,00:00,35.038625,-85.686785
+1_Portland_Atlanta,00:00,35.011351,-85.532093
+1_Portland_Atlanta,00:00,34.989918,-85.48859
+1_Portland_Atlanta,00:00,34.967827,-85.431692
+1_Portland_Atlanta,00:00,35.028603,-85.358718
+1_Portland_Atlanta,00:00,35.023071,-85.299094
+1_Portland_Atlanta,00:00,35.003023,-85.214095
+1_Portland_Atlanta,00:00,34.93158,-85.15418
+1_Portland_Atlanta,00:00,34.874649,-85.043557
+1_Portland_Atlanta,00:00,34.783087,-85.000618
+1_Portland_Atlanta,00:00,34.678972,-84.999583
+1_Portland_Atlanta,00:00,34.556951,-84.936239
+1_Portland_Atlanta,00:00,34.435343,-84.92031
+1_Portland_Atlanta,00:00,34.335282,-84.864765
+1_Portland_Atlanta,00:00,34.228948,-84.754164
+1_Portland_Atlanta,00:00,34.182346,-84.763335
+1_Portland_Atlanta,00:00,34.118405,-84.739482
+1_Portland_Atlanta,00:00,34.081591,-84.679475
+1_Portland_Atlanta,00:00,34.053146,-84.592696
+1_Portland_Atlanta,00:00,33.989621,-84.548757
+1_Portland_Atlanta,00:00,33.910001,-84.478214
+1_Portland_Atlanta,00:00,33.846099,-84.430349
+1_Portland_Atlanta,00:00,33.799388,-84.396731
+1_Portland_Atlanta,00:00,33.758183,-84.379013
